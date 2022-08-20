@@ -1,0 +1,1234 @@
+{
+  "1": {
+    "cost": 2,
+    "augments": 2
+  },
+  "2": {
+    "cost": 1,
+    "augments": 1
+  },
+  "3": {
+    "cost": 2,
+    "augments": 1
+  },
+  "4": {
+    "cost": 3,
+    "augments": 1
+  },
+  "5": {
+    "cost": 3,
+    "augments": 2
+  },
+  "6": {
+    "cost": 5,
+    "augments": 1
+  },
+  "7": {
+    "cost": 5,
+    "augments": 1
+  },
+  "8": {
+    "cost": 5,
+    "augments": 1
+  },
+  "9": {
+    "cost": 6,
+    "augments": 2
+  },
+  "10": {
+    "cost": 6,
+    "augments": 2
+  },
+  "11": {
+    "cost": 7,
+    "augments": 2
+  },
+  "12": {
+    "cost": 8,
+    "augments": 2
+  },
+  "13": {
+    "cost": 9,
+    "augments": 2
+  },
+  "14": {
+    "cost": 10,
+    "augments": 1
+  },
+  "15": {
+    "cost": 10,
+    "augments": 1
+  },
+  "16": {
+    "cost": 10,
+    "augments": 1
+  },
+  "17": {
+    "cost": 11,
+    "augments": 2
+  },
+  "18": {
+    "cost": 11,
+    "augments": 2
+  },
+  "19": {
+    "cost": 12,
+    "augments": 2
+  },
+  "20": {
+    "cost": 14,
+    "augments": 1
+  },
+  "21": {
+    "cost": 14,
+    "augments": 2
+  },
+  "22": {
+    "cost": 14,
+    "augments": 1
+  },
+  "23": {
+    "cost": 15,
+    "augments": 2
+  },
+  "24": {
+    "cost": 14,
+    "augments": 1
+  },
+  "25": {
+    "cost": 16,
+    "augments": 2
+  },
+  "26": {
+    "cost": 15,
+    "augments": 2
+  },
+  "27": {
+    "cost": 16,
+    "augments": 2
+  },
+  "28": {
+    "cost": 18,
+    "augments": 1
+  },
+  "29": {
+    "cost": 19,
+    "augments": 2
+  },
+  "30": {
+    "cost": 18,
+    "augments": 1
+  },
+  "31": {
+    "cost": 19,
+    "augments": 2
+  },
+  "32": {
+    "cost": 18,
+    "augments": 1
+  },
+  "33": {
+    "cost": 20,
+    "augments": 3
+  },
+  "34": {
+    "cost": 19,
+    "augments": 2
+  },
+  "35": {
+    "cost": 20,
+    "augments": 2
+  },
+  "36": {
+    "cost": 21,
+    "augments": 2
+  },
+  "37": {
+    "cost": 21,
+    "augments": 3
+  },
+  "38": {
+    "cost": 23,
+    "augments": 2
+  },
+  "39": {
+    "cost": 23,
+    "augments": 2
+  },
+  "40": {
+    "cost": 23,
+    "augments": 2
+  },
+  "41": {
+    "cost": 24,
+    "augments": 3
+  },
+  "42": {
+    "cost": 24,
+    "augments": 3
+  },
+  "43": {
+    "cost": 25,
+    "augments": 3
+  },
+  "44": {
+    "cost": 26,
+    "augments": 3
+  },
+  "45": {
+    "cost": 27,
+    "augments": 3
+  },
+  "46": {
+    "cost": 28,
+    "augments": 2
+  },
+  "47": {
+    "cost": 28,
+    "augments": 2
+  },
+  "48": {
+    "cost": 28,
+    "augments": 2
+  },
+  "49": {
+    "cost": 29,
+    "augments": 3
+  },
+  "50": {
+    "cost": 29,
+    "augments": 3
+  },
+  "51": {
+    "cost": 30,
+    "augments": 3
+  },
+  "52": {
+    "cost": 32,
+    "augments": 2
+  },
+  "53": {
+    "cost": 32,
+    "augments": 3
+  },
+  "54": {
+    "cost": 32,
+    "augments": 2
+  },
+  "55": {
+    "cost": 33,
+    "augments": 3
+  },
+  "56": {
+    "cost": 32,
+    "augments": 2
+  },
+  "57": {
+    "cost": 34,
+    "augments": 3
+  },
+  "58": {
+    "cost": 33,
+    "augments": 3
+  },
+  "59": {
+    "cost": 34,
+    "augments": 3
+  },
+  "60": {
+    "cost": 36,
+    "augments": 2
+  },
+  "61": {
+    "cost": 37,
+    "augments": 3
+  },
+  "62": {
+    "cost": 36,
+    "augments": 2
+  },
+  "63": {
+    "cost": 37,
+    "augments": 3
+  },
+  "64": {
+    "cost": 36,
+    "augments": 2
+  },
+  "65": {
+    "cost": 38,
+    "augments": 4
+  },
+  "66": {
+    "cost": 37,
+    "augments": 3
+  },
+  "67": {
+    "cost": 38,
+    "augments": 3
+  },
+  "68": {
+    "cost": 39,
+    "augments": 3
+  },
+  "69": {
+    "cost": 39,
+    "augments": 4
+  },
+  "70": {
+    "cost": 41,
+    "augments": 3
+  },
+  "71": {
+    "cost": 41,
+    "augments": 3
+  },
+  "72": {
+    "cost": 41,
+    "augments": 3
+  },
+  "73": {
+    "cost": 42,
+    "augments": 4
+  },
+  "74": {
+    "cost": 42,
+    "augments": 4
+  },
+  "75": {
+    "cost": 43,
+    "augments": 4
+  },
+  "76": {
+    "cost": 44,
+    "augments": 4
+  },
+  "77": {
+    "cost": 45,
+    "augments": 4
+  },
+  "78": {
+    "cost": 46,
+    "augments": 3
+  },
+  "79": {
+    "cost": 46,
+    "augments": 3
+  },
+  "80": {
+    "cost": 46,
+    "augments": 3
+  },
+  "81": {
+    "cost": 47,
+    "augments": 4
+  },
+  "82": {
+    "cost": 47,
+    "augments": 4
+  },
+  "83": {
+    "cost": 48,
+    "augments": 4
+  },
+  "84": {
+    "cost": 50,
+    "augments": 3
+  },
+  "85": {
+    "cost": 50,
+    "augments": 4
+  },
+  "86": {
+    "cost": 50,
+    "augments": 3
+  },
+  "87": {
+    "cost": 51,
+    "augments": 4
+  },
+  "88": {
+    "cost": 50,
+    "augments": 3
+  },
+  "89": {
+    "cost": 52,
+    "augments": 4
+  },
+  "90": {
+    "cost": 51,
+    "augments": 4
+  },
+  "91": {
+    "cost": 52,
+    "augments": 4
+  },
+  "92": {
+    "cost": 54,
+    "augments": 3
+  },
+  "93": {
+    "cost": 55,
+    "augments": 4
+  },
+  "94": {
+    "cost": 54,
+    "augments": 3
+  },
+  "95": {
+    "cost": 55,
+    "augments": 4
+  },
+  "96": {
+    "cost": 54,
+    "augments": 3
+  },
+  "97": {
+    "cost": 56,
+    "augments": 5
+  },
+  "98": {
+    "cost": 55,
+    "augments": 4
+  },
+  "99": {
+    "cost": 56,
+    "augments": 4
+  },
+  "100": {
+    "cost": 57,
+    "augments": 4
+  },
+  "101": {
+    "cost": 57,
+    "augments": 5
+  },
+  "102": {
+    "cost": 59,
+    "augments": 4
+  },
+  "103": {
+    "cost": 59,
+    "augments": 4
+  },
+  "104": {
+    "cost": 59,
+    "augments": 4
+  },
+  "105": {
+    "cost": 60,
+    "augments": 5
+  },
+  "106": {
+    "cost": 60,
+    "augments": 5
+  },
+  "107": {
+    "cost": 61,
+    "augments": 5
+  },
+  "108": {
+    "cost": 62,
+    "augments": 5
+  },
+  "109": {
+    "cost": 63,
+    "augments": 5
+  },
+  "110": {
+    "cost": 64,
+    "augments": 4
+  },
+  "111": {
+    "cost": 64,
+    "augments": 4
+  },
+  "112": {
+    "cost": 64,
+    "augments": 4
+  },
+  "113": {
+    "cost": 65,
+    "augments": 5
+  },
+  "114": {
+    "cost": 65,
+    "augments": 5
+  },
+  "115": {
+    "cost": 66,
+    "augments": 5
+  },
+  "116": {
+    "cost": 68,
+    "augments": 4
+  },
+  "117": {
+    "cost": 68,
+    "augments": 5
+  },
+  "118": {
+    "cost": 68,
+    "augments": 4
+  },
+  "119": {
+    "cost": 69,
+    "augments": 5
+  },
+  "120": {
+    "cost": 68,
+    "augments": 4
+  },
+  "121": {
+    "cost": 70,
+    "augments": 5
+  },
+  "122": {
+    "cost": 69,
+    "augments": 5
+  },
+  "123": {
+    "cost": 70,
+    "augments": 5
+  },
+  "124": {
+    "cost": 72,
+    "augments": 4
+  },
+  "125": {
+    "cost": 73,
+    "augments": 5
+  },
+  "126": {
+    "cost": 72,
+    "augments": 4
+  },
+  "127": {
+    "cost": 73,
+    "augments": 5
+  },
+  "128": {
+    "cost": 72,
+    "augments": 4
+  },
+  "129": {
+    "cost": 74,
+    "augments": 6
+  },
+  "130": {
+    "cost": 73,
+    "augments": 5
+  },
+  "131": {
+    "cost": 74,
+    "augments": 5
+  },
+  "132": {
+    "cost": 75,
+    "augments": 5
+  },
+  "133": {
+    "cost": 75,
+    "augments": 6
+  },
+  "134": {
+    "cost": 77,
+    "augments": 5
+  },
+  "135": {
+    "cost": 77,
+    "augments": 5
+  },
+  "136": {
+    "cost": 77,
+    "augments": 5
+  },
+  "137": {
+    "cost": 78,
+    "augments": 6
+  },
+  "138": {
+    "cost": 78,
+    "augments": 6
+  },
+  "139": {
+    "cost": 79,
+    "augments": 6
+  },
+  "140": {
+    "cost": 80,
+    "augments": 6
+  },
+  "141": {
+    "cost": 81,
+    "augments": 6
+  },
+  "142": {
+    "cost": 82,
+    "augments": 5
+  },
+  "143": {
+    "cost": 82,
+    "augments": 5
+  },
+  "144": {
+    "cost": 82,
+    "augments": 5
+  },
+  "145": {
+    "cost": 83,
+    "augments": 6
+  },
+  "146": {
+    "cost": 83,
+    "augments": 6
+  },
+  "147": {
+    "cost": 84,
+    "augments": 6
+  },
+  "148": {
+    "cost": 86,
+    "augments": 5
+  },
+  "149": {
+    "cost": 86,
+    "augments": 6
+  },
+  "150": {
+    "cost": 86,
+    "augments": 5
+  },
+  "151": {
+    "cost": 87,
+    "augments": 6
+  },
+  "152": {
+    "cost": 86,
+    "augments": 5
+  },
+  "153": {
+    "cost": 88,
+    "augments": 6
+  },
+  "154": {
+    "cost": 87,
+    "augments": 6
+  },
+  "155": {
+    "cost": 88,
+    "augments": 6
+  },
+  "156": {
+    "cost": 90,
+    "augments": 5
+  },
+  "157": {
+    "cost": 91,
+    "augments": 6
+  },
+  "158": {
+    "cost": 90,
+    "augments": 5
+  },
+  "159": {
+    "cost": 91,
+    "augments": 6
+  },
+  "160": {
+    "cost": 90,
+    "augments": 5
+  },
+  "161": {
+    "cost": 92,
+    "augments": 7
+  },
+  "162": {
+    "cost": 91,
+    "augments": 6
+  },
+  "163": {
+    "cost": 92,
+    "augments": 6
+  },
+  "164": {
+    "cost": 93,
+    "augments": 6
+  },
+  "165": {
+    "cost": 93,
+    "augments": 7
+  },
+  "166": {
+    "cost": 95,
+    "augments": 6
+  },
+  "167": {
+    "cost": 95,
+    "augments": 6
+  },
+  "168": {
+    "cost": 95,
+    "augments": 6
+  },
+  "169": {
+    "cost": 96,
+    "augments": 7
+  },
+  "170": {
+    "cost": 96,
+    "augments": 7
+  },
+  "171": {
+    "cost": 97,
+    "augments": 7
+  },
+  "172": {
+    "cost": 98,
+    "augments": 7
+  },
+  "173": {
+    "cost": 99,
+    "augments": 7
+  },
+  "174": {
+    "cost": 100,
+    "augments": 6
+  },
+  "175": {
+    "cost": 100,
+    "augments": 6
+  },
+  "176": {
+    "cost": 100,
+    "augments": 6
+  },
+  "177": {
+    "cost": 101,
+    "augments": 7
+  },
+  "178": {
+    "cost": 101,
+    "augments": 7
+  },
+  "179": {
+    "cost": 102,
+    "augments": 7
+  },
+  "180": {
+    "cost": 104,
+    "augments": 6
+  },
+  "181": {
+    "cost": 104,
+    "augments": 7
+  },
+  "182": {
+    "cost": 104,
+    "augments": 6
+  },
+  "183": {
+    "cost": 105,
+    "augments": 7
+  },
+  "184": {
+    "cost": 104,
+    "augments": 6
+  },
+  "185": {
+    "cost": 106,
+    "augments": 7
+  },
+  "186": {
+    "cost": 105,
+    "augments": 7
+  },
+  "187": {
+    "cost": 106,
+    "augments": 7
+  },
+  "188": {
+    "cost": 108,
+    "augments": 6
+  },
+  "189": {
+    "cost": 109,
+    "augments": 7
+  },
+  "190": {
+    "cost": 108,
+    "augments": 6
+  },
+  "191": {
+    "cost": 109,
+    "augments": 7
+  },
+  "192": {
+    "cost": 108,
+    "augments": 6
+  },
+  "193": {
+    "cost": 110,
+    "augments": 8
+  },
+  "194": {
+    "cost": 109,
+    "augments": 7
+  },
+  "195": {
+    "cost": 110,
+    "augments": 7
+  },
+  "196": {
+    "cost": 111,
+    "augments": 7
+  },
+  "197": {
+    "cost": 111,
+    "augments": 8
+  },
+  "198": {
+    "cost": 113,
+    "augments": 7
+  },
+  "199": {
+    "cost": 113,
+    "augments": 7
+  },
+  "200": {
+    "cost": 113,
+    "augments": 7
+  },
+  "201": {
+    "cost": 114,
+    "augments": 8
+  },
+  "202": {
+    "cost": 114,
+    "augments": 8
+  },
+  "203": {
+    "cost": 115,
+    "augments": 8
+  },
+  "204": {
+    "cost": 116,
+    "augments": 8
+  },
+  "205": {
+    "cost": 117,
+    "augments": 8
+  },
+  "206": {
+    "cost": 118,
+    "augments": 7
+  },
+  "207": {
+    "cost": 118,
+    "augments": 7
+  },
+  "208": {
+    "cost": 118,
+    "augments": 7
+  },
+  "209": {
+    "cost": 119,
+    "augments": 8
+  },
+  "210": {
+    "cost": 119,
+    "augments": 8
+  },
+  "211": {
+    "cost": 120,
+    "augments": 8
+  },
+  "212": {
+    "cost": 122,
+    "augments": 7
+  },
+  "213": {
+    "cost": 122,
+    "augments": 8
+  },
+  "214": {
+    "cost": 122,
+    "augments": 7
+  },
+  "215": {
+    "cost": 123,
+    "augments": 8
+  },
+  "216": {
+    "cost": 122,
+    "augments": 7
+  },
+  "217": {
+    "cost": 124,
+    "augments": 8
+  },
+  "218": {
+    "cost": 123,
+    "augments": 8
+  },
+  "219": {
+    "cost": 124,
+    "augments": 8
+  },
+  "220": {
+    "cost": 126,
+    "augments": 7
+  },
+  "221": {
+    "cost": 127,
+    "augments": 8
+  },
+  "222": {
+    "cost": 126,
+    "augments": 7
+  },
+  "223": {
+    "cost": 127,
+    "augments": 8
+  },
+  "224": {
+    "cost": 126,
+    "augments": 7
+  },
+  "-84": {
+    "cost": -35,
+    "augments": 7
+  },
+  "-83": {
+    "cost": -33,
+    "augments": 9
+  },
+  "-82": {
+    "cost": -34,
+    "augments": 8
+  },
+  "-81": {
+    "cost": -33,
+    "augments": 8
+  },
+  "-80": {
+    "cost": -32,
+    "augments": 8
+  },
+  "-79": {
+    "cost": -32,
+    "augments": 9
+  },
+  "-78": {
+    "cost": -33,
+    "augments": 7
+  },
+  "-77": {
+    "cost": -30,
+    "augments": 8
+  },
+  "-76": {
+    "cost": -32,
+    "augments": 8
+  },
+  "-75": {
+    "cost": -31,
+    "augments": 8
+  },
+  "-74": {
+    "cost": -30,
+    "augments": 8
+  },
+  "-73": {
+    "cost": -30,
+    "augments": 9
+  },
+  "-72": {
+    "cost": -30,
+    "augments": 6
+  },
+  "-71": {
+    "cost": -28,
+    "augments": 8
+  },
+  "-70": {
+    "cost": -29,
+    "augments": 7
+  },
+  "-69": {
+    "cost": -28,
+    "augments": 7
+  },
+  "-68": {
+    "cost": -27,
+    "augments": 7
+  },
+  "-67": {
+    "cost": -27,
+    "augments": 8
+  },
+  "-66": {
+    "cost": -28,
+    "augments": 6
+  },
+  "-65": {
+    "cost": -25,
+    "augments": 7
+  },
+  "-64": {
+    "cost": -27,
+    "augments": 7
+  },
+  "-63": {
+    "cost": -26,
+    "augments": 7
+  },
+  "-62": {
+    "cost": -25,
+    "augments": 7
+  },
+  "-61": {
+    "cost": -25,
+    "augments": 8
+  },
+  "-60": {
+    "cost": -25,
+    "augments": 5
+  },
+  "-59": {
+    "cost": -23,
+    "augments": 7
+  },
+  "-58": {
+    "cost": -24,
+    "augments": 6
+  },
+  "-57": {
+    "cost": -23,
+    "augments": 6
+  },
+  "-56": {
+    "cost": -22,
+    "augments": 6
+  },
+  "-55": {
+    "cost": -22,
+    "augments": 7
+  },
+  "-54": {
+    "cost": -23,
+    "augments": 5
+  },
+  "-53": {
+    "cost": -20,
+    "augments": 6
+  },
+  "-52": {
+    "cost": -22,
+    "augments": 6
+  },
+  "-51": {
+    "cost": -21,
+    "augments": 6
+  },
+  "-50": {
+    "cost": -20,
+    "augments": 6
+  },
+  "-49": {
+    "cost": -20,
+    "augments": 7
+  },
+  "-48": {
+    "cost": -20,
+    "augments": 4
+  },
+  "-47": {
+    "cost": -18,
+    "augments": 6
+  },
+  "-46": {
+    "cost": -19,
+    "augments": 5
+  },
+  "-45": {
+    "cost": -18,
+    "augments": 5
+  },
+  "-44": {
+    "cost": -17,
+    "augments": 5
+  },
+  "-43": {
+    "cost": -17,
+    "augments": 6
+  },
+  "-42": {
+    "cost": -18,
+    "augments": 4
+  },
+  "-41": {
+    "cost": -15,
+    "augments": 5
+  },
+  "-40": {
+    "cost": -17,
+    "augments": 5
+  },
+  "-39": {
+    "cost": -16,
+    "augments": 5
+  },
+  "-38": {
+    "cost": -15,
+    "augments": 5
+  },
+  "-37": {
+    "cost": -15,
+    "augments": 6
+  },
+  "-36": {
+    "cost": -15,
+    "augments": 3
+  },
+  "-35": {
+    "cost": -13,
+    "augments": 5
+  },
+  "-34": {
+    "cost": -14,
+    "augments": 4
+  },
+  "-33": {
+    "cost": -13,
+    "augments": 4
+  },
+  "-32": {
+    "cost": -12,
+    "augments": 4
+  },
+  "-31": {
+    "cost": -12,
+    "augments": 5
+  },
+  "-30": {
+    "cost": -13,
+    "augments": 3
+  },
+  "-29": {
+    "cost": -10,
+    "augments": 4
+  },
+  "-28": {
+    "cost": -12,
+    "augments": 4
+  },
+  "-27": {
+    "cost": -11,
+    "augments": 4
+  },
+  "-26": {
+    "cost": -10,
+    "augments": 4
+  },
+  "-25": {
+    "cost": -10,
+    "augments": 5
+  },
+  "-24": {
+    "cost": -10,
+    "augments": 2
+  },
+  "-23": {
+    "cost": -8,
+    "augments": 4
+  },
+  "-22": {
+    "cost": -9,
+    "augments": 3
+  },
+  "-21": {
+    "cost": -8,
+    "augments": 3
+  },
+  "-20": {
+    "cost": -7,
+    "augments": 3
+  },
+  "-19": {
+    "cost": -7,
+    "augments": 4
+  },
+  "-18": {
+    "cost": -8,
+    "augments": 2
+  },
+  "-17": {
+    "cost": -5,
+    "augments": 3
+  },
+  "-16": {
+    "cost": -7,
+    "augments": 3
+  },
+  "-15": {
+    "cost": -6,
+    "augments": 3
+  },
+  "-14": {
+    "cost": -5,
+    "augments": 3
+  },
+  "-13": {
+    "cost": -5,
+    "augments": 4
+  },
+  "-12": {
+    "cost": -5,
+    "augments": 1
+  },
+  "-11": {
+    "cost": -3,
+    "augments": 3
+  },
+  "-10": {
+    "cost": -4,
+    "augments": 2
+  },
+  "-9": {
+    "cost": -3,
+    "augments": 2
+  },
+  "-8": {
+    "cost": -2,
+    "augments": 2
+  },
+  "-7": {
+    "cost": -2,
+    "augments": 3
+  },
+  "-6": {
+    "cost": -3,
+    "augments": 1
+  },
+  "-5": {
+    "cost": 0,
+    "augments": 2
+  },
+  "-4": {
+    "cost": -2,
+    "augments": 2
+  },
+  "-3": {
+    "cost": -1,
+    "augments": 2
+  },
+  "-2": {
+    "cost": 0,
+    "augments": 2
+  },
+  "-1": {
+    "cost": 0,
+    "augments": 3
+  }
+}

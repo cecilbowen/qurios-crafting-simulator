@@ -1,0 +1,7337 @@
+[
+  {
+    "name": "Magmadron Helm",
+    "defense": 112,
+    "resistances": {
+      "fire": 5,
+      "water": -5,
+      "ice": -4,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "slots": [
+      3
+    ],
+    "skills": [
+      {
+        "name": "Resentment",
+        "level": 1
+      },
+      {
+        "name": "Heroics",
+        "level": 2
+      },
+      {
+        "name": "Fire Attack",
+        "level": 3
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1115237306",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1115237306_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1115237306_f.webp"
+    },
+    "setID": "400",
+    "setName": "Magmadron",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Magmadron Mail",
+    "defense": 112,
+    "resistances": {
+      "fire": 5,
+      "water": -5,
+      "ice": -4,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "slots": [
+      4,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Resuscitate",
+        "level": 1
+      },
+      {
+        "name": "Heroics",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1080634298",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1080634298_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1080634298_f.webp"
+    },
+    "setID": "400",
+    "setName": "Magmadron",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Magmadron Vambraces",
+    "defense": 112,
+    "resistances": {
+      "fire": 5,
+      "water": -5,
+      "ice": -4,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "slots": [
+      3
+    ],
+    "skills": [
+      {
+        "name": "Resentment",
+        "level": 1
+      },
+      {
+        "name": "Guard Up",
+        "level": 2
+      },
+      {
+        "name": "Heroics",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1180249018",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1180249018_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1180249018_f.webp"
+    },
+    "setID": "400",
+    "setName": "Magmadron",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Magmadron Coil",
+    "defense": 112,
+    "resistances": {
+      "fire": 5,
+      "water": -5,
+      "ice": -4,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "slots": [
+      3,
+      3
+    ],
+    "skills": [
+      {
+        "name": "Resuscitate",
+        "level": 1
+      },
+      {
+        "name": "Guard Up",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1145646010",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1145646010_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1145646010_f.webp"
+    },
+    "setID": "400",
+    "setName": "Magmadron",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Magmadron Greaves",
+    "defense": 112,
+    "resistances": {
+      "fire": 5,
+      "water": -5,
+      "ice": -4,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "slots": [
+      3,
+      3
+    ],
+    "skills": [
+      {
+        "name": "Resuscitate",
+        "level": 1
+      },
+      {
+        "name": "Resentment",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1513696186",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1513696186_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1513696186_f.webp"
+    },
+    "setID": "400",
+    "setName": "Magmadron",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Pyre-Kadaki Helm",
+    "defense": 112,
+    "resistances": {
+      "fire": 2,
+      "water": -4,
+      "ice": -2,
+      "thunder": 2,
+      "dragon": 2
+    },
+    "slots": [
+      4,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Maximum Might",
+        "level": 1
+      },
+      {
+        "name": "Blast Attack",
+        "level": 1
+      },
+      {
+        "name": "Wirebug Whisperer",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1087278052",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1087278052_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1087278052_f.webp"
+    },
+    "setID": "398",
+    "setName": "Pyre-Kadaki",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Pyre-Kadaki Mail",
+    "defense": 112,
+    "resistances": {
+      "fire": 2,
+      "water": -4,
+      "ice": -2,
+      "thunder": 2,
+      "dragon": 2
+    },
+    "slots": [
+      2,
+      2,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Maximum Might",
+        "level": 1
+      },
+      {
+        "name": "Wirebug Whisperer",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1186892772",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1186892772_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1186892772_f.webp"
+    },
+    "setID": "398",
+    "setName": "Pyre-Kadaki",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Pyre-Kadaki Braces",
+    "defense": 112,
+    "resistances": {
+      "fire": 2,
+      "water": -4,
+      "ice": -2,
+      "thunder": 2,
+      "dragon": 2
+    },
+    "slots": [
+      4
+    ],
+    "skills": [
+      {
+        "name": "Maximum Might",
+        "level": 1
+      },
+      {
+        "name": "Rapid Morph",
+        "level": 2
+      },
+      {
+        "name": "Blast Resistance",
+        "level": 1
+      },
+      {
+        "name": "Tune-Up",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1152289764",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1152289764_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1152289764_f.webp"
+    },
+    "setID": "398",
+    "setName": "Pyre-Kadaki",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Pyre-Kadaki Coil",
+    "defense": 112,
+    "resistances": {
+      "fire": 2,
+      "water": -4,
+      "ice": -2,
+      "thunder": 2,
+      "dragon": 2
+    },
+    "slots": [
+      3
+    ],
+    "skills": [
+      {
+        "name": "Peak Performance",
+        "level": 2
+      },
+      {
+        "name": "Blast Attack",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1520339940",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1520339940_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1520339940_f.webp"
+    },
+    "setID": "398",
+    "setName": "Pyre-Kadaki",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Pyre-Kadaki Greaves",
+    "defense": 112,
+    "resistances": {
+      "fire": 2,
+      "water": -4,
+      "ice": -2,
+      "thunder": 2,
+      "dragon": 2
+    },
+    "slots": [
+      4,
+      2,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Peak Performance",
+        "level": 1
+      },
+      {
+        "name": "Blast Resistance",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1485736932",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1485736932_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1485736932_f.webp"
+    },
+    "setID": "398",
+    "setName": "Pyre-Kadaki",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Pyre-Kadaki Helm",
+    "defense": 112,
+    "resistances": {
+      "fire": 2,
+      "water": -4,
+      "ice": -2,
+      "thunder": 2,
+      "dragon": 2
+    },
+    "slots": [
+      4,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Maximum Might",
+        "level": 1
+      },
+      {
+        "name": "Blast Attack",
+        "level": 1
+      },
+      {
+        "name": "Wirebug Whisperer",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1101527941",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1101527941_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1101527941_f.webp"
+    },
+    "setID": "398",
+    "setName": "Pyre-Kadaki",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Pyre-Kadaki Mail",
+    "defense": 112,
+    "resistances": {
+      "fire": 2,
+      "water": -4,
+      "ice": -2,
+      "thunder": 2,
+      "dragon": 2
+    },
+    "slots": [
+      2,
+      2,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Maximum Might",
+        "level": 1
+      },
+      {
+        "name": "Wirebug Whisperer",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1201142661",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1201142661_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1201142661_f.webp"
+    },
+    "setID": "398",
+    "setName": "Pyre-Kadaki",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Pyre-Kadaki Braces",
+    "defense": 112,
+    "resistances": {
+      "fire": 2,
+      "water": -4,
+      "ice": -2,
+      "thunder": 2,
+      "dragon": 2
+    },
+    "slots": [
+      4
+    ],
+    "skills": [
+      {
+        "name": "Maximum Might",
+        "level": 1
+      },
+      {
+        "name": "Rapid Morph",
+        "level": 2
+      },
+      {
+        "name": "Blast Resistance",
+        "level": 1
+      },
+      {
+        "name": "Tune-Up",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1166539653",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1166539653_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1166539653_f.webp"
+    },
+    "setID": "398",
+    "setName": "Pyre-Kadaki",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Pyre-Kadaki Coil",
+    "defense": 112,
+    "resistances": {
+      "fire": 2,
+      "water": -4,
+      "ice": -2,
+      "thunder": 2,
+      "dragon": 2
+    },
+    "slots": [
+      3
+    ],
+    "skills": [
+      {
+        "name": "Peak Performance",
+        "level": 2
+      },
+      {
+        "name": "Blast Attack",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1534589829",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1534589829_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1534589829_f.webp"
+    },
+    "setID": "398",
+    "setName": "Pyre-Kadaki",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Pyre-Kadaki Greaves",
+    "defense": 112,
+    "resistances": {
+      "fire": 2,
+      "water": -4,
+      "ice": -2,
+      "thunder": 2,
+      "dragon": 2
+    },
+    "slots": [
+      4,
+      2,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Peak Performance",
+        "level": 1
+      },
+      {
+        "name": "Blast Resistance",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1499986821",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1499986821_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1499986821_f.webp"
+    },
+    "setID": "398",
+    "setName": "Pyre-Kadaki",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Utsushi True Mask (V)",
+    "defense": 110,
+    "resistances": {
+      "fire": 3,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "slots": [
+      2
+    ],
+    "skills": [
+      {
+        "name": "Speed Eating",
+        "level": 2
+      },
+      {
+        "name": "Free Meal",
+        "level": 1
+      },
+      {
+        "name": "Good Luck",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1854946666",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1854946666_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1854946666_f.webp"
+    },
+    "setID": "320",
+    "setName": "Utsushi True (Visible)",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Utsushi True Chest (V)",
+    "defense": 110,
+    "resistances": {
+      "fire": 3,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "slots": [
+      2,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Wide-Range",
+        "level": 1
+      },
+      {
+        "name": "Good Luck",
+        "level": 1
+      },
+      {
+        "name": "Recovery Up",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1820343658",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1820343658_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1820343658_f.webp"
+    },
+    "setID": "320",
+    "setName": "Utsushi True (Visible)",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Utsushi True Braces (V)",
+    "defense": 110,
+    "resistances": {
+      "fire": 3,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "slots": [
+      4
+    ],
+    "skills": [
+      {
+        "name": "Wide-Range",
+        "level": 2
+      },
+      {
+        "name": "Recovery Up",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1651522922",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1651522922_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1651522922_f.webp"
+    },
+    "setID": "320",
+    "setName": "Utsushi True (Visible)",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Utsushi True Tassets (V)",
+    "defense": 110,
+    "resistances": {
+      "fire": 3,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "slots": [
+      4
+    ],
+    "skills": [
+      {
+        "name": "Speed Eating",
+        "level": 1
+      },
+      {
+        "name": "Free Meal",
+        "level": 1
+      },
+      {
+        "name": "Recovery Up",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1616919914",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1616919914_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1616919914_f.webp"
+    },
+    "setID": "320",
+    "setName": "Utsushi True (Visible)",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Utsushi True Greaves (V)",
+    "defense": 110,
+    "resistances": {
+      "fire": 3,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "slots": [
+      2
+    ],
+    "skills": [
+      {
+        "name": "Wide-Range",
+        "level": 2
+      },
+      {
+        "name": "Free Meal",
+        "level": 1
+      },
+      {
+        "name": "Good Luck",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1716534634",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1716534634_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1716534634_f.webp"
+    },
+    "setID": "320",
+    "setName": "Utsushi True (Visible)",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Channeler's Hair Tie (Spring)",
+    "defense": 110,
+    "resistances": {
+      "fire": 3,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "slots": [
+      1
+    ],
+    "skills": [
+      {
+        "name": "Razor Sharp",
+        "level": 2
+      },
+      {
+        "name": "Spare Shot",
+        "level": 2
+      },
+      {
+        "name": "Wirebug Whisperer",
+        "level": 1
+      },
+      {
+        "name": "Attack Boost",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1869180171",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1869180171_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1869180171_f.webp"
+    },
+    "setID": "321",
+    "setName": "Channeler (Spring)",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Channeler's Robe (Spring)",
+    "defense": 110,
+    "resistances": {
+      "fire": 3,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "slots": [
+      1
+    ],
+    "skills": [
+      {
+        "name": "Razor Sharp",
+        "level": 1
+      },
+      {
+        "name": "Spare Shot",
+        "level": 1
+      },
+      {
+        "name": "Evade Window",
+        "level": 3
+      },
+      {
+        "name": "Agitator",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1834577163",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1834577163_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1834577163_f.webp"
+    },
+    "setID": "321",
+    "setName": "Channeler (Spring)",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Channeler's Hope (Spring)",
+    "defense": 110,
+    "resistances": {
+      "fire": 3,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "slots": [
+      2
+    ],
+    "skills": [
+      {
+        "name": "Evade Window",
+        "level": 1
+      },
+      {
+        "name": "Wirebug Whisperer",
+        "level": 1
+      },
+      {
+        "name": "Attack Boost",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1665756427",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1665756427_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1665756427_f.webp"
+    },
+    "setID": "321",
+    "setName": "Channeler (Spring)",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Channeler's Obi (Spring)",
+    "defense": 110,
+    "resistances": {
+      "fire": 3,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "slots": [
+      2
+    ],
+    "skills": [
+      {
+        "name": "Agitator",
+        "level": 2
+      },
+      {
+        "name": "Wirebug Whisperer",
+        "level": 1
+      },
+      {
+        "name": "Attack Boost",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1631153419",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1631153419_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1631153419_f.webp"
+    },
+    "setID": "321",
+    "setName": "Channeler (Spring)",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Channeler's Hakama (Spring)",
+    "defense": 110,
+    "resistances": {
+      "fire": 3,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Evade Window",
+        "level": 1
+      },
+      {
+        "name": "Agitator",
+        "level": 1
+      },
+      {
+        "name": "Attack Boost",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1730768139",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1730768139_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1730768139_f.webp"
+    },
+    "setID": "321",
+    "setName": "Channeler (Spring)",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Utsushi True Mask (H)",
+    "defense": 110,
+    "resistances": {
+      "fire": 3,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "slots": [
+      1
+    ],
+    "skills": [
+      {
+        "name": "Razor Sharp",
+        "level": 2
+      },
+      {
+        "name": "Spare Shot",
+        "level": 2
+      },
+      {
+        "name": "Wirebug Whisperer",
+        "level": 1
+      },
+      {
+        "name": "Attack Boost",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1749212456",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1749212456_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1749212456_f.webp"
+    },
+    "setID": "322",
+    "setName": "Utsushi True (Hidden)",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Utsushi True Chest (H)",
+    "defense": 110,
+    "resistances": {
+      "fire": 3,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "slots": [
+      1
+    ],
+    "skills": [
+      {
+        "name": "Razor Sharp",
+        "level": 1
+      },
+      {
+        "name": "Spare Shot",
+        "level": 1
+      },
+      {
+        "name": "Evade Window",
+        "level": 3
+      },
+      {
+        "name": "Agitator",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1848827176",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1848827176_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1848827176_f.webp"
+    },
+    "setID": "322",
+    "setName": "Utsushi True (Hidden)",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Utsushi True Braces (H)",
+    "defense": 110,
+    "resistances": {
+      "fire": 3,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "slots": [
+      2
+    ],
+    "skills": [
+      {
+        "name": "Evade Window",
+        "level": 1
+      },
+      {
+        "name": "Wirebug Whisperer",
+        "level": 1
+      },
+      {
+        "name": "Attack Boost",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1814224168",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1814224168_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1814224168_f.webp"
+    },
+    "setID": "322",
+    "setName": "Utsushi True (Hidden)",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Utsushi True Tassets (H)",
+    "defense": 110,
+    "resistances": {
+      "fire": 3,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "slots": [
+      2
+    ],
+    "skills": [
+      {
+        "name": "Agitator",
+        "level": 2
+      },
+      {
+        "name": "Wirebug Whisperer",
+        "level": 1
+      },
+      {
+        "name": "Attack Boost",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1645403432",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1645403432_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1645403432_f.webp"
+    },
+    "setID": "322",
+    "setName": "Utsushi True (Hidden)",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Utsushi True Greaves (H)",
+    "defense": 110,
+    "resistances": {
+      "fire": 3,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Evade Window",
+        "level": 1
+      },
+      {
+        "name": "Agitator",
+        "level": 1
+      },
+      {
+        "name": "Attack Boost",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1610800424",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1610800424_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1610800424_f.webp"
+    },
+    "setID": "322",
+    "setName": "Utsushi True (Hidden)",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Medium's Hair Tie (Light)",
+    "defense": 110,
+    "resistances": {
+      "fire": 3,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "slots": [
+      2
+    ],
+    "skills": [
+      {
+        "name": "Speed Eating",
+        "level": 2
+      },
+      {
+        "name": "Free Meal",
+        "level": 1
+      },
+      {
+        "name": "Good Luck",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1763970249",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1763970249_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1763970249_f.webp"
+    },
+    "setID": "323",
+    "setName": "Medium (Light)",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Medium's Robe (Light)",
+    "defense": 110,
+    "resistances": {
+      "fire": 3,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "slots": [
+      2,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Wide-Range",
+        "level": 1
+      },
+      {
+        "name": "Good Luck",
+        "level": 1
+      },
+      {
+        "name": "Recovery Up",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1863584969",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1863584969_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1863584969_f.webp"
+    },
+    "setID": "323",
+    "setName": "Medium (Light)",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Medium's Prayer (Light)",
+    "defense": 110,
+    "resistances": {
+      "fire": 3,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "slots": [
+      4
+    ],
+    "skills": [
+      {
+        "name": "Wide-Range",
+        "level": 2
+      },
+      {
+        "name": "Recovery Up",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1828981961",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1828981961_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1828981961_f.webp"
+    },
+    "setID": "323",
+    "setName": "Medium (Light)",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Medium's Obi (Light)",
+    "defense": 110,
+    "resistances": {
+      "fire": 3,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "slots": [
+      4
+    ],
+    "skills": [
+      {
+        "name": "Speed Eating",
+        "level": 1
+      },
+      {
+        "name": "Free Meal",
+        "level": 1
+      },
+      {
+        "name": "Recovery Up",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1827933385",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1827933385_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1827933385_f.webp"
+    },
+    "setID": "323",
+    "setName": "Medium (Light)",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Medium's Hakama (Light)",
+    "defense": 110,
+    "resistances": {
+      "fire": 3,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "slots": [
+      2
+    ],
+    "skills": [
+      {
+        "name": "Wide-Range",
+        "level": 2
+      },
+      {
+        "name": "Free Meal",
+        "level": 1
+      },
+      {
+        "name": "Good Luck",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1659112649",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1659112649_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1659112649_f.webp"
+    },
+    "setID": "323",
+    "setName": "Medium (Light)",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Chrome Metal Coil X",
+    "defense": 110,
+    "resistances": {
+      "fire": -2,
+      "water": -2,
+      "ice": -2,
+      "thunder": -2,
+      "dragon": -2
+    },
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Flinch Free",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/641668764",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/641668764_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/641668764_f.webp"
+    },
+    "setID": "374",
+    "setName": "Chrome Metal X",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Chrome Metal Boots X",
+    "defense": 110,
+    "resistances": {
+      "fire": -2,
+      "water": -2,
+      "ice": -2,
+      "thunder": -2,
+      "dragon": -2
+    },
+    "slots": [
+      4
+    ],
+    "skills": [
+      {
+        "name": "Flinch Free",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/607065756",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/607065756_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/607065756_f.webp"
+    },
+    "setID": "374",
+    "setName": "Chrome Metal X",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Uroktor Torso X",
+    "defense": 112,
+    "resistances": {
+      "fire": 4,
+      "water": -2,
+      "ice": -1,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "slots": [
+      2,
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Guard Up",
+        "level": 2
+      },
+      {
+        "name": "Special Ammo Boost",
+        "level": 2
+      },
+      {
+        "name": "Evade Window",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/268407220",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/268407220_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/268407220_f.webp"
+    },
+    "setID": "350",
+    "setName": "Uroktor X",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Uroktor Coil X",
+    "defense": 112,
+    "resistances": {
+      "fire": 4,
+      "water": -2,
+      "ice": -1,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "slots": [
+      3
+    ],
+    "skills": [
+      {
+        "name": "Guard Up",
+        "level": 1
+      },
+      {
+        "name": "Special Ammo Boost",
+        "level": 1
+      },
+      {
+        "name": "Evade Window",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/64983476",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/64983476_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/64983476_f.webp"
+    },
+    "setID": "350",
+    "setName": "Uroktor X",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Remobra Headgear X",
+    "defense": 112,
+    "resistances": {
+      "fire": 1,
+      "water": 1,
+      "ice": 1,
+      "thunder": 1,
+      "dragon": 3
+    },
+    "slots": [
+      4,
+      2,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Windproof",
+        "level": 1
+      },
+      {
+        "name": "Poison Attack",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/240972278",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/240972278_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/240972278_f.webp"
+    },
+    "setID": "348",
+    "setName": "Remobra X",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Remobra Suit X",
+    "defense": 112,
+    "resistances": {
+      "fire": 1,
+      "water": 1,
+      "ice": 1,
+      "thunder": 1,
+      "dragon": 3
+    },
+    "slots": [
+      3,
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Critical Boost",
+        "level": 1
+      },
+      {
+        "name": "Poison Attack",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/206369270",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/206369270_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/206369270_f.webp"
+    },
+    "setID": "348",
+    "setName": "Remobra X",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Remobra Gloves X",
+    "defense": 112,
+    "resistances": {
+      "fire": 1,
+      "water": 1,
+      "ice": 1,
+      "thunder": 1,
+      "dragon": 3
+    },
+    "slots": [
+      4,
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Critical Element",
+        "level": 1
+      },
+      {
+        "name": "Windproof",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/37548534",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/37548534_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/37548534_f.webp"
+    },
+    "setID": "348",
+    "setName": "Remobra X",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Remobra Belt X",
+    "defense": 112,
+    "resistances": {
+      "fire": 1,
+      "water": 1,
+      "ice": 1,
+      "thunder": 1,
+      "dragon": 3
+    },
+    "slots": [
+      2,
+      2
+    ],
+    "skills": [
+      {
+        "name": "Critical Element",
+        "level": 2
+      },
+      {
+        "name": "Poison Resistance",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/2945526",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/2945526_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/2945526_f.webp"
+    },
+    "setID": "348",
+    "setName": "Remobra X",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Remobra Feet X",
+    "defense": 112,
+    "resistances": {
+      "fire": 1,
+      "water": 1,
+      "ice": 1,
+      "thunder": 1,
+      "dragon": 3
+    },
+    "slots": [
+      4,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Weakness Exploit",
+        "level": 1
+      },
+      {
+        "name": "Poison Resistance",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/102560246",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/102560246_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/102560246_f.webp"
+    },
+    "setID": "348",
+    "setName": "Remobra X",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Mizutsune Helm X",
+    "defense": 114,
+    "resistances": {
+      "fire": 0,
+      "water": 2,
+      "ice": 1,
+      "thunder": -3,
+      "dragon": -1
+    },
+    "slots": [
+      2,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Resuscitate",
+        "level": 1
+      },
+      {
+        "name": "Evade Window",
+        "level": 2
+      },
+      {
+        "name": "Constitution",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1443546549",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1443546549_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1443546549_f.webp"
+    },
+    "setID": "383",
+    "setName": "Mizutsune X",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Mizutsune Mail X",
+    "defense": 114,
+    "resistances": {
+      "fire": 0,
+      "water": 2,
+      "ice": 1,
+      "thunder": -3,
+      "dragon": -1
+    },
+    "slots": [
+      2
+    ],
+    "skills": [
+      {
+        "name": "Bubbly Dance",
+        "level": 1
+      },
+      {
+        "name": "Resuscitate",
+        "level": 1
+      },
+      {
+        "name": "Constitution",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1442497973",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1442497973_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1442497973_f.webp"
+    },
+    "setID": "383",
+    "setName": "Mizutsune X",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Mizutsune Braces X",
+    "defense": 114,
+    "resistances": {
+      "fire": 0,
+      "water": 2,
+      "ice": 1,
+      "thunder": -3,
+      "dragon": -1
+    },
+    "slots": [
+      4,
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Resuscitate",
+        "level": 1
+      },
+      {
+        "name": "Free Meal",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/736806325",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/736806325_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/736806325_f.webp"
+    },
+    "setID": "383",
+    "setName": "Mizutsune X",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Mizutsune Coil X",
+    "defense": 114,
+    "resistances": {
+      "fire": 0,
+      "water": 2,
+      "ice": 1,
+      "thunder": -3,
+      "dragon": -1
+    },
+    "slots": [
+      4,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Bubbly Dance",
+        "level": 1
+      },
+      {
+        "name": "Free Meal",
+        "level": 1
+      },
+      {
+        "name": "Constitution",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/702203317",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/702203317_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/702203317_f.webp"
+    },
+    "setID": "383",
+    "setName": "Mizutsune X",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Mizutsune Greaves X",
+    "defense": 114,
+    "resistances": {
+      "fire": 0,
+      "water": 2,
+      "ice": 1,
+      "thunder": -3,
+      "dragon": -1
+    },
+    "slots": [
+      3,
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Bubbly Dance",
+        "level": 1
+      },
+      {
+        "name": "Evade Window",
+        "level": 1
+      },
+      {
+        "name": "Constitution",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/801818037",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/801818037_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/801818037_f.webp"
+    },
+    "setID": "383",
+    "setName": "Mizutsune X",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Rathalos Helm X",
+    "defense": 114,
+    "resistances": {
+      "fire": 3,
+      "water": 1,
+      "ice": 1,
+      "thunder": -2,
+      "dragon": -3
+    },
+    "slots": [
+      4
+    ],
+    "skills": [
+      {
+        "name": "Attack Boost",
+        "level": 1
+      },
+      {
+        "name": "Partbreaker",
+        "level": 1
+      },
+      {
+        "name": "Critical Boost",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1030086755",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1030086755_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1030086755_f.webp"
+    },
+    "setID": "361",
+    "setName": "Rathalos X",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Rathalos Mail X",
+    "defense": 114,
+    "resistances": {
+      "fire": 3,
+      "water": 1,
+      "ice": 1,
+      "thunder": -2,
+      "dragon": -3
+    },
+    "slots": [
+      3
+    ],
+    "skills": [
+      {
+        "name": "Attack Boost",
+        "level": 1
+      },
+      {
+        "name": "Partbreaker",
+        "level": 1
+      },
+      {
+        "name": "Earplugs",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/861266019",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/861266019_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/861266019_f.webp"
+    },
+    "setID": "361",
+    "setName": "Rathalos X",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Rathalos Braces X",
+    "defense": 114,
+    "resistances": {
+      "fire": 3,
+      "water": 1,
+      "ice": 1,
+      "thunder": -2,
+      "dragon": -3
+    },
+    "slots": [
+      2
+    ],
+    "skills": [
+      {
+        "name": "Attack Boost",
+        "level": 2
+      },
+      {
+        "name": "Earplugs",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/826663011",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/826663011_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/826663011_f.webp"
+    },
+    "setID": "361",
+    "setName": "Rathalos X",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Rathalos Coil X",
+    "defense": 114,
+    "resistances": {
+      "fire": 3,
+      "water": 1,
+      "ice": 1,
+      "thunder": -2,
+      "dragon": -3
+    },
+    "slots": [
+      2
+    ],
+    "skills": [
+      {
+        "name": "Attack Boost",
+        "level": 2
+      },
+      {
+        "name": "Windproof",
+        "level": 3
+      },
+      {
+        "name": "Critical Boost",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/926277731",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/926277731_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/926277731_f.webp"
+    },
+    "setID": "361",
+    "setName": "Rathalos X",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Rathalos Greaves X",
+    "defense": 114,
+    "resistances": {
+      "fire": 3,
+      "water": 1,
+      "ice": 1,
+      "thunder": -2,
+      "dragon": -3
+    },
+    "slots": [
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Attack Boost",
+        "level": 1
+      },
+      {
+        "name": "Partbreaker",
+        "level": 1
+      },
+      {
+        "name": "Earplugs",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/891674723",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/891674723_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/891674723_f.webp"
+    },
+    "setID": "361",
+    "setName": "Rathalos X",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Zinogre Helm X",
+    "defense": 116,
+    "resistances": {
+      "fire": 0,
+      "water": -1,
+      "ice": -4,
+      "thunder": 4,
+      "dragon": 1
+    },
+    "slots": [
+      3
+    ],
+    "skills": [
+      {
+        "name": "Latent Power",
+        "level": 1
+      },
+      {
+        "name": "Weakness Exploit",
+        "level": 1
+      },
+      {
+        "name": "Critical Element",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/985868263",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/985868263_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/985868263_f.webp"
+    },
+    "setID": "365",
+    "setName": "Zinogre X",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Zinogre Mail X",
+    "defense": 116,
+    "resistances": {
+      "fire": 0,
+      "water": -1,
+      "ice": -4,
+      "thunder": 4,
+      "dragon": 1
+    },
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Latent Power",
+        "level": 1
+      },
+      {
+        "name": "Weakness Exploit",
+        "level": 2
+      },
+      {
+        "name": "Thunder Attack",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/951265255",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/951265255_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/951265255_f.webp"
+    },
+    "setID": "365",
+    "setName": "Zinogre X",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Zinogre Braces X",
+    "defense": 116,
+    "resistances": {
+      "fire": 0,
+      "water": -1,
+      "ice": -4,
+      "thunder": 4,
+      "dragon": 1
+    },
+    "slots": [
+      2
+    ],
+    "skills": [
+      {
+        "name": "Latent Power",
+        "level": 1
+      },
+      {
+        "name": "Constitution",
+        "level": 2
+      },
+      {
+        "name": "Critical Element",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1050879975",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1050879975_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1050879975_f.webp"
+    },
+    "setID": "365",
+    "setName": "Zinogre X",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Zinogre Coil X",
+    "defense": 116,
+    "resistances": {
+      "fire": 0,
+      "water": -1,
+      "ice": -4,
+      "thunder": 4,
+      "dragon": 1
+    },
+    "slots": [
+      3,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Latent Power",
+        "level": 1
+      },
+      {
+        "name": "Critical Element",
+        "level": 1
+      },
+      {
+        "name": "Thunder Attack",
+        "level": 3
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1016276967",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1016276967_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1016276967_f.webp"
+    },
+    "setID": "365",
+    "setName": "Zinogre X",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Zinogre Greaves X",
+    "defense": 116,
+    "resistances": {
+      "fire": 0,
+      "water": -1,
+      "ice": -4,
+      "thunder": 4,
+      "dragon": 1
+    },
+    "slots": [
+      1
+    ],
+    "skills": [
+      {
+        "name": "Latent Power",
+        "level": 1
+      },
+      {
+        "name": "Constitution",
+        "level": 3
+      },
+      {
+        "name": "Wirebug Whisperer",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/847456231",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/847456231_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/847456231_f.webp"
+    },
+    "setID": "365",
+    "setName": "Zinogre X",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Tigrex Helm X",
+    "defense": 118,
+    "resistances": {
+      "fire": 2,
+      "water": 0,
+      "ice": 0,
+      "thunder": -3,
+      "dragon": -2
+    },
+    "slots": [
+      4,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Earplugs",
+        "level": 1
+      },
+      {
+        "name": "Speed Eating",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1044336640",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1044336640_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1044336640_f.webp"
+    },
+    "setID": "362",
+    "setName": "Tigrex X",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Tigrex Mail X",
+    "defense": 118,
+    "resistances": {
+      "fire": 2,
+      "water": 0,
+      "ice": 0,
+      "thunder": -3,
+      "dragon": -2
+    },
+    "slots": [
+      2,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Earplugs",
+        "level": 2
+      },
+      {
+        "name": "Peak Performance",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1009733632",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1009733632_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1009733632_f.webp"
+    },
+    "setID": "362",
+    "setName": "Tigrex X",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Tigrex Braces X",
+    "defense": 118,
+    "resistances": {
+      "fire": 2,
+      "water": 0,
+      "ice": 0,
+      "thunder": -3,
+      "dragon": -2
+    },
+    "slots": [
+      4
+    ],
+    "skills": [
+      {
+        "name": "Mind's Eye",
+        "level": 1
+      },
+      {
+        "name": "Peak Performance",
+        "level": 1
+      },
+      {
+        "name": "Stun Resistance",
+        "level": 3
+      },
+      {
+        "name": "Normal/Rapid Up",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/840912896",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/840912896_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/840912896_f.webp"
+    },
+    "setID": "362",
+    "setName": "Tigrex X",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Tigrex Coil X",
+    "defense": 118,
+    "resistances": {
+      "fire": 2,
+      "water": 0,
+      "ice": 0,
+      "thunder": -3,
+      "dragon": -2
+    },
+    "slots": [
+      2,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Earplugs",
+        "level": 2
+      },
+      {
+        "name": "Peak Performance",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/806309888",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/806309888_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/806309888_f.webp"
+    },
+    "setID": "362",
+    "setName": "Tigrex X",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Tigrex Greaves X",
+    "defense": 118,
+    "resistances": {
+      "fire": 2,
+      "water": 0,
+      "ice": 0,
+      "thunder": -3,
+      "dragon": -2
+    },
+    "slots": [
+      3
+    ],
+    "skills": [
+      {
+        "name": "Speed Eating",
+        "level": 2
+      },
+      {
+        "name": "Mind's Eye",
+        "level": 2
+      },
+      {
+        "name": "Normal/Rapid Up",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/939479040",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/939479040_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/939479040_f.webp"
+    },
+    "setID": "362",
+    "setName": "Tigrex X",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Diablos Helm X",
+    "defense": 118,
+    "resistances": {
+      "fire": 3,
+      "water": -1,
+      "ice": -3,
+      "thunder": -1,
+      "dragon": -1
+    },
+    "slots": [
+      3
+    ],
+    "skills": [
+      {
+        "name": "Guard",
+        "level": 3
+      },
+      {
+        "name": "Tremor Resistance",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1058045985",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1058045985_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1058045985_f.webp"
+    },
+    "setID": "363",
+    "setName": "Diablos X",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Diablos Mail X",
+    "defense": 118,
+    "resistances": {
+      "fire": 3,
+      "water": -1,
+      "ice": -3,
+      "thunder": -1,
+      "dragon": -1
+    },
+    "slots": [
+      3
+    ],
+    "skills": [
+      {
+        "name": "Guard",
+        "level": 2
+      },
+      {
+        "name": "Offensive Guard",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1023442977",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1023442977_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1023442977_f.webp"
+    },
+    "setID": "363",
+    "setName": "Diablos X",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Diablos Vambraces X",
+    "defense": 118,
+    "resistances": {
+      "fire": 3,
+      "water": -1,
+      "ice": -3,
+      "thunder": -1,
+      "dragon": -1
+    },
+    "slots": [
+      2,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Offensive Guard",
+        "level": 2
+      },
+      {
+        "name": "Stamina Surge",
+        "level": 1
+      },
+      {
+        "name": "Pierce Up",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1022394401",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1022394401_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1022394401_f.webp"
+    },
+    "setID": "363",
+    "setName": "Diablos X",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Diablos Coil X",
+    "defense": 118,
+    "resistances": {
+      "fire": 3,
+      "water": -1,
+      "ice": -3,
+      "thunder": -1,
+      "dragon": -1
+    },
+    "slots": [
+      4,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Heroics",
+        "level": 1
+      },
+      {
+        "name": "Stamina Surge",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/853573665",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/853573665_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/853573665_f.webp"
+    },
+    "setID": "363",
+    "setName": "Diablos X",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Diablos Greaves X",
+    "defense": 118,
+    "resistances": {
+      "fire": 3,
+      "water": -1,
+      "ice": -3,
+      "thunder": -1,
+      "dragon": -1
+    },
+    "slots": [
+      3
+    ],
+    "skills": [
+      {
+        "name": "Heroics",
+        "level": 2
+      },
+      {
+        "name": "Tremor Resistance",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/818970657",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/818970657_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/818970657_f.webp"
+    },
+    "setID": "363",
+    "setName": "Diablos X",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Gore Helm",
+    "defense": 112,
+    "resistances": {
+      "fire": -2,
+      "water": 3,
+      "ice": 2,
+      "thunder": -1,
+      "dragon": -1
+    },
+    "slots": [
+      2,
+      2
+    ],
+    "skills": [
+      {
+        "name": "Agitator",
+        "level": 1
+      },
+      {
+        "name": "Constitution",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1562551503",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1562551503_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1562551503_f.webp"
+    },
+    "setID": "389",
+    "setName": "Gore Magala",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Gore Mail",
+    "defense": 112,
+    "resistances": {
+      "fire": -2,
+      "water": 3,
+      "ice": 2,
+      "thunder": -1,
+      "dragon": -1
+    },
+    "slots": [
+      2,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Coalescence",
+        "level": 1
+      },
+      {
+        "name": "Constitution",
+        "level": 3
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1393730767",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1393730767_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1393730767_f.webp"
+    },
+    "setID": "389",
+    "setName": "Gore Magala",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Gore Braces",
+    "defense": 112,
+    "resistances": {
+      "fire": -2,
+      "water": 3,
+      "ice": 2,
+      "thunder": -1,
+      "dragon": -1
+    },
+    "slots": [
+      4
+    ],
+    "skills": [
+      {
+        "name": "Coalescence",
+        "level": 1
+      },
+      {
+        "name": "Speed Eating",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1359127759",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1359127759_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1359127759_f.webp"
+    },
+    "setID": "389",
+    "setName": "Gore Magala",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Gore Coil",
+    "defense": 112,
+    "resistances": {
+      "fire": -2,
+      "water": 3,
+      "ice": 2,
+      "thunder": -1,
+      "dragon": -1
+    },
+    "slots": [
+      4,
+      2
+    ],
+    "skills": [
+      {
+        "name": "Coalescence",
+        "level": 1
+      },
+      {
+        "name": "Agitator",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1358079183",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1358079183_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1358079183_f.webp"
+    },
+    "setID": "389",
+    "setName": "Gore Magala",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Gore Greaves",
+    "defense": 112,
+    "resistances": {
+      "fire": -2,
+      "water": 3,
+      "ice": 2,
+      "thunder": -1,
+      "dragon": -1
+    },
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Agitator",
+        "level": 3
+      },
+      {
+        "name": "Speed Eating",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1457693903",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1457693903_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1457693903_f.webp"
+    },
+    "setID": "389",
+    "setName": "Gore Magala",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Regios Helm",
+    "defense": 114,
+    "resistances": {
+      "fire": 4,
+      "water": 0,
+      "ice": -2,
+      "thunder": -3,
+      "dragon": 0
+    },
+    "slots": [
+      3
+    ],
+    "skills": [
+      {
+        "name": "Bladescale Hone",
+        "level": 1
+      },
+      {
+        "name": "Constitution",
+        "level": 3
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1505146018",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1505146018_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1505146018_f.webp"
+    },
+    "setID": "392",
+    "setName": "Seregios",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Regios Mail",
+    "defense": 114,
+    "resistances": {
+      "fire": 4,
+      "water": 0,
+      "ice": -2,
+      "thunder": -3,
+      "dragon": 0
+    },
+    "slots": [
+      3
+    ],
+    "skills": [
+      {
+        "name": "Bladescale Hone",
+        "level": 1
+      },
+      {
+        "name": "Evade Window",
+        "level": 3
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1604760738",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1604760738_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1604760738_f.webp"
+    },
+    "setID": "392",
+    "setName": "Seregios",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Regios Vambraces",
+    "defense": 114,
+    "resistances": {
+      "fire": 4,
+      "water": 0,
+      "ice": -2,
+      "thunder": -3,
+      "dragon": 0
+    },
+    "slots": [],
+    "skills": [
+      {
+        "name": "Handicraft",
+        "level": 3
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1570157730",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1570157730_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1570157730_f.webp"
+    },
+    "setID": "392",
+    "setName": "Seregios",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Regios Coil",
+    "defense": 114,
+    "resistances": {
+      "fire": 4,
+      "water": 0,
+      "ice": -2,
+      "thunder": -3,
+      "dragon": 0
+    },
+    "slots": [
+      4,
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Wall Runner (Boost)",
+        "level": 1
+      },
+      {
+        "name": "Wall Runner",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1401336994",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1401336994_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1401336994_f.webp"
+    },
+    "setID": "392",
+    "setName": "Seregios",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Regios Greaves",
+    "defense": 114,
+    "resistances": {
+      "fire": 4,
+      "water": 0,
+      "ice": -2,
+      "thunder": -3,
+      "dragon": 0
+    },
+    "slots": [
+      4
+    ],
+    "skills": [
+      {
+        "name": "Bladescale Hone",
+        "level": 1
+      },
+      {
+        "name": "Evade Extender",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1366733986",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1366733986_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1366733986_f.webp"
+    },
+    "setID": "392",
+    "setName": "Seregios",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Astalos Helm",
+    "defense": 114,
+    "resistances": {
+      "fire": 0,
+      "water": -1,
+      "ice": -3,
+      "thunder": 4,
+      "dragon": 0
+    },
+    "slots": [
+      4,
+      2,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Chain Crit",
+        "level": 1
+      },
+      {
+        "name": "Stun Resistance",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1519379523",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1519379523_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1519379523_f.webp"
+    },
+    "setID": "393",
+    "setName": "Astalos",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Astalos Mail",
+    "defense": 114,
+    "resistances": {
+      "fire": 0,
+      "water": -1,
+      "ice": -3,
+      "thunder": 4,
+      "dragon": 0
+    },
+    "slots": [
+      3,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Chain Crit",
+        "level": 1
+      },
+      {
+        "name": "Stamina Surge",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1484776515",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1484776515_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1484776515_f.webp"
+    },
+    "setID": "393",
+    "setName": "Astalos",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Astalos Braces",
+    "defense": 114,
+    "resistances": {
+      "fire": 0,
+      "water": -1,
+      "ice": -3,
+      "thunder": 4,
+      "dragon": 0
+    },
+    "slots": [
+      4,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Chain Crit",
+        "level": 1
+      },
+      {
+        "name": "Stamina Surge",
+        "level": 1
+      },
+      {
+        "name": "Stun Resistance",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1584391235",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1584391235_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1584391235_f.webp"
+    },
+    "setID": "393",
+    "setName": "Astalos",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Astalos Coil",
+    "defense": 114,
+    "resistances": {
+      "fire": 0,
+      "water": -1,
+      "ice": -3,
+      "thunder": 4,
+      "dragon": 0
+    },
+    "slots": [
+      2,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Power Prolonger",
+        "level": 3
+      },
+      {
+        "name": "Speed Sharpening",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1549788227",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1549788227_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1549788227_f.webp"
+    },
+    "setID": "393",
+    "setName": "Astalos",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Astalos Greaves",
+    "defense": 114,
+    "resistances": {
+      "fire": 0,
+      "water": -1,
+      "ice": -3,
+      "thunder": 4,
+      "dragon": 0
+    },
+    "slots": [
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Razor Sharp",
+        "level": 3
+      },
+      {
+        "name": "Spare Shot",
+        "level": 3
+      },
+      {
+        "name": "Thunder Attack",
+        "level": 3
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1380967491",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1380967491_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1380967491_f.webp"
+    },
+    "setID": "393",
+    "setName": "Astalos",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Lunagaron Helm",
+    "defense": 114,
+    "resistances": {
+      "fire": -4,
+      "water": 2,
+      "ice": 4,
+      "thunder": -1,
+      "dragon": -1
+    },
+    "slots": [
+      2,
+      2
+    ],
+    "skills": [
+      {
+        "name": "Critical Eye",
+        "level": 2
+      },
+      {
+        "name": "Wirebug Whisperer",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1292712729",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1292712729_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1292712729_f.webp"
+    },
+    "setID": "403",
+    "setName": "Lunagaron",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Lunagaron Mail",
+    "defense": 114,
+    "resistances": {
+      "fire": -4,
+      "water": 2,
+      "ice": 4,
+      "thunder": -1,
+      "dragon": -1
+    },
+    "slots": [
+      4
+    ],
+    "skills": [
+      {
+        "name": "Agitator",
+        "level": 2
+      },
+      {
+        "name": "Redirection",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1291664153",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1291664153_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1291664153_f.webp"
+    },
+    "setID": "403",
+    "setName": "Lunagaron",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Lunagaron Braces",
+    "defense": 114,
+    "resistances": {
+      "fire": -4,
+      "water": 2,
+      "ice": 4,
+      "thunder": -1,
+      "dragon": -1
+    },
+    "slots": [
+      2,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Agitator",
+        "level": 3
+      },
+      {
+        "name": "Wirebug Whisperer",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1122843417",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1122843417_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1122843417_f.webp"
+    },
+    "setID": "403",
+    "setName": "Lunagaron",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Lunagaron Coil",
+    "defense": 114,
+    "resistances": {
+      "fire": -4,
+      "water": 2,
+      "ice": 4,
+      "thunder": -1,
+      "dragon": -1
+    },
+    "slots": [
+      4
+    ],
+    "skills": [
+      {
+        "name": "Latent Power",
+        "level": 2
+      },
+      {
+        "name": "Wirebug Whisperer",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1088240409",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1088240409_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1088240409_f.webp"
+    },
+    "setID": "403",
+    "setName": "Lunagaron",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Lunagaron Greaves",
+    "defense": 114,
+    "resistances": {
+      "fire": -4,
+      "water": 2,
+      "ice": 4,
+      "thunder": -1,
+      "dragon": -1
+    },
+    "slots": [
+      2,
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Latent Power",
+        "level": 3
+      },
+      {
+        "name": "Redirection",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1187855129",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1187855129_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1187855129_f.webp"
+    },
+    "setID": "403",
+    "setName": "Lunagaron",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Espinas Brain",
+    "defense": 116,
+    "resistances": {
+      "fire": 3,
+      "water": -1,
+      "ice": -3,
+      "thunder": 2,
+      "dragon": -2
+    },
+    "slots": [
+      2,
+      2
+    ],
+    "skills": [
+      {
+        "name": "Paralysis Attack",
+        "level": 3
+      },
+      {
+        "name": "Partbreaker",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1234242300",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1234242300_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1234242300_f.webp"
+    },
+    "setID": "406",
+    "setName": "Espinas",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Espinas Muscle",
+    "defense": 116,
+    "resistances": {
+      "fire": 3,
+      "water": -1,
+      "ice": -3,
+      "thunder": 2,
+      "dragon": -2
+    },
+    "slots": [
+      4
+    ],
+    "skills": [
+      {
+        "name": "Foray",
+        "level": 1
+      },
+      {
+        "name": "Partbreaker",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1333857020",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1333857020_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1333857020_f.webp"
+    },
+    "setID": "406",
+    "setName": "Espinas",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Espinas Vambraces",
+    "defense": 116,
+    "resistances": {
+      "fire": 3,
+      "water": -1,
+      "ice": -3,
+      "thunder": 2,
+      "dragon": -2
+    },
+    "slots": [
+      4
+    ],
+    "skills": [
+      {
+        "name": "Foray",
+        "level": 1
+      },
+      {
+        "name": "Protective Polish",
+        "level": 2
+      },
+      {
+        "name": "Rapid Fire Up",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1299254012",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1299254012_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1299254012_f.webp"
+    },
+    "setID": "406",
+    "setName": "Espinas",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Espinas Bowels",
+    "defense": 116,
+    "resistances": {
+      "fire": 3,
+      "water": -1,
+      "ice": -3,
+      "thunder": 2,
+      "dragon": -2
+    },
+    "slots": [
+      3,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Agitator",
+        "level": 2
+      },
+      {
+        "name": "Protective Polish",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1130433276",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1130433276_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1130433276_f.webp"
+    },
+    "setID": "406",
+    "setName": "Espinas",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Espinas Heel",
+    "defense": 116,
+    "resistances": {
+      "fire": 3,
+      "water": -1,
+      "ice": -3,
+      "thunder": 2,
+      "dragon": -2
+    },
+    "slots": [
+      4,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Foray",
+        "level": 1
+      },
+      {
+        "name": "Flinch Free",
+        "level": 2
+      },
+      {
+        "name": "Poison Attack",
+        "level": 3
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1095830268",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1095830268_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1095830268_f.webp"
+    },
+    "setID": "406",
+    "setName": "Espinas",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Hoplite's Helm",
+    "defense": 114,
+    "resistances": {
+      "fire": 1,
+      "water": 1,
+      "ice": 1,
+      "thunder": 1,
+      "dragon": 1
+    },
+    "slots": [
+      2
+    ],
+    "skills": [
+      {
+        "name": "Guard Up",
+        "level": 1
+      },
+      {
+        "name": "Artillery",
+        "level": 1
+      },
+      {
+        "name": "Load Shells",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/290397875",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/290397875_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/290397875_f.webp"
+    },
+    "setID": "441",
+    "setName": "Heavy Knight",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Hoplite's Armor",
+    "defense": 114,
+    "resistances": {
+      "fire": 1,
+      "water": 1,
+      "ice": 1,
+      "thunder": 1,
+      "dragon": 1
+    },
+    "slots": [
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Guard",
+        "level": 1
+      },
+      {
+        "name": "Artillery",
+        "level": 2
+      },
+      {
+        "name": "Offensive Guard",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/390012595",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/390012595_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/390012595_f.webp"
+    },
+    "setID": "441",
+    "setName": "Heavy Knight",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Hoplite's Braces",
+    "defense": 114,
+    "resistances": {
+      "fire": 1,
+      "water": 1,
+      "ice": 1,
+      "thunder": 1,
+      "dragon": 1
+    },
+    "slots": [
+      2
+    ],
+    "skills": [
+      {
+        "name": "Guard",
+        "level": 2
+      },
+      {
+        "name": "Guard Up",
+        "level": 1
+      },
+      {
+        "name": "Razor Sharp",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/355409587",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/355409587_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/355409587_f.webp"
+    },
+    "setID": "441",
+    "setName": "Heavy Knight",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Hoplite's Belt",
+    "defense": 114,
+    "resistances": {
+      "fire": 1,
+      "water": 1,
+      "ice": 1,
+      "thunder": 1,
+      "dragon": 1
+    },
+    "slots": [],
+    "skills": [
+      {
+        "name": "Guard",
+        "level": 1
+      },
+      {
+        "name": "Quick Sheathe",
+        "level": 1
+      },
+      {
+        "name": "Offensive Guard",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1797201587",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1797201587_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1797201587_f.webp"
+    },
+    "setID": "441",
+    "setName": "Heavy Knight",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Hoplite's Greaves",
+    "defense": 114,
+    "resistances": {
+      "fire": 1,
+      "water": 1,
+      "ice": 1,
+      "thunder": 1,
+      "dragon": 1
+    },
+    "slots": [
+      1
+    ],
+    "skills": [
+      {
+        "name": "Guard Up",
+        "level": 1
+      },
+      {
+        "name": "Quick Sheathe",
+        "level": 2
+      },
+      {
+        "name": "Razor Sharp",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1762598579",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1762598579_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1762598579_f.webp"
+    },
+    "setID": "441",
+    "setName": "Heavy Knight",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Hawkhat",
+    "defense": 110,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "slots": [
+      1
+    ],
+    "skills": [
+      {
+        "name": "Constitution",
+        "level": 2
+      },
+      {
+        "name": "Weakness Exploit",
+        "level": 1
+      },
+      {
+        "name": "Good Luck",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1933375893",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1933375893_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1933375893_f.webp"
+    },
+    "setID": "415",
+    "setName": "Hawk",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Hawksuit",
+    "defense": 110,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "slots": [
+      2,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Constitution",
+        "level": 1
+      },
+      {
+        "name": "Quick Sheathe",
+        "level": 1
+      },
+      {
+        "name": "Good Luck",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1898772885",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1898772885_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1898772885_f.webp"
+    },
+    "setID": "415",
+    "setName": "Hawk",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Hawk Gloves",
+    "defense": 110,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "slots": [
+      2
+    ],
+    "skills": [
+      {
+        "name": "Speed Eating",
+        "level": 1
+      },
+      {
+        "name": "Quick Sheathe",
+        "level": 2
+      },
+      {
+        "name": "Weakness Exploit",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1998387605",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1998387605_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1998387605_f.webp"
+    },
+    "setID": "415",
+    "setName": "Hawk",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Hawkcoil",
+    "defense": 110,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Speed Eating",
+        "level": 2
+      },
+      {
+        "name": "Constitution",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1963784597",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1963784597_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1963784597_f.webp"
+    },
+    "setID": "415",
+    "setName": "Hawk",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Hawkboots",
+    "defense": 110,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "slots": [
+      2,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Capture Master",
+        "level": 1
+      },
+      {
+        "name": "Good Luck",
+        "level": 1
+      },
+      {
+        "name": "Weakness Exploit",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1962736021",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1962736021_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1962736021_f.webp"
+    },
+    "setID": "415",
+    "setName": "Hawk",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Lecturer's Hood",
+    "defense": 110,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "slots": [
+      1
+    ],
+    "skills": [
+      {
+        "name": "Constitution",
+        "level": 2
+      },
+      {
+        "name": "Weakness Exploit",
+        "level": 1
+      },
+      {
+        "name": "Good Luck",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/2081827210",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/2081827210_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/2081827210_f.webp"
+    },
+    "setID": "416",
+    "setName": "Lecturer",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Lecturer's Suit",
+    "defense": 110,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "slots": [
+      2,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Constitution",
+        "level": 1
+      },
+      {
+        "name": "Quick Sheathe",
+        "level": 1
+      },
+      {
+        "name": "Good Luck",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1913006474",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1913006474_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1913006474_f.webp"
+    },
+    "setID": "416",
+    "setName": "Lecturer",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Lecturer Gloves",
+    "defense": 110,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "slots": [
+      2
+    ],
+    "skills": [
+      {
+        "name": "Speed Eating",
+        "level": 1
+      },
+      {
+        "name": "Quick Sheathe",
+        "level": 2
+      },
+      {
+        "name": "Weakness Exploit",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1911957898",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1911957898_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1911957898_f.webp"
+    },
+    "setID": "416",
+    "setName": "Lecturer",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Lecturer's Skirt",
+    "defense": 110,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Speed Eating",
+        "level": 2
+      },
+      {
+        "name": "Constitution",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/2011572618",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/2011572618_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/2011572618_f.webp"
+    },
+    "setID": "416",
+    "setName": "Lecturer",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Lecturer's Boots",
+    "defense": 110,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "slots": [
+      2,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Capture Master",
+        "level": 1
+      },
+      {
+        "name": "Good Luck",
+        "level": 1
+      },
+      {
+        "name": "Weakness Exploit",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1976969610",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1976969610_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1976969610_f.webp"
+    },
+    "setID": "416",
+    "setName": "Lecturer",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Dignified Earrings",
+    "defense": 112,
+    "resistances": {
+      "fire": 1,
+      "water": 1,
+      "ice": 1,
+      "thunder": 1,
+      "dragon": 1
+    },
+    "slots": [
+      1
+    ],
+    "skills": [
+      {
+        "name": "Focus",
+        "level": 2
+      },
+      {
+        "name": "Power Prolonger",
+        "level": 2
+      },
+      {
+        "name": "Evade Extender",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/33729762",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/33729762_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/33729762_f.webp"
+    },
+    "setID": "456",
+    "setName": "Dignified",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Dignified Jacket",
+    "defense": 112,
+    "resistances": {
+      "fire": 1,
+      "water": 1,
+      "ice": 1,
+      "thunder": 1,
+      "dragon": 1
+    },
+    "slots": [
+      2,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Rapid Morph",
+        "level": 1
+      },
+      {
+        "name": "Evade Window",
+        "level": 1
+      },
+      {
+        "name": "Evade Extender",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/32681186",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/32681186_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/32681186_f.webp"
+    },
+    "setID": "456",
+    "setName": "Dignified",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Dignified Gloves",
+    "defense": 112,
+    "resistances": {
+      "fire": 1,
+      "water": 1,
+      "ice": 1,
+      "thunder": 1,
+      "dragon": 1
+    },
+    "slots": [
+      3
+    ],
+    "skills": [
+      {
+        "name": "Rapid Morph",
+        "level": 1
+      },
+      {
+        "name": "Evade Window",
+        "level": 2
+      },
+      {
+        "name": "Razor Sharp",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/132295906",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/132295906_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/132295906_f.webp"
+    },
+    "setID": "456",
+    "setName": "Dignified",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Dignified Cuisse",
+    "defense": 112,
+    "resistances": {
+      "fire": 1,
+      "water": 1,
+      "ice": 1,
+      "thunder": 1,
+      "dragon": 1
+    },
+    "slots": [
+      3
+    ],
+    "skills": [
+      {
+        "name": "Focus",
+        "level": 1
+      },
+      {
+        "name": "Evade Window",
+        "level": 2
+      },
+      {
+        "name": "Razor Sharp",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/97692898",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/97692898_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/97692898_f.webp"
+    },
+    "setID": "456",
+    "setName": "Dignified",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Dignified Greaves",
+    "defense": 112,
+    "resistances": {
+      "fire": 1,
+      "water": 1,
+      "ice": 1,
+      "thunder": 1,
+      "dragon": 1
+    },
+    "slots": [
+      4
+    ],
+    "skills": [
+      {
+        "name": "Rapid Morph",
+        "level": 1
+      },
+      {
+        "name": "Power Prolonger",
+        "level": 1
+      },
+      {
+        "name": "Razor Sharp",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/465743074",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/465743074_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/465743074_f.webp"
+    },
+    "setID": "456",
+    "setName": "Dignified",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Barbania Patch",
+    "defense": 110,
+    "resistances": {
+      "fire": 1,
+      "water": 1,
+      "ice": 1,
+      "thunder": 1,
+      "dragon": 1
+    },
+    "slots": [
+      3
+    ],
+    "skills": [
+      {
+        "name": "Weakness Exploit",
+        "level": 1
+      },
+      {
+        "name": "Capture Master",
+        "level": 1
+      },
+      {
+        "name": "Resentment",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/2066614476",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/2066614476_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/2066614476_f.webp"
+    },
+    "setID": "422",
+    "setName": "Barbania",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Barbania Vest",
+    "defense": 110,
+    "resistances": {
+      "fire": 1,
+      "water": 1,
+      "ice": 1,
+      "thunder": 1,
+      "dragon": 1
+    },
+    "slots": [
+      2,
+      2,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Partbreaker",
+        "level": 1
+      },
+      {
+        "name": "Counterstrike",
+        "level": 1
+      },
+      {
+        "name": "Resentment",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/2032011468",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/2032011468_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/2032011468_f.webp"
+    },
+    "setID": "422",
+    "setName": "Barbania",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Barbania Gloves",
+    "defense": 110,
+    "resistances": {
+      "fire": 1,
+      "water": 1,
+      "ice": 1,
+      "thunder": 1,
+      "dragon": 1
+    },
+    "slots": [
+      2,
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Weakness Exploit",
+        "level": 1
+      },
+      {
+        "name": "Partbreaker",
+        "level": 1
+      },
+      {
+        "name": "Good Luck",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/2131626188",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/2131626188_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/2131626188_f.webp"
+    },
+    "setID": "422",
+    "setName": "Barbania",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Barbania Belt",
+    "defense": 110,
+    "resistances": {
+      "fire": 1,
+      "water": 1,
+      "ice": 1,
+      "thunder": 1,
+      "dragon": 1
+    },
+    "slots": [
+      2,
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Weakness Exploit",
+        "level": 1
+      },
+      {
+        "name": "Counterstrike",
+        "level": 1
+      },
+      {
+        "name": "Good Luck",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/2130577612",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/2130577612_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/2130577612_f.webp"
+    },
+    "setID": "422",
+    "setName": "Barbania",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Barbania Boots",
+    "defense": 110,
+    "resistances": {
+      "fire": 1,
+      "water": 1,
+      "ice": 1,
+      "thunder": 1,
+      "dragon": 1
+    },
+    "slots": [
+      3
+    ],
+    "skills": [
+      {
+        "name": "Partbreaker",
+        "level": 1
+      },
+      {
+        "name": "Counterstrike",
+        "level": 1
+      },
+      {
+        "name": "Good Luck",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/2095974604",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/2095974604_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/2095974604_f.webp"
+    },
+    "setID": "422",
+    "setName": "Barbania",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Snowshear Headgear",
+    "defense": 112,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 3,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "slots": [
+      2
+    ],
+    "skills": [
+      {
+        "name": "Grinder (S)",
+        "level": 1
+      },
+      {
+        "name": "Stamina Thief",
+        "level": 1
+      },
+      {
+        "name": "Attack Boost",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1678211309",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1678211309_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1678211309_f.webp"
+    },
+    "setID": "423",
+    "setName": "Snowshear",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Snowshear Mail",
+    "defense": 112,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 3,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "slots": [
+      4,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Tremor Resistance",
+        "level": 1
+      },
+      {
+        "name": "Stamina Thief",
+        "level": 1
+      },
+      {
+        "name": "Attack Boost",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/2079815917",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/2079815917_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/2079815917_f.webp"
+    },
+    "setID": "423",
+    "setName": "Snowshear",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Snowshear Braces",
+    "defense": 112,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 3,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Recovery Speed",
+        "level": 3
+      },
+      {
+        "name": "Latent Power",
+        "level": 2
+      },
+      {
+        "name": "Attack Boost",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/2045212909",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/2045212909_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/2045212909_f.webp"
+    },
+    "setID": "423",
+    "setName": "Snowshear",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Snowshear Coil",
+    "defense": 112,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 3,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "slots": [
+      3
+    ],
+    "skills": [
+      {
+        "name": "Tremor Resistance",
+        "level": 2
+      },
+      {
+        "name": "Stamina Thief",
+        "level": 1
+      },
+      {
+        "name": "Attack Boost",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/2144827629",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/2144827629_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/2144827629_f.webp"
+    },
+    "setID": "423",
+    "setName": "Snowshear",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Snowshear Greaves",
+    "defense": 112,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 3,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "slots": [
+      2
+    ],
+    "skills": [
+      {
+        "name": "Grinder (S)",
+        "level": 1
+      },
+      {
+        "name": "Latent Power",
+        "level": 1
+      },
+      {
+        "name": "Attack Boost",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/2110224621",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/2110224621_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/2110224621_f.webp"
+    },
+    "setID": "423",
+    "setName": "Snowshear",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "name": "Grand God's Peer Mask",
+    "defense": 116,
+    "resistances": {
+      "fire": 2,
+      "water": 1,
+      "ice": -5,
+      "thunder": 3,
+      "dragon": 2
+    },
+    "slots": [
+      4,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Heroics",
+        "level": 2
+      },
+      {
+        "name": "Maximum Might",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1000642436",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1000642436_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1000642436_f.webp"
+    },
+    "setID": "366",
+    "setName": "Grand God's Peer",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Grand God's Peer Robe",
+    "defense": 116,
+    "resistances": {
+      "fire": 2,
+      "water": 1,
+      "ice": -5,
+      "thunder": 3,
+      "dragon": 2
+    },
+    "slots": [
+      3
+    ],
+    "skills": [
+      {
+        "name": "Heroics",
+        "level": 1
+      },
+      {
+        "name": "Maximum Might",
+        "level": 1
+      },
+      {
+        "name": "Latent Power",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/966039428",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/966039428_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/966039428_f.webp"
+    },
+    "setID": "366",
+    "setName": "Grand God's Peer",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Grand God's Peer Arms",
+    "defense": 116,
+    "resistances": {
+      "fire": 2,
+      "water": 1,
+      "ice": -5,
+      "thunder": 3,
+      "dragon": 2
+    },
+    "slots": [
+      4,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Heroics",
+        "level": 1
+      },
+      {
+        "name": "Latent Power",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1065654148",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1065654148_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1065654148_f.webp"
+    },
+    "setID": "366",
+    "setName": "Grand God's Peer",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Grand God's Peer Belt",
+    "defense": 116,
+    "resistances": {
+      "fire": 2,
+      "water": 1,
+      "ice": -5,
+      "thunder": 3,
+      "dragon": 2
+    },
+    "slots": [
+      4
+    ],
+    "skills": [
+      {
+        "name": "Heroics",
+        "level": 1
+      },
+      {
+        "name": "Critical Boost",
+        "level": 1
+      },
+      {
+        "name": "Maximum Might",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1031051140",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1031051140_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1031051140_f.webp"
+    },
+    "setID": "366",
+    "setName": "Grand God's Peer",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Grand God's Peer Feet",
+    "defense": 116,
+    "resistances": {
+      "fire": 2,
+      "water": 1,
+      "ice": -5,
+      "thunder": 3,
+      "dragon": 2
+    },
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Critical Boost",
+        "level": 2
+      },
+      {
+        "name": "Latent Power",
+        "level": 1
+      },
+      {
+        "name": "Flinch Free",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/862230404",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/862230404_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/862230404_f.webp"
+    },
+    "setID": "366",
+    "setName": "Grand God's Peer",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Bazelgeuse Helm X",
+    "defense": 118,
+    "resistances": {
+      "fire": 3,
+      "water": 1,
+      "ice": -2,
+      "thunder": -4,
+      "dragon": -2
+    },
+    "slots": [
+      3
+    ],
+    "skills": [
+      {
+        "name": "Artillery",
+        "level": 1
+      },
+      {
+        "name": "Guard",
+        "level": 2
+      },
+      {
+        "name": "Razor Sharp",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/597010175",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/597010175_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/597010175_f.webp"
+    },
+    "setID": "373",
+    "setName": "Bazelgeuse X",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Bazelgeuse Mail X",
+    "defense": 118,
+    "resistances": {
+      "fire": 3,
+      "water": 1,
+      "ice": -2,
+      "thunder": -4,
+      "dragon": -2
+    },
+    "slots": [
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Guard Up",
+        "level": 2
+      },
+      {
+        "name": "Agitator",
+        "level": 2
+      },
+      {
+        "name": "Razor Sharp",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/562407167",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/562407167_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/562407167_f.webp"
+    },
+    "setID": "373",
+    "setName": "Bazelgeuse X",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Bazelgeuse Braces X",
+    "defense": 118,
+    "resistances": {
+      "fire": 3,
+      "water": 1,
+      "ice": -2,
+      "thunder": -4,
+      "dragon": -2
+    },
+    "slots": [
+      2,
+      2
+    ],
+    "skills": [
+      {
+        "name": "Guard Up",
+        "level": 1
+      },
+      {
+        "name": "Guard",
+        "level": 1
+      },
+      {
+        "name": "Agitator",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/662021887",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/662021887_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/662021887_f.webp"
+    },
+    "setID": "373",
+    "setName": "Bazelgeuse X",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Bazelgeuse Coil X",
+    "defense": 118,
+    "resistances": {
+      "fire": 3,
+      "water": 1,
+      "ice": -2,
+      "thunder": -4,
+      "dragon": -2
+    },
+    "slots": [
+      2,
+      2
+    ],
+    "skills": [
+      {
+        "name": "Load Shells",
+        "level": 2
+      },
+      {
+        "name": "Guard",
+        "level": 1
+      },
+      {
+        "name": "Razor Sharp",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/627418879",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/627418879_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/627418879_f.webp"
+    },
+    "setID": "373",
+    "setName": "Bazelgeuse X",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Bazelgeuse Greaves X",
+    "defense": 118,
+    "resistances": {
+      "fire": 3,
+      "water": 1,
+      "ice": -2,
+      "thunder": -4,
+      "dragon": -2
+    },
+    "slots": [
+      3
+    ],
+    "skills": [
+      {
+        "name": "Artillery",
+        "level": 2
+      },
+      {
+        "name": "Guard",
+        "level": 1
+      },
+      {
+        "name": "Agitator",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/995469055",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/995469055_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/995469055_f.webp"
+    },
+    "setID": "373",
+    "setName": "Bazelgeuse X",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Damascus Helm X",
+    "defense": 114,
+    "resistances": {
+      "fire": -1,
+      "water": 2,
+      "ice": 1,
+      "thunder": -3,
+      "dragon": -1
+    },
+    "slots": [
+      1
+    ],
+    "skills": [
+      {
+        "name": "Tremor Resistance",
+        "level": 2
+      },
+      {
+        "name": "Earplugs",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/2140081913",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/2140081913_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/2140081913_f.webp"
+    },
+    "setID": "307",
+    "setName": "Damascus X",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Damascus Mail X",
+    "defense": 114,
+    "resistances": {
+      "fire": -1,
+      "water": 2,
+      "ice": 1,
+      "thunder": -3,
+      "dragon": -1
+    },
+    "slots": [
+      2,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Tremor Resistance",
+        "level": 1
+      },
+      {
+        "name": "Handicraft",
+        "level": 2
+      },
+      {
+        "name": "Pierce Up",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/2105478905",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/2105478905_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/2105478905_f.webp"
+    },
+    "setID": "307",
+    "setName": "Damascus X",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Damascus Vambraces X",
+    "defense": 114,
+    "resistances": {
+      "fire": -1,
+      "water": 2,
+      "ice": 1,
+      "thunder": -3,
+      "dragon": -1
+    },
+    "slots": [
+      2,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Earplugs",
+        "level": 2
+      },
+      {
+        "name": "Blight Resistance",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1936658169",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1936658169_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1936658169_f.webp"
+    },
+    "setID": "307",
+    "setName": "Damascus X",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Damascus Coil X",
+    "defense": 114,
+    "resistances": {
+      "fire": -1,
+      "water": 2,
+      "ice": 1,
+      "thunder": -3,
+      "dragon": -1
+    },
+    "slots": [
+      2
+    ],
+    "skills": [
+      {
+        "name": "Earplugs",
+        "level": 1
+      },
+      {
+        "name": "Handicraft",
+        "level": 1
+      },
+      {
+        "name": "Pierce Up",
+        "level": 1
+      },
+      {
+        "name": "Blight Resistance",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1902055161",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1902055161_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1902055161_f.webp"
+    },
+    "setID": "307",
+    "setName": "Damascus X",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Damascus Greaves X",
+    "defense": 114,
+    "resistances": {
+      "fire": -1,
+      "water": 2,
+      "ice": 1,
+      "thunder": -3,
+      "dragon": -1
+    },
+    "slots": [
+      3
+    ],
+    "skills": [
+      {
+        "name": "Handicraft",
+        "level": 2
+      },
+      {
+        "name": "Ammo Up",
+        "level": 2
+      },
+      {
+        "name": "Blight Resistance",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/2001669881",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/2001669881_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/2001669881_f.webp"
+    },
+    "setID": "307",
+    "setName": "Damascus X",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Kushala Glare X",
+    "defense": 120,
+    "resistances": {
+      "fire": -1,
+      "water": 2,
+      "ice": 3,
+      "thunder": -2,
+      "dragon": -3
+    },
+    "slots": [
+      4
+    ],
+    "skills": [
+      {
+        "name": "Handicraft",
+        "level": 2
+      },
+      {
+        "name": "Normal/Rapid Up",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/78709465",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/78709465_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/78709465_f.webp"
+    },
+    "setID": "339",
+    "setName": "Kushala X",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Kushala Cista X",
+    "defense": 120,
+    "resistances": {
+      "fire": -1,
+      "water": 2,
+      "ice": 3,
+      "thunder": -2,
+      "dragon": -3
+    },
+    "slots": [
+      2,
+      2
+    ],
+    "skills": [
+      {
+        "name": "Recovery Speed",
+        "level": 3
+      },
+      {
+        "name": "Handicraft",
+        "level": 2
+      },
+      {
+        "name": "Ammo Up",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/446759641",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/446759641_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/446759641_f.webp"
+    },
+    "setID": "339",
+    "setName": "Kushala X",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Kushala Grip X",
+    "defense": 120,
+    "resistances": {
+      "fire": -1,
+      "water": 2,
+      "ice": 3,
+      "thunder": -2,
+      "dragon": -3
+    },
+    "slots": [
+      1
+    ],
+    "skills": [
+      {
+        "name": "Kushala Blessing",
+        "level": 2
+      },
+      {
+        "name": "Agitator",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/412156633",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/412156633_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/412156633_f.webp"
+    },
+    "setID": "339",
+    "setName": "Kushala X",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Kushala Cocoon X",
+    "defense": 120,
+    "resistances": {
+      "fire": -1,
+      "water": 2,
+      "ice": 3,
+      "thunder": -2,
+      "dragon": -3
+    },
+    "slots": [
+      2
+    ],
+    "skills": [
+      {
+        "name": "Kushala Blessing",
+        "level": 1
+      },
+      {
+        "name": "Agitator",
+        "level": 3
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/511771353",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/511771353_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/511771353_f.webp"
+    },
+    "setID": "339",
+    "setName": "Kushala X",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Kushala Crus X",
+    "defense": 120,
+    "resistances": {
+      "fire": -1,
+      "water": 2,
+      "ice": 3,
+      "thunder": -2,
+      "dragon": -3
+    },
+    "slots": [
+      4,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Kushala Blessing",
+        "level": 1
+      },
+      {
+        "name": "Handicraft",
+        "level": 1
+      },
+      {
+        "name": "Normal/Rapid Up",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/477168345",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/477168345_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/477168345_f.webp"
+    },
+    "setID": "339",
+    "setName": "Kushala X",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Grand Mizuha Cap",
+    "defense": 120,
+    "resistances": {
+      "fire": -5,
+      "water": 1,
+      "ice": 3,
+      "thunder": 0,
+      "dragon": -3
+    },
+    "slots": [
+      4
+    ],
+    "skills": [
+      {
+        "name": "Mind's Eye",
+        "level": 2
+      },
+      {
+        "name": "Ballistics",
+        "level": 2
+      },
+      {
+        "name": "Foray",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/92959486",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/92959486_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/92959486_f.webp"
+    },
+    "setID": "340",
+    "setName": "Grand Mizuha",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Grand Mizuha Guards",
+    "defense": 120,
+    "resistances": {
+      "fire": -5,
+      "water": 1,
+      "ice": 3,
+      "thunder": 0,
+      "dragon": -3
+    },
+    "slots": [
+      2,
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Mind's Eye",
+        "level": 1
+      },
+      {
+        "name": "Ballistics",
+        "level": 1
+      },
+      {
+        "name": "Evade Window",
+        "level": 3
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/461009662",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/461009662_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/461009662_f.webp"
+    },
+    "setID": "340",
+    "setName": "Grand Mizuha",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Grand Mizuha Sleeves",
+    "defense": 120,
+    "resistances": {
+      "fire": -5,
+      "water": 1,
+      "ice": 3,
+      "thunder": 0,
+      "dragon": -3
+    },
+    "slots": [
+      2,
+      2
+    ],
+    "skills": [
+      {
+        "name": "Chameleos Blessing",
+        "level": 1
+      },
+      {
+        "name": "Poison Attack",
+        "level": 2
+      },
+      {
+        "name": "Evade Window",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/426406654",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/426406654_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/426406654_f.webp"
+    },
+    "setID": "340",
+    "setName": "Grand Mizuha",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Grand Mizuha Sash",
+    "defense": 120,
+    "resistances": {
+      "fire": -5,
+      "water": 1,
+      "ice": 3,
+      "thunder": 0,
+      "dragon": -3
+    },
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Chameleos Blessing",
+        "level": 1
+      },
+      {
+        "name": "Peak Performance",
+        "level": 2
+      },
+      {
+        "name": "Foray",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/526021374",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/526021374_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/526021374_f.webp"
+    },
+    "setID": "340",
+    "setName": "Grand Mizuha",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Grand Mizuha Leg Wrap",
+    "defense": 120,
+    "resistances": {
+      "fire": -5,
+      "water": 1,
+      "ice": 3,
+      "thunder": 0,
+      "dragon": -3
+    },
+    "slots": [
+      2
+    ],
+    "skills": [
+      {
+        "name": "Chameleos Blessing",
+        "level": 2
+      },
+      {
+        "name": "Peak Performance",
+        "level": 1
+      },
+      {
+        "name": "Poison Attack",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/491418366",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/491418366_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/491418366_f.webp"
+    },
+    "setID": "340",
+    "setName": "Grand Mizuha",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Kaiser Crown X",
+    "defense": 120,
+    "resistances": {
+      "fire": 4,
+      "water": -4,
+      "ice": -1,
+      "thunder": 1,
+      "dragon": -3
+    },
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Critical Eye",
+        "level": 3
+      },
+      {
+        "name": "Critical Boost",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/107192991",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/107192991_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/107192991_f.webp"
+    },
+    "setID": "341",
+    "setName": "Kaiser X",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Kaiser Mail X",
+    "defense": 120,
+    "resistances": {
+      "fire": 4,
+      "water": -4,
+      "ice": -1,
+      "thunder": 1,
+      "dragon": -3
+    },
+    "slots": [
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Critical Eye",
+        "level": 2
+      },
+      {
+        "name": "Master's Touch",
+        "level": 2
+      },
+      {
+        "name": "Ballistics",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/72589983",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/72589983_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/72589983_f.webp"
+    },
+    "setID": "341",
+    "setName": "Kaiser X",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Kaiser Vambraces X",
+    "defense": 120,
+    "resistances": {
+      "fire": 4,
+      "water": -4,
+      "ice": -1,
+      "thunder": 1,
+      "dragon": -3
+    },
+    "slots": [
+      3
+    ],
+    "skills": [
+      {
+        "name": "Teostra Blessing",
+        "level": 1
+      },
+      {
+        "name": "Critical Eye",
+        "level": 1
+      },
+      {
+        "name": "Critical Boost",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/440640159",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/440640159_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/440640159_f.webp"
+    },
+    "setID": "341",
+    "setName": "Kaiser X",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Kaiser Coil X",
+    "defense": 120,
+    "resistances": {
+      "fire": 4,
+      "water": -4,
+      "ice": -1,
+      "thunder": 1,
+      "dragon": -3
+    },
+    "slots": [
+      3
+    ],
+    "skills": [
+      {
+        "name": "Teostra Blessing",
+        "level": 2
+      },
+      {
+        "name": "Critical Eye",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/406037151",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/406037151_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/406037151_f.webp"
+    },
+    "setID": "341",
+    "setName": "Kaiser X",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Kaiser Greaves X",
+    "defense": 120,
+    "resistances": {
+      "fire": 4,
+      "water": -4,
+      "ice": -1,
+      "thunder": 1,
+      "dragon": -3
+    },
+    "slots": [
+      2,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Teostra Blessing",
+        "level": 1
+      },
+      {
+        "name": "Master's Touch",
+        "level": 1
+      },
+      {
+        "name": "Critical Boost",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/505651871",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/505651871_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/505651871_f.webp"
+    },
+    "setID": "341",
+    "setName": "Kaiser X",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Arc Helm",
+    "defense": 120,
+    "resistances": {
+      "fire": -2,
+      "water": 2,
+      "ice": 2,
+      "thunder": -1,
+      "dragon": -4
+    },
+    "slots": [
+      3
+    ],
+    "skills": [
+      {
+        "name": "Bloodlust",
+        "level": 1
+      },
+      {
+        "name": "Coalescence",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1577325804",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1577325804_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1577325804_f.webp"
+    },
+    "setID": "390",
+    "setName": "Arc",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Arc Mail",
+    "defense": 120,
+    "resistances": {
+      "fire": -2,
+      "water": 2,
+      "ice": 2,
+      "thunder": -1,
+      "dragon": -4
+    },
+    "slots": [
+      2
+    ],
+    "skills": [
+      {
+        "name": "Bloodlust",
+        "level": 1
+      },
+      {
+        "name": "Resuscitate",
+        "level": 2
+      },
+      {
+        "name": "Critical Element",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1576277228",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1576277228_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1576277228_f.webp"
+    },
+    "setID": "390",
+    "setName": "Arc",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Arc Vambraces",
+    "defense": 120,
+    "resistances": {
+      "fire": -2,
+      "water": 2,
+      "ice": 2,
+      "thunder": -1,
+      "dragon": -4
+    },
+    "slots": [
+      4
+    ],
+    "skills": [
+      {
+        "name": "Critical Element",
+        "level": 2
+      },
+      {
+        "name": "Resuscitate",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1407456492",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1407456492_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1407456492_f.webp"
+    },
+    "setID": "390",
+    "setName": "Arc",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Arc Coil",
+    "defense": 120,
+    "resistances": {
+      "fire": -2,
+      "water": 2,
+      "ice": 2,
+      "thunder": -1,
+      "dragon": -4
+    },
+    "slots": [
+      4
+    ],
+    "skills": [
+      {
+        "name": "Coalescence",
+        "level": 1
+      },
+      {
+        "name": "Razor Sharp",
+        "level": 2
+      },
+      {
+        "name": "Spare Shot",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1372853484",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1372853484_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1372853484_f.webp"
+    },
+    "setID": "390",
+    "setName": "Arc",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Arc Greaves",
+    "defense": 120,
+    "resistances": {
+      "fire": -2,
+      "water": 2,
+      "ice": 2,
+      "thunder": -1,
+      "dragon": -4
+    },
+    "slots": [
+      3,
+      2
+    ],
+    "skills": [
+      {
+        "name": "Bloodlust",
+        "level": 1
+      },
+      {
+        "name": "Razor Sharp",
+        "level": 1
+      },
+      {
+        "name": "Spare Shot",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1472468204",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1472468204_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1472468204_f.webp"
+    },
+    "setID": "390",
+    "setName": "Arc",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Storge Helm",
+    "defense": 120,
+    "resistances": {
+      "fire": -2,
+      "water": 2,
+      "ice": 2,
+      "thunder": -1,
+      "dragon": -4
+    },
+    "slots": [
+      3
+    ],
+    "skills": [
+      {
+        "name": "Bloodlust",
+        "level": 1
+      },
+      {
+        "name": "Coalescence",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1490896013",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1490896013_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1490896013_f.webp"
+    },
+    "setID": "391",
+    "setName": "Storge",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Storge Mail",
+    "defense": 120,
+    "resistances": {
+      "fire": -2,
+      "water": 2,
+      "ice": 2,
+      "thunder": -1,
+      "dragon": -4
+    },
+    "slots": [
+      2
+    ],
+    "skills": [
+      {
+        "name": "Bloodlust",
+        "level": 1
+      },
+      {
+        "name": "Resuscitate",
+        "level": 2
+      },
+      {
+        "name": "Critical Element",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1590510733",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1590510733_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1590510733_f.webp"
+    },
+    "setID": "391",
+    "setName": "Storge",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Storge Vambraces",
+    "defense": 120,
+    "resistances": {
+      "fire": -2,
+      "water": 2,
+      "ice": 2,
+      "thunder": -1,
+      "dragon": -4
+    },
+    "slots": [
+      4
+    ],
+    "skills": [
+      {
+        "name": "Critical Element",
+        "level": 2
+      },
+      {
+        "name": "Resuscitate",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1555907725",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1555907725_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1555907725_f.webp"
+    },
+    "setID": "391",
+    "setName": "Storge",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Storge Coil",
+    "defense": 120,
+    "resistances": {
+      "fire": -2,
+      "water": 2,
+      "ice": 2,
+      "thunder": -1,
+      "dragon": -4
+    },
+    "slots": [
+      4
+    ],
+    "skills": [
+      {
+        "name": "Coalescence",
+        "level": 1
+      },
+      {
+        "name": "Razor Sharp",
+        "level": 2
+      },
+      {
+        "name": "Spare Shot",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1387086989",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1387086989_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1387086989_f.webp"
+    },
+    "setID": "391",
+    "setName": "Storge",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Storge Greaves",
+    "defense": 120,
+    "resistances": {
+      "fire": -2,
+      "water": 2,
+      "ice": 2,
+      "thunder": -1,
+      "dragon": -4
+    },
+    "slots": [
+      3,
+      2
+    ],
+    "skills": [
+      {
+        "name": "Bloodlust",
+        "level": 1
+      },
+      {
+        "name": "Razor Sharp",
+        "level": 1
+      },
+      {
+        "name": "Spare Shot",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1352483981",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1352483981_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1352483981_f.webp"
+    },
+    "setID": "391",
+    "setName": "Storge",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Malzeno Helm",
+    "defense": 120,
+    "resistances": {
+      "fire": -2,
+      "water": 2,
+      "ice": -1,
+      "thunder": 2,
+      "dragon": -5
+    },
+    "slots": [
+      2,
+      2
+    ],
+    "skills": [
+      {
+        "name": "Weakness Exploit",
+        "level": 1
+      },
+      {
+        "name": "Wirebug Whisperer",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1277938552",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1277938552_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1277938552_f.webp"
+    },
+    "setID": "402",
+    "setName": "Malzeno",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Malzeno Mail",
+    "defense": 120,
+    "resistances": {
+      "fire": -2,
+      "water": 2,
+      "ice": -1,
+      "thunder": 2,
+      "dragon": -5
+    },
+    "slots": [
+      2,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Blood Rite",
+        "level": 1
+      },
+      {
+        "name": "Weakness Exploit",
+        "level": 1
+      },
+      {
+        "name": "Partbreaker",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1109117816",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1109117816_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1109117816_f.webp"
+    },
+    "setID": "402",
+    "setName": "Malzeno",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Malzeno Braces",
+    "defense": 120,
+    "resistances": {
+      "fire": -2,
+      "water": 2,
+      "ice": -1,
+      "thunder": 2,
+      "dragon": -5
+    },
+    "slots": [
+      4
+    ],
+    "skills": [
+      {
+        "name": "Wirebug Whisperer",
+        "level": 1
+      },
+      {
+        "name": "Attack Boost",
+        "level": 2
+      },
+      {
+        "name": "Blight Resistance",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1074514808",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1074514808_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1074514808_f.webp"
+    },
+    "setID": "402",
+    "setName": "Malzeno",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Malzeno Coil",
+    "defense": 120,
+    "resistances": {
+      "fire": -2,
+      "water": 2,
+      "ice": -1,
+      "thunder": 2,
+      "dragon": -5
+    },
+    "slots": [
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Blood Rite",
+        "level": 2
+      },
+      {
+        "name": "Partbreaker",
+        "level": 1
+      },
+      {
+        "name": "Attack Boost",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1207683960",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1207683960_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1207683960_f.webp"
+    },
+    "setID": "402",
+    "setName": "Malzeno",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Malzeno Greaves",
+    "defense": 120,
+    "resistances": {
+      "fire": -2,
+      "water": 2,
+      "ice": -1,
+      "thunder": 2,
+      "dragon": -5
+    },
+    "slots": [
+      4,
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Blight Resistance",
+        "level": 2
+      },
+      {
+        "name": "Weakness Exploit",
+        "level": 1
+      },
+      {
+        "name": "Attack Boost",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1173080952",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1173080952_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1173080952_f.webp"
+    },
+    "setID": "402",
+    "setName": "Malzeno",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Professor's Goggles",
+    "defense": 114,
+    "resistances": {
+      "fire": 1,
+      "water": 1,
+      "ice": 1,
+      "thunder": 1,
+      "dragon": 1
+    },
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Recovery Speed",
+        "level": 3
+      },
+      {
+        "name": "Earplugs",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1996376688",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1996376688_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1996376688_f.webp"
+    },
+    "setID": "410",
+    "setName": "Professor",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Professor's Jacket",
+    "defense": 114,
+    "resistances": {
+      "fire": 1,
+      "water": 1,
+      "ice": 1,
+      "thunder": 1,
+      "dragon": 1
+    },
+    "slots": [
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Earplugs",
+        "level": 3
+      },
+      {
+        "name": "Hunger Resistance",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1961773680",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1961773680_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1961773680_f.webp"
+    },
+    "setID": "410",
+    "setName": "Professor",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Professor's Mittens",
+    "defense": 114,
+    "resistances": {
+      "fire": 1,
+      "water": 1,
+      "ice": 1,
+      "thunder": 1,
+      "dragon": 1
+    },
+    "slots": [
+      2,
+      2,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Divine Blessing",
+        "level": 3
+      },
+      {
+        "name": "Hunger Resistance",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1256082032",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1256082032_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1256082032_f.webp"
+    },
+    "setID": "410",
+    "setName": "Professor",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Professor's Bottoms",
+    "defense": 114,
+    "resistances": {
+      "fire": 1,
+      "water": 1,
+      "ice": 1,
+      "thunder": 1,
+      "dragon": 1
+    },
+    "slots": [
+      2,
+      2,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Tremor Resistance",
+        "level": 3
+      },
+      {
+        "name": "Flinch Free",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1221479024",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1221479024_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1221479024_f.webp"
+    },
+    "setID": "410",
+    "setName": "Professor",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Professor's Boots",
+    "defense": 114,
+    "resistances": {
+      "fire": 1,
+      "water": 1,
+      "ice": 1,
+      "thunder": 1,
+      "dragon": 1
+    },
+    "slots": [
+      4,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Marathon Runner",
+        "level": 3
+      },
+      {
+        "name": "Hunger Resistance",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1321093744",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1321093744_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1321093744_f.webp"
+    },
+    "setID": "410",
+    "setName": "Professor",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Charité Barrette",
+    "defense": 114,
+    "resistances": {
+      "fire": 1,
+      "water": 1,
+      "ice": 1,
+      "thunder": 1,
+      "dragon": 1
+    },
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Recovery Speed",
+        "level": 3
+      },
+      {
+        "name": "Earplugs",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/2010626577",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/2010626577_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/2010626577_f.webp"
+    },
+    "setID": "411",
+    "setName": "Charité",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Charité Jacket",
+    "defense": 114,
+    "resistances": {
+      "fire": 1,
+      "water": 1,
+      "ice": 1,
+      "thunder": 1,
+      "dragon": 1
+    },
+    "slots": [
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Earplugs",
+        "level": 3
+      },
+      {
+        "name": "Hunger Resistance",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1976023569",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1976023569_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1976023569_f.webp"
+    },
+    "setID": "411",
+    "setName": "Charité",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Charité Gloves",
+    "defense": 114,
+    "resistances": {
+      "fire": 1,
+      "water": 1,
+      "ice": 1,
+      "thunder": 1,
+      "dragon": 1
+    },
+    "slots": [
+      2,
+      2,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Divine Blessing",
+        "level": 3
+      },
+      {
+        "name": "Hunger Resistance",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1270331921",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1270331921_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1270331921_f.webp"
+    },
+    "setID": "411",
+    "setName": "Charité",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Charité Skirt",
+    "defense": 114,
+    "resistances": {
+      "fire": 1,
+      "water": 1,
+      "ice": 1,
+      "thunder": 1,
+      "dragon": 1
+    },
+    "slots": [
+      2,
+      2,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Tremor Resistance",
+        "level": 3
+      },
+      {
+        "name": "Flinch Free",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1235728913",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1235728913_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1235728913_f.webp"
+    },
+    "setID": "411",
+    "setName": "Charité",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Charité Boots",
+    "defense": 114,
+    "resistances": {
+      "fire": 1,
+      "water": 1,
+      "ice": 1,
+      "thunder": 1,
+      "dragon": 1
+    },
+    "slots": [
+      4,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Marathon Runner",
+        "level": 3
+      },
+      {
+        "name": "Hunger Resistance",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1335343633",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1335343633_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1335343633_f.webp"
+    },
+    "setID": "411",
+    "setName": "Charité",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Scholarly Hood",
+    "defense": 114,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "slots": [
+      4
+    ],
+    "skills": [
+      {
+        "name": "Wide-Range",
+        "level": 3
+      },
+      {
+        "name": "Capture Master",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/2129631659",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/2129631659_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/2129631659_f.webp"
+    },
+    "setID": "417",
+    "setName": "Scholarly",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Scholarly Suit",
+    "defense": 114,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "slots": [
+      2,
+      2,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Blight Resistance",
+        "level": 3
+      },
+      {
+        "name": "Free Meal",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/2095028651",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/2095028651_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/2095028651_f.webp"
+    },
+    "setID": "417",
+    "setName": "Scholarly",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Scholarly Strongarm",
+    "defense": 114,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "slots": [
+      2,
+      2,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Recovery Up",
+        "level": 3
+      },
+      {
+        "name": "Free Meal",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1926207915",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1926207915_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1926207915_f.webp"
+    },
+    "setID": "417",
+    "setName": "Scholarly",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Scholarly Sash",
+    "defense": 114,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "slots": [
+      3,
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Quick Sheathe",
+        "level": 3
+      },
+      {
+        "name": "Free Meal",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1891604907",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1891604907_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1891604907_f.webp"
+    },
+    "setID": "417",
+    "setName": "Scholarly",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Scholarly Boots",
+    "defense": 114,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "slots": [
+      2
+    ],
+    "skills": [
+      {
+        "name": "Item Prolonger",
+        "level": 3
+      },
+      {
+        "name": "Wide-Range",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1991219627",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1991219627_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1991219627_f.webp"
+    },
+    "setID": "417",
+    "setName": "Scholarly",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Commission Gorget",
+    "defense": 114,
+    "resistances": {
+      "fire": 2,
+      "water": 2,
+      "ice": 2,
+      "thunder": 2,
+      "dragon": 2
+    },
+    "slots": [
+      4
+    ],
+    "skills": [
+      {
+        "name": "Constitution",
+        "level": 3
+      },
+      {
+        "name": "Recovery Speed",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/2143340872",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/2143340872_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/2143340872_f.webp"
+    },
+    "setID": "418",
+    "setName": "Commission",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Commission Vest",
+    "defense": 114,
+    "resistances": {
+      "fire": 2,
+      "water": 2,
+      "ice": 2,
+      "thunder": 2,
+      "dragon": 2
+    },
+    "slots": [
+      2,
+      2
+    ],
+    "skills": [
+      {
+        "name": "Good Luck",
+        "level": 2
+      },
+      {
+        "name": "Recovery Speed",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/2108737864",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/2108737864_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/2108737864_f.webp"
+    },
+    "setID": "418",
+    "setName": "Commission",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Commission Vambraces",
+    "defense": 114,
+    "resistances": {
+      "fire": 2,
+      "water": 2,
+      "ice": 2,
+      "thunder": 2,
+      "dragon": 2
+    },
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Speed Eating",
+        "level": 3
+      },
+      {
+        "name": "Mushroomancer",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1939917128",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1939917128_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1939917128_f.webp"
+    },
+    "setID": "418",
+    "setName": "Commission",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Commission Belt",
+    "defense": 114,
+    "resistances": {
+      "fire": 2,
+      "water": 2,
+      "ice": 2,
+      "thunder": 2,
+      "dragon": 2
+    },
+    "slots": [
+      3,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Mushroomancer",
+        "level": 2
+      },
+      {
+        "name": "Recovery Speed",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1905314120",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1905314120_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1905314120_f.webp"
+    },
+    "setID": "418",
+    "setName": "Commission",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Commission Trousers",
+    "defense": 114,
+    "resistances": {
+      "fire": 2,
+      "water": 2,
+      "ice": 2,
+      "thunder": 2,
+      "dragon": 2
+    },
+    "slots": [
+      4
+    ],
+    "skills": [
+      {
+        "name": "Constitution",
+        "level": 2
+      },
+      {
+        "name": "Good Luck",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/2004928840",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/2004928840_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/2004928840_f.webp"
+    },
+    "setID": "418",
+    "setName": "Commission",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Jelly Hat X",
+    "defense": 114,
+    "resistances": {
+      "fire": 1,
+      "water": 3,
+      "ice": 2,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "slots": [
+      4,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Partbreaker",
+        "level": 1
+      },
+      {
+        "name": "Divine Blessing",
+        "level": 1
+      },
+      {
+        "name": "Focus",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/349613199",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/349613199_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/349613199_f.webp"
+    },
+    "setID": "325",
+    "setName": "Jelly X",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Jelly Vest X",
+    "defense": 114,
+    "resistances": {
+      "fire": 1,
+      "water": 3,
+      "ice": 2,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "slots": [
+      2,
+      2
+    ],
+    "skills": [
+      {
+        "name": "Blast Attack",
+        "level": 2
+      },
+      {
+        "name": "Focus",
+        "level": 1
+      },
+      {
+        "name": "Slugger",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1791405199",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1791405199_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1791405199_f.webp"
+    },
+    "setID": "325",
+    "setName": "Jelly X",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Jelly Gloves X",
+    "defense": 114,
+    "resistances": {
+      "fire": 1,
+      "water": 3,
+      "ice": 2,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "slots": [
+      3,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Divine Blessing",
+        "level": 2
+      },
+      {
+        "name": "Focus",
+        "level": 1
+      },
+      {
+        "name": "Slugger",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1756802191",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1756802191_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1756802191_f.webp"
+    },
+    "setID": "325",
+    "setName": "Jelly X",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Jelly Coil X",
+    "defense": 114,
+    "resistances": {
+      "fire": 1,
+      "water": 3,
+      "ice": 2,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "slots": [
+      3,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Partbreaker",
+        "level": 2
+      },
+      {
+        "name": "Charge Master",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1856416911",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1856416911_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1856416911_f.webp"
+    },
+    "setID": "325",
+    "setName": "Jelly X",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Jelly Boots X",
+    "defense": 114,
+    "resistances": {
+      "fire": 1,
+      "water": 3,
+      "ice": 2,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "slots": [
+      4,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Blast Attack",
+        "level": 1
+      },
+      {
+        "name": "Charge Master",
+        "level": 1
+      },
+      {
+        "name": "Slugger",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1821813903",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1821813903_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1821813903_f.webp"
+    },
+    "setID": "325",
+    "setName": "Jelly X",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Sailor Hat",
+    "defense": 114,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "slots": [
+      4,
+      2,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Spiribird's Call",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1918601716",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1918601716_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1918601716_f.webp"
+    },
+    "setID": "414",
+    "setName": "Sailor",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Sailor Suit",
+    "defense": 114,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "slots": [
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Evade Window",
+        "level": 4
+      },
+      {
+        "name": "Wirebug Whisperer",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1883998708",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1883998708_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1883998708_f.webp"
+    },
+    "setID": "414",
+    "setName": "Sailor",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Sailor Gloves",
+    "defense": 114,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "slots": [
+      3
+    ],
+    "skills": [
+      {
+        "name": "Focus",
+        "level": 3
+      },
+      {
+        "name": "Wirebug Whisperer",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1983613428",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1983613428_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1983613428_f.webp"
+    },
+    "setID": "414",
+    "setName": "Sailor",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Sailor Skirt",
+    "defense": 114,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "slots": [
+      3
+    ],
+    "skills": [
+      {
+        "name": "Protective Polish",
+        "level": 3
+      },
+      {
+        "name": "Wirebug Whisperer",
+        "level": 1
+      },
+      {
+        "name": "Ballistics",
+        "level": 3
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1949010420",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1949010420_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1949010420_f.webp"
+    },
+    "setID": "414",
+    "setName": "Sailor",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Sailor Socks",
+    "defense": 114,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "slots": [
+      3
+    ],
+    "skills": [
+      {
+        "name": "Marathon Runner",
+        "level": 3
+      },
+      {
+        "name": "Evade Window",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1243318772",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1243318772_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1243318772_f.webp"
+    },
+    "setID": "414",
+    "setName": "Sailor",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "name": "Guild Palace Helm",
+    "defense": 120,
+    "resistances": {
+      "fire": 1,
+      "water": 2,
+      "ice": 1,
+      "thunder": 2,
+      "dragon": 1
+    },
+    "slots": [
+      3
+    ],
+    "skills": [
+      {
+        "name": "Agitator",
+        "level": 1
+      },
+      {
+        "name": "Offensive Guard",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1619740736",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1619740736_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1619740736_f.webp"
+    },
+    "setID": "426",
+    "setName": "Guild Palace",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Guild Palace Mail",
+    "defense": 120,
+    "resistances": {
+      "fire": 1,
+      "water": 2,
+      "ice": 1,
+      "thunder": 2,
+      "dragon": 1
+    },
+    "slots": [
+      4
+    ],
+    "skills": [
+      {
+        "name": "Agitator",
+        "level": 2
+      },
+      {
+        "name": "Heroics",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1719355456",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1719355456_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1719355456_f.webp"
+    },
+    "setID": "426",
+    "setName": "Guild Palace",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Guild Palace Braces",
+    "defense": 120,
+    "resistances": {
+      "fire": 1,
+      "water": 2,
+      "ice": 1,
+      "thunder": 2,
+      "dragon": 1
+    },
+    "slots": [
+      4
+    ],
+    "skills": [
+      {
+        "name": "Agitator",
+        "level": 2
+      },
+      {
+        "name": "Coalescence",
+        "level": 1
+      },
+      {
+        "name": "Wall Runner (Boost)",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1684752448",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1684752448_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1684752448_f.webp"
+    },
+    "setID": "426",
+    "setName": "Guild Palace",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Guild Palace Coil",
+    "defense": 120,
+    "resistances": {
+      "fire": 1,
+      "water": 2,
+      "ice": 1,
+      "thunder": 2,
+      "dragon": 1
+    },
+    "slots": [
+      3,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Heroics",
+        "level": 2
+      },
+      {
+        "name": "Offensive Guard",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/2052802624",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/2052802624_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/2052802624_f.webp"
+    },
+    "setID": "426",
+    "setName": "Guild Palace",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Guild Palace Greaves",
+    "defense": 120,
+    "resistances": {
+      "fire": 1,
+      "water": 2,
+      "ice": 1,
+      "thunder": 2,
+      "dragon": 1
+    },
+    "slots": [
+      3
+    ],
+    "skills": [
+      {
+        "name": "Heroics",
+        "level": 2
+      },
+      {
+        "name": "Coalescence",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/2018199616",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/2018199616_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/2018199616_f.webp"
+    },
+    "setID": "426",
+    "setName": "Guild Palace",
+    "pool": "6",
+    "budget": 10
+  }
+]

@@ -1,0 +1,776 @@
+[
+  {
+    "series": "Kamura Legacy",
+    "id": "300",
+    "pool": "1",
+    "budget": 20
+  },
+  {
+    "series": "Leather X",
+    "id": "301",
+    "pool": "1",
+    "budget": 20
+  },
+  {
+    "series": "Chainmail X",
+    "id": "302",
+    "pool": "1",
+    "budget": 20
+  },
+  {
+    "series": "Hunter X",
+    "id": "303",
+    "pool": "1",
+    "budget": 20
+  },
+  {
+    "series": "Alloy X",
+    "id": "305",
+    "pool": "1",
+    "budget": 20
+  },
+  {
+    "series": "Bone X",
+    "id": "382",
+    "pool": "1",
+    "budget": 20
+  },
+  {
+    "series": "Gargwa Mask X",
+    "id": "342",
+    "pool": "1",
+    "budget": 20
+  },
+  {
+    "series": "Rhenoplos X",
+    "id": "344",
+    "pool": "1",
+    "budget": 20
+  },
+  {
+    "series": "Bullfango Mask X",
+    "id": "347",
+    "pool": "1",
+    "budget": 20
+  },
+  {
+    "series": "Droth X",
+    "id": "349",
+    "pool": "1",
+    "budget": 20
+  },
+  {
+    "series": "Bnahabra X",
+    "id": "346",
+    "pool": "1",
+    "budget": 20
+  },
+  {
+    "series": "Hornetaur",
+    "id": "409",
+    "pool": "1",
+    "budget": 20
+  },
+  {
+    "series": "Vespoid",
+    "id": "408",
+    "pool": "1",
+    "budget": 20
+  },
+  {
+    "series": "Jaggi X",
+    "id": "345",
+    "pool": "1",
+    "budget": 20
+  },
+  {
+    "series": "Jaggi Mask X",
+    "id": "377",
+    "pool": "1",
+    "budget": 20
+  },
+  {
+    "series": "Velociprey",
+    "id": "407",
+    "pool": "1",
+    "budget": 20
+  },
+  {
+    "series": "Izuchi X",
+    "id": "338",
+    "pool": "1",
+    "budget": 20
+  },
+  {
+    "series": "Baggi X",
+    "id": "352",
+    "pool": "1",
+    "budget": 20
+  },
+  {
+    "series": "Kulu-Ya-Ku X",
+    "id": "368",
+    "pool": "1",
+    "budget": 20
+  },
+  {
+    "series": "Wroggi X",
+    "id": "351",
+    "pool": "1",
+    "budget": 20
+  },
+  {
+    "series": "Arzuros X",
+    "id": "353",
+    "pool": "1",
+    "budget": 20
+  },
+  {
+    "series": "Lagombi X",
+    "id": "381",
+    "pool": "1",
+    "budget": 20
+  },
+  {
+    "series": "Volvidon X",
+    "id": "354",
+    "pool": "1",
+    "budget": 20
+  },
+  {
+    "series": "Aknosom X",
+    "id": "327",
+    "pool": "1",
+    "budget": 20
+  },
+  {
+    "series": "Royal Ludroth X",
+    "id": "355",
+    "pool": "1",
+    "budget": 20
+  },
+  {
+    "series": "Barroth X",
+    "id": "356",
+    "pool": "1",
+    "budget": 20
+  },
+  {
+    "series": "Hermitaur",
+    "id": "386",
+    "pool": "1",
+    "budget": 20
+  },
+  {
+    "series": "Tetranadon X",
+    "id": "328",
+    "pool": "1",
+    "budget": 20
+  },
+  {
+    "series": "Ingot X",
+    "id": "306",
+    "pool": "2",
+    "budget": 18
+  },
+  {
+    "series": "Skalda X",
+    "id": "318",
+    "pool": "2",
+    "budget": 18
+  },
+  {
+    "series": "Spio X",
+    "id": "319",
+    "pool": "2",
+    "budget": 18
+  },
+  {
+    "series": "Grand Chaos",
+    "id": "316",
+    "pool": "2",
+    "budget": 18
+  },
+  {
+    "series": "Edel X",
+    "id": "317",
+    "pool": "2",
+    "budget": 18
+  },
+  {
+    "series": "Shell-Studded X",
+    "id": "324",
+    "pool": "2",
+    "budget": 18
+  },
+  {
+    "series": "Melahoa X",
+    "id": "308",
+    "pool": "2",
+    "budget": 18
+  },
+  {
+    "series": "Five Element",
+    "id": "424",
+    "pool": "2",
+    "budget": 18
+  },
+  {
+    "series": "Knight Squire",
+    "id": "442",
+    "pool": "3",
+    "budget": 16
+  },
+  {
+    "series": "Yukumo Sky",
+    "id": "427",
+    "pool": "2",
+    "budget": 18
+  },
+  {
+    "series": "Slagtoth X",
+    "id": "343",
+    "pool": "2",
+    "budget": 18
+  },
+  {
+    "series": "Khezu X",
+    "id": "357",
+    "pool": "2",
+    "budget": 18
+  },
+  {
+    "series": "Bishaten X",
+    "id": "326",
+    "pool": "2",
+    "budget": 18
+  },
+  {
+    "series": "Orangaten",
+    "id": "396",
+    "pool": "2",
+    "budget": 18
+  },
+  {
+    "series": "Pukei-Pukei X",
+    "id": "369",
+    "pool": "2",
+    "budget": 18
+  },
+  {
+    "series": "Jyuratodus X",
+    "id": "370",
+    "pool": "2",
+    "budget": 18
+  },
+  {
+    "series": "Basarios X",
+    "id": "364",
+    "pool": "2",
+    "budget": 18
+  },
+  {
+    "series": "Somnacanth X",
+    "id": "329",
+    "pool": "2",
+    "budget": 18
+  },
+  {
+    "series": "Auroracanth",
+    "id": "397",
+    "pool": "3",
+    "budget": 16
+  },
+  {
+    "series": "Rathian X",
+    "id": "360",
+    "pool": "2",
+    "budget": 18
+  },
+  {
+    "series": "Tobi-Kadachi X",
+    "id": "371",
+    "pool": "2",
+    "budget": 18
+  },
+  {
+    "series": "Anjanath X",
+    "id": "372",
+    "pool": "2",
+    "budget": 18
+  },
+  {
+    "series": "Skull X",
+    "id": "375",
+    "pool": "3",
+    "budget": 16
+  },
+  {
+    "series": "Dober X",
+    "id": "304",
+    "pool": "3",
+    "budget": 16
+  },
+  {
+    "series": "Vaik X",
+    "id": "315",
+    "pool": "3",
+    "budget": 16
+  },
+  {
+    "series": "Mosgharl X",
+    "id": "311",
+    "pool": "3",
+    "budget": 16
+  },
+  {
+    "series": "Mosgharl X",
+    "id": "312",
+    "pool": "3",
+    "budget": 16
+  },
+  {
+    "series": "Death Stench X",
+    "id": "310",
+    "pool": "3",
+    "budget": 16
+  },
+  {
+    "series": "Makluva X",
+    "id": "309",
+    "pool": "3",
+    "budget": 16
+  },
+  {
+    "series": "Aelucanth X",
+    "id": "313",
+    "pool": "3",
+    "budget": 16
+  },
+  {
+    "series": "Rhopessa X",
+    "id": "314",
+    "pool": "3",
+    "budget": 16
+  },
+  {
+    "series": "Royal Artillery Corps",
+    "id": "443",
+    "pool": "3",
+    "budget": 16
+  },
+  {
+    "series": "Guild Bard",
+    "id": "412",
+    "pool": "3",
+    "budget": 16
+  },
+  {
+    "series": "Scholar",
+    "id": "413",
+    "pool": "3",
+    "budget": 16
+  },
+  {
+    "series": "Guardian",
+    "id": "425",
+    "pool": "3",
+    "budget": 16
+  },
+  {
+    "series": "Brigade X",
+    "id": "384",
+    "pool": "3",
+    "budget": 16
+  },
+  {
+    "series": "Barioth X",
+    "id": "359",
+    "pool": "3",
+    "budget": 16
+  },
+  {
+    "series": "Sinister Demon",
+    "id": "380",
+    "pool": "3",
+    "budget": 16
+  },
+  {
+    "series": "Nargacuga X",
+    "id": "358",
+    "pool": "3",
+    "budget": 16
+  },
+  {
+    "series": "Goss Harag X",
+    "id": "332",
+    "pool": "3",
+    "budget": 16
+  },
+  {
+    "series": "Garangolm",
+    "id": "404",
+    "pool": "3",
+    "budget": 16
+  },
+  {
+    "series": "Ceanataur",
+    "id": "387",
+    "pool": "3",
+    "budget": 16
+  },
+  {
+    "series": "Almudron X",
+    "id": "333",
+    "pool": "3",
+    "budget": 16
+  },
+  {
+    "series": "Magmadron",
+    "id": "400",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "series": "Rakna-Kadaki X",
+    "id": "330",
+    "pool": "3",
+    "budget": 16
+  },
+  {
+    "series": "Rakna-Kadaki X",
+    "id": "331",
+    "pool": "3",
+    "budget": 16
+  },
+  {
+    "series": "Pyre-Kadaki",
+    "id": "398",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "series": "Pyre-Kadaki",
+    "id": "399",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "series": "Utsushi True (Visible)",
+    "id": "320",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "series": "Channeler (Spring)",
+    "id": "321",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "series": "Utsushi True (Hidden)",
+    "id": "322",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "series": "Medium (Light)",
+    "id": "323",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "series": "Chrome Metal X",
+    "id": "374",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "series": "Uroktor X",
+    "id": "350",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "series": "Remobra X",
+    "id": "348",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "series": "Mizutsune X",
+    "id": "383",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "series": "Rathalos X",
+    "id": "361",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "series": "Zinogre X",
+    "id": "365",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "series": "Tigrex X",
+    "id": "362",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "series": "Diablos X",
+    "id": "363",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "series": "Gore Magala",
+    "id": "389",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "series": "Seregios",
+    "id": "392",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "series": "Astalos",
+    "id": "393",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "series": "Lunagaron",
+    "id": "403",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "series": "Espinas",
+    "id": "406",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "series": "Heavy Knight",
+    "id": "441",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "series": "Hawk",
+    "id": "415",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "series": "Lecturer",
+    "id": "416",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "series": "Dignified",
+    "id": "456",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "series": "Barbania",
+    "id": "422",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "series": "Snowshear",
+    "id": "423",
+    "pool": "4",
+    "budget": 14
+  },
+  {
+    "series": "Grand God's Peer",
+    "id": "366",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "series": "Bazelgeuse X",
+    "id": "373",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "series": "Damascus X",
+    "id": "307",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "series": "Kushala X",
+    "id": "339",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "series": "Grand Mizuha",
+    "id": "340",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "series": "Kaiser X",
+    "id": "341",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "series": "Arc",
+    "id": "390",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "series": "Storge",
+    "id": "391",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "series": "Malzeno",
+    "id": "402",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "series": "Professor",
+    "id": "410",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "series": "Charité",
+    "id": "411",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "series": "Scholarly",
+    "id": "417",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "series": "Commission",
+    "id": "418",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "series": "Jelly X",
+    "id": "325",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "series": "Sailor",
+    "id": "414",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "series": "Archfiend Armor",
+    "id": "405",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "series": "Ibushi - Pure",
+    "id": "334",
+    "pool": "13",
+    "budget": 10
+  },
+  {
+    "series": "Narwa - Pure",
+    "id": "336",
+    "pool": "13",
+    "budget": 10
+  },
+  {
+    "series": "Crimson Valstrax - Eclipse",
+    "id": "367",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "series": "Grand Divine Ire",
+    "id": "388",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "series": "Sinister Grudge",
+    "id": "395",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "series": "Base Commander",
+    "id": "419",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "series": "Base Commander",
+    "id": "420",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "series": "Soaring Feather",
+    "id": "459",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "series": "Blessed Feather",
+    "id": "460",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "series": "Guild Palace",
+    "id": "426",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "series": "Pride",
+    "id": "401",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "series": "Golden Lune",
+    "id": "428",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "series": "Silver Sol",
+    "id": "429",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "series": "Lucent Narga",
+    "id": "431",
+    "pool": "6",
+    "budget": 10
+  }
+]

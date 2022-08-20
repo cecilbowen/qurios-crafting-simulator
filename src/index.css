@@ -5,6 +5,14 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url('./images/mh-back-cinnamoonie.png');
+  background-size: 250px;
+  /*animation: hotel 40s linear infinite;*/
+  /*animation-direction: alternate-reverse;*/
+}
+@keyframes hotel {
+  from {background-position: bottom;}
+  to {background-position: top;}
 }
 
 code {

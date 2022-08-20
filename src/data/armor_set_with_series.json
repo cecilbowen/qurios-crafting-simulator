@@ -1,0 +1,1419 @@
+[
+  {
+    "name": "Kamura Legacy",
+    "setID": "300",
+    "pieces": [
+      "Kamura Legacy Head Scarf",
+      "Kamura Legacy Garb",
+      "Kamura Legacy Braces",
+      "Kamura Legacy Obi",
+      "Kamura Legacy Leggings"
+    ]
+  },
+  {
+    "name": "Leather X",
+    "setID": "301",
+    "pieces": [
+      "Leather Headgear X",
+      "Leather Vest X",
+      "Leather Gloves X",
+      "Leather Belt X",
+      "Leather Trousers X"
+    ]
+  },
+  {
+    "name": "Chainmail X",
+    "setID": "302",
+    "pieces": [
+      "Chainmail Headgear X",
+      "Chainmail Vest X",
+      "Chainmail Gloves X",
+      "Chainmail Belt X",
+      "Chainmail Pants X"
+    ]
+  },
+  {
+    "name": "Hunter X",
+    "setID": "303",
+    "pieces": [
+      "Hunter's Helm X",
+      "Hunter's Mail X",
+      "Hunter's Vambraces X",
+      "Hunter's Coil X",
+      "Hunter's Greaves X"
+    ]
+  },
+  {
+    "name": "Alloy X",
+    "setID": "305",
+    "pieces": [
+      "Alloy Helm X",
+      "Alloy Mail X",
+      "Alloy Vambraces X",
+      "Alloy Coil X",
+      "Alloy Greaves X"
+    ]
+  },
+  {
+    "name": "Bone X",
+    "setID": "382",
+    "pieces": [
+      "Bone Helm X",
+      "Bone Mail X",
+      "Bone Vambraces X",
+      "Bone Coil X",
+      "Bone Greaves X"
+    ]
+  },
+  {
+    "name": "Gargwa Mask X",
+    "setID": "342",
+    "pieces": [
+      "Gargwa Mask X"
+    ]
+  },
+  {
+    "name": "Rhenoplos X",
+    "setID": "344",
+    "pieces": [
+      "Rhenoplos Helm X",
+      "Rhenoplos Mail X",
+      "Rhenoplos Braces X",
+      "Rhenoplos Coil X",
+      "Rhenoplos Greaves X"
+    ]
+  },
+  {
+    "name": "Bullfango Mask X",
+    "setID": "347",
+    "pieces": [
+      "Bullfango Mask X"
+    ]
+  },
+  {
+    "name": "Droth X",
+    "setID": "349",
+    "pieces": [
+      "Droth Mail X",
+      "Droth Coil X",
+      "Droth Greaves X"
+    ]
+  },
+  {
+    "name": "Bnahabra X",
+    "setID": "346",
+    "pieces": [
+      "Bnahabra Hat X",
+      "Bnahabra Suit X",
+      "Bnahabra Gloves X",
+      "Bnahabra Coil X",
+      "Bnahabra Boots X"
+    ]
+  },
+  {
+    "name": "Hornetaur",
+    "setID": "409",
+    "pieces": [
+      "Hornetaur Helm",
+      "Hornetaur Mail",
+      "Hornetaur Braces",
+      "Hornetaur Tassets",
+      "Hornetaur Greaves"
+    ]
+  },
+  {
+    "name": "Vespoid",
+    "setID": "408",
+    "pieces": [
+      "Vespoid Helm",
+      "Vespoid Mail",
+      "Vespoid Vambraces",
+      "Vespoid Tassets",
+      "Vespoid Greaves"
+    ]
+  },
+  {
+    "name": "Jaggi X",
+    "setID": "345",
+    "pieces": [
+      "Jaggi Gauntlets X",
+      "Jaggi Shinguards X"
+    ]
+  },
+  {
+    "name": "Jaggi Mask X",
+    "setID": "377",
+    "pieces": [
+      "Jaggi Mask X"
+    ]
+  },
+  {
+    "name": "Velociprey",
+    "setID": "407",
+    "pieces": [
+      "Velociprey Helm",
+      "Velociprey Mail",
+      "Velociprey Braces",
+      "Velociprey Tassets",
+      "Velociprey Greaves"
+    ]
+  },
+  {
+    "name": "Izuchi X",
+    "setID": "338",
+    "pieces": [
+      "Izuchi Helm X",
+      "Izuchi Mail X",
+      "Izuchi Braces X",
+      "Izuchi Coil X",
+      "Izuchi Greaves X"
+    ]
+  },
+  {
+    "name": "Baggi X",
+    "setID": "352",
+    "pieces": [
+      "Baggi Helm X",
+      "Baggi Mail X",
+      "Baggi Vambraces X",
+      "Baggi Coil X",
+      "Baggi Greaves X"
+    ]
+  },
+  {
+    "name": "Kulu-Ya-Ku X",
+    "setID": "368",
+    "pieces": [
+      "Kulu-Ya-Ku Helm X",
+      "Kulu-Ya-Ku Mail X",
+      "Kulu-Ya-Ku Braces X",
+      "Kulu-Ya-Ku Coil X",
+      "Kulu-Ya-Ku Greaves X"
+    ]
+  },
+  {
+    "name": "Wroggi X",
+    "setID": "351",
+    "pieces": [
+      "Wroggi Helm X",
+      "Wroggi Mail X",
+      "Wroggi Vambraces X",
+      "Wroggi Coil X",
+      "Wroggi Greaves X"
+    ]
+  },
+  {
+    "name": "Arzuros X",
+    "setID": "353",
+    "pieces": [
+      "Arzuros Helm X",
+      "Arzuros Mail X",
+      "Arzuros Vambraces X",
+      "Arzuros Coil X",
+      "Arzuros Greaves X"
+    ]
+  },
+  {
+    "name": "Lagombi X",
+    "setID": "381",
+    "pieces": [
+      "Lagombi Helm X",
+      "Lagombi Mail X",
+      "Lagombi Vambraces X",
+      "Lagombi Coil X",
+      "Lagombi Greaves X"
+    ]
+  },
+  {
+    "name": "Volvidon X",
+    "setID": "354",
+    "pieces": [
+      "Volvidon Helm X",
+      "Volvidon Mail X",
+      "Volvidon Vambraces X",
+      "Volvidon Coil X",
+      "Volvidon Greaves X"
+    ]
+  },
+  {
+    "name": "Aknosom X",
+    "setID": "327",
+    "pieces": [
+      "Aknosom Helm X",
+      "Aknosom Mail X",
+      "Aknosom Braces X",
+      "Aknosom Coil X",
+      "Aknosom Greaves X"
+    ]
+  },
+  {
+    "name": "Royal Ludroth X",
+    "setID": "355",
+    "pieces": [
+      "Ludroth Helm X",
+      "Ludroth Mail X",
+      "Ludroth Braces X",
+      "Ludroth Coil X",
+      "Ludroth Greaves X"
+    ]
+  },
+  {
+    "name": "Barroth X",
+    "setID": "356",
+    "pieces": [
+      "Barroth Helm X",
+      "Barroth Mail X",
+      "Barroth Vambraces X",
+      "Barroth Coil X",
+      "Barroth Greaves X"
+    ]
+  },
+  {
+    "name": "Hermitaur",
+    "setID": "386",
+    "pieces": [
+      "Hermitaur Helm",
+      "Hermitaur Mail",
+      "Hermitaur Braces",
+      "Hermitaur Coil",
+      "Hermitaur Greaves"
+    ]
+  },
+  {
+    "name": "Tetranadon X",
+    "setID": "328",
+    "pieces": [
+      "Tetranadon Helm X",
+      "Tetranadon Mail X",
+      "Tetranadon Braces X",
+      "Tetranadon Coil X",
+      "Tetranadon Greaves x"
+    ]
+  },
+  {
+    "name": "Ingot X",
+    "setID": "306",
+    "pieces": [
+      "Ingot Helm X",
+      "Ingot Mail X",
+      "Ingot Vambraces X",
+      "Ingot Coil X",
+      "Ingot Greaves X"
+    ]
+  },
+  {
+    "name": "Skalda X",
+    "setID": "318",
+    "pieces": [
+      "Skalda Vertex X",
+      "Skalda Thorax X",
+      "Skalda Brachia X",
+      "Skalda Elytra X",
+      "Skalda Crura X"
+    ]
+  },
+  {
+    "name": "Spio X",
+    "setID": "319",
+    "pieces": [
+      "Spio Vertex X",
+      "Spio Thorax X",
+      "Spio Brachia X",
+      "Spio Elytra X",
+      "Spio Crura X"
+    ]
+  },
+  {
+    "name": "Grand Chaos",
+    "setID": "316",
+    "pieces": [
+      "Grand Chaoshroom",
+      "Grand Chaos Plate"
+    ]
+  },
+  {
+    "name": "Edel X",
+    "setID": "317",
+    "pieces": [
+      "Edel Vizor X",
+      "Edel Ribplate X",
+      "Edel Creeper X",
+      "Edel Folia X",
+      "Edel Roots X"
+    ]
+  },
+  {
+    "name": "Shell-Studded X",
+    "setID": "324",
+    "pieces": [
+      "S. Studded Hat X",
+      "S. Studded Vest X",
+      "S. Studded Gloves X",
+      "S. Studded Sash X",
+      "S. Studded Sandals X"
+    ]
+  },
+  {
+    "name": "Melahoa X",
+    "setID": "308",
+    "pieces": [
+      "Melahoa Hat X",
+      "Melahoa Jacket X",
+      "Melahoa Branch X",
+      "Melahoa Folia X",
+      "Melahoa Roots X"
+    ]
+  },
+  {
+    "name": "Five Element",
+    "setID": "424",
+    "pieces": [
+      "Five Element Mask",
+      "Five Element Garb",
+      "Five Element Arms",
+      "Five Element Obi",
+      "Five Element Legwear"
+    ]
+  },
+  {
+    "name": "Knight Squire",
+    "setID": "442",
+    "pieces": [
+      "Squire's Earrings",
+      "Squire's Cuirass",
+      "Squire's Braces",
+      "Squire's Belt",
+      "Squire's Greaves"
+    ]
+  },
+  {
+    "name": "Yukumo Sky",
+    "setID": "427",
+    "pieces": [
+      "Yukumo Sky Kasa",
+      "Yukumo Sky Dogi",
+      "Yukumo Sky Kote",
+      "Yukumo Sky Obi",
+      "Yukumo Sky Hakama"
+    ]
+  },
+  {
+    "name": "Cohoot Mask",
+    "setID": "444",
+    "pieces": [
+      "Cohoot Mask"
+    ]
+  },
+  {
+    "name": "Slagtoth X",
+    "setID": "343",
+    "pieces": [
+      "Slagtoth Hood X",
+      "Slagtoth Cloak X"
+    ]
+  },
+  {
+    "name": "Khezu X",
+    "setID": "357",
+    "pieces": [
+      "Khezu Helm X",
+      "Khezu Mail X",
+      "Khezu Vambraces X",
+      "Khezu Coil X",
+      "Khezu Greaves X"
+    ]
+  },
+  {
+    "name": "Bishaten X",
+    "setID": "326",
+    "pieces": [
+      "Bishaten Helm X",
+      "Bishaten Mail X",
+      "Bishaten Vambraces X",
+      "Bishaten Coil X",
+      "Bishaten Greaves X"
+    ]
+  },
+  {
+    "name": "Orangaten",
+    "setID": "396",
+    "pieces": [
+      "Orangaten Helm",
+      "Orangaten Mail",
+      "Orangaten Braces",
+      "Orangaten Coil",
+      "Orangaten Greaves"
+    ]
+  },
+  {
+    "name": "Pukei-Pukei X",
+    "setID": "369",
+    "pieces": [
+      "Pukei-Pukei Helm X",
+      "Pukei-Pukei Mail X",
+      "Pukei-Pukei Braces X",
+      "Pukei-Pukei Coil X",
+      "Pukei Greaves X"
+    ]
+  },
+  {
+    "name": "Jyuratodus X",
+    "setID": "370",
+    "pieces": [
+      "Jyuratodus Helm X",
+      "Jyuratodus Mail X",
+      "Jyuratodus Vambraces X",
+      "Jyuratodus Coil X",
+      "Jyuratodus Greaves X"
+    ]
+  },
+  {
+    "name": "Basarios X",
+    "setID": "364",
+    "pieces": [
+      "Basarios Helm X",
+      "Basarios Mail X",
+      "Basarios Vambraces X",
+      "Basarios Coil X",
+      "Basarios Greaves X"
+    ]
+  },
+  {
+    "name": "Somnacanth X",
+    "setID": "329",
+    "pieces": [
+      "Somnacanth Helm X",
+      "Somnacanth Mail X",
+      "Somnacanth Braces X",
+      "Somnacanth Coil X",
+      "Somnacanth Greaves X"
+    ]
+  },
+  {
+    "name": "Auroracanth",
+    "setID": "397",
+    "pieces": [
+      "Auroracanth Head",
+      "Auroracanth Mail",
+      "Auroracanth Braces",
+      "Auroracanth Coil",
+      "Auroracanth Greaves"
+    ]
+  },
+  {
+    "name": "Rathian X",
+    "setID": "360",
+    "pieces": [
+      "Rathian Helm X",
+      "Rathian Mail X",
+      "Rathian Braces X",
+      "Rathian Coil X",
+      "Rathian Greaves X"
+    ]
+  },
+  {
+    "name": "Tobi-Kadachi X",
+    "setID": "371",
+    "pieces": [
+      "Kadachi Helm X",
+      "Tobi-Kadachi Mail X",
+      "Kadachi Braces X",
+      "Tobi-Kadachi Coil X",
+      "Kadachi Greaves X"
+    ]
+  },
+  {
+    "name": "Anjanath X",
+    "setID": "372",
+    "pieces": [
+      "Anjanath Helm X",
+      "Anjanath Mail X",
+      "Anjanath Vambraces X",
+      "Anjanath Coil X",
+      "Anjanath Greaves X"
+    ]
+  },
+  {
+    "name": "Skull X",
+    "setID": "375",
+    "pieces": [
+      "Skull Visage X"
+    ]
+  },
+  {
+    "name": "Dober X",
+    "setID": "304",
+    "pieces": [
+      "Dober Helm X",
+      "Dober Mail X",
+      "Dober Vambraces X",
+      "Dober Coil X",
+      "Dober Greaves X"
+    ]
+  },
+  {
+    "name": "Vaik X",
+    "setID": "315",
+    "pieces": [
+      "Vaik Helm X",
+      "Vaik Mail X",
+      "Vaik Braces X",
+      "Vaik Coil X",
+      "Vaik Greaves X"
+    ]
+  },
+  {
+    "name": "Mosgharl X",
+    "setID": "311",
+    "pieces": [
+      "Mosgharl Vizor X",
+      "Mosgharl Ribplate X",
+      "Mosgharl Creeper X",
+      "Mosgharl Folia X",
+      "Mosgharl Roots X"
+    ]
+  },
+  {
+    "name": "Mosgharl X",
+    "setID": "312",
+    "pieces": [
+      "Mosgharl Vizor X",
+      "Mosgharl Ribplate X",
+      "Mosgharl Creeper X",
+      "Mosgharl Folia X",
+      "Mosgharl Roots X"
+    ]
+  },
+  {
+    "name": "Death Stench X",
+    "setID": "310",
+    "pieces": [
+      "Death Stench Brain X",
+      "Death Stench Muscle X",
+      "Death Stench Grip X",
+      "Death Stench Bowels X",
+      "Death Stench Heel X"
+    ]
+  },
+  {
+    "name": "Makluva X",
+    "setID": "309",
+    "pieces": [
+      "Makluva Hood X",
+      "Makluva Cover X",
+      "Makluva Sleeves X",
+      "Makluva Coil X",
+      "Makluva Pants X"
+    ]
+  },
+  {
+    "name": "Aelucanth X",
+    "setID": "313",
+    "pieces": [
+      "Aelucanth Vertex X",
+      "Aelucanth Thorax X",
+      "Aelucanth Brachia X",
+      "Aelucanth Elytra X",
+      "Aelucanth Crura X"
+    ]
+  },
+  {
+    "name": "Rhopessa X",
+    "setID": "314",
+    "pieces": [
+      "Rhopessa Vertex X",
+      "Rhopessa Thorax X",
+      "Rhopessa Brachia X",
+      "Rhopessa Elytra X",
+      "Rhopessa Crura X"
+    ]
+  },
+  {
+    "name": "Royal Artillery Corps",
+    "setID": "443",
+    "pieces": [
+      "Artillery Corps Helm",
+      "Artillery Corps Vest",
+      "Artillery Corps Gauntlets",
+      "Artillery Corps Tassets",
+      "Artillery Corps Greaves"
+    ]
+  },
+  {
+    "name": "Guild Bard",
+    "setID": "412",
+    "pieces": [
+      "Guild Bard Lobos",
+      "Guild Bard Bolero",
+      "Guild Bard Braces",
+      "Guild Bard Coil",
+      "Guild Bard Boots"
+    ]
+  },
+  {
+    "name": "Scholar",
+    "setID": "413",
+    "pieces": [
+      "Scholar's Beret",
+      "Scholar's Blouse",
+      "Scholar's Gloves",
+      "Scholar's Skirt",
+      "Scholar's Socks"
+    ]
+  },
+  {
+    "name": "Guardian",
+    "setID": "425",
+    "pieces": [
+      "Guardian Helm",
+      "Guardian Suit",
+      "Guardian Vambraces",
+      "Guardian Coil",
+      "Guardian Boots"
+    ]
+  },
+  {
+    "name": "Monksnail Hat",
+    "setID": "445",
+    "pieces": [
+      "Monksnail Hat"
+    ]
+  },
+  {
+    "name": "Brigade X",
+    "setID": "384",
+    "pieces": [
+      "Brigade Lobos X",
+      "Brigade Suit X",
+      "Brigade Vambraces X",
+      "Brigade Coil X",
+      "Brigade Boots X"
+    ]
+  },
+  {
+    "name": "Barioth X",
+    "setID": "359",
+    "pieces": [
+      "Barioth Helm X",
+      "Barioth Mail X",
+      "Barioth Vambraces X",
+      "Barioth Coil X",
+      "Barioth Greaves X"
+    ]
+  },
+  {
+    "name": "Sinister Demon",
+    "setID": "380",
+    "pieces": [
+      "Sinister Demon Helm",
+      "Sinister Demon Garb",
+      "Sinister Demon Gauntlets",
+      "Sinister Demon Tassets",
+      "Sinister Demon Greaves"
+    ]
+  },
+  {
+    "name": "Nargacuga X",
+    "setID": "358",
+    "pieces": [
+      "Nargacuga Helm X",
+      "Nargacuga Mail X",
+      "Nargacuga Braces X",
+      "Nargacuga Coil X",
+      "Nargacuga Greaves X"
+    ]
+  },
+  {
+    "name": "Goss Harag X",
+    "setID": "332",
+    "pieces": [
+      "Goss Harag Helm X",
+      "Goss Harag Mail X",
+      "Goss Harag Braces X",
+      "Goss Harag Coil X",
+      "Goss Harag Greaves X"
+    ]
+  },
+  {
+    "name": "Garangolm",
+    "setID": "404",
+    "pieces": [
+      "Golm Helm",
+      "Golm Mail",
+      "Golm Braces",
+      "Golm Faulds",
+      "Golm Greaves"
+    ]
+  },
+  {
+    "name": "Ceanataur",
+    "setID": "387",
+    "pieces": [
+      "Ceanataur Helm",
+      "Ceanataur Mail",
+      "Ceanataur Braces",
+      "Ceanataur Coil",
+      "Ceanataur Greaves"
+    ]
+  },
+  {
+    "name": "Almudron X",
+    "setID": "333",
+    "pieces": [
+      "Almudron Helm X",
+      "Almudron Mail X",
+      "Almudron Vambraces X",
+      "Almudron Coil X",
+      "Almudron Greaves X"
+    ]
+  },
+  {
+    "name": "Magmadron",
+    "setID": "400",
+    "pieces": [
+      "Magmadron Helm",
+      "Magmadron Mail",
+      "Magmadron Vambraces",
+      "Magmadron Coil",
+      "Magmadron Greaves"
+    ]
+  },
+  {
+    "name": "Rakna-Kadaki X",
+    "setID": "330",
+    "pieces": [
+      "Rakna Helm X",
+      "Rakna Mail X",
+      "Rakna Armguards X",
+      "Rakna Coil X",
+      "Rakna Greaves X"
+    ]
+  },
+  {
+    "name": "Rakna-Kadaki X",
+    "setID": "331",
+    "pieces": [
+      "Rakna Helm X",
+      "Rakna Mail X",
+      "Rakna Armguards X",
+      "Rakna Coil X",
+      "Rakna Greaves X"
+    ]
+  },
+  {
+    "name": "Pyre-Kadaki",
+    "setID": "398",
+    "pieces": [
+      "Pyre-Kadaki Helm",
+      "Pyre-Kadaki Mail",
+      "Pyre-Kadaki Braces",
+      "Pyre-Kadaki Coil",
+      "Pyre-Kadaki Greaves"
+    ]
+  },
+  {
+    "name": "Pyre-Kadaki",
+    "setID": "399",
+    "pieces": [
+      "Pyre-Kadaki Helm",
+      "Pyre-Kadaki Mail",
+      "Pyre-Kadaki Braces",
+      "Pyre-Kadaki Coil",
+      "Pyre-Kadaki Greaves"
+    ]
+  },
+  {
+    "name": "Chrome Metal X",
+    "setID": "374",
+    "pieces": [
+      "Chrome Metal Coil X",
+      "Chrome Metal Boots X"
+    ]
+  },
+  {
+    "name": "Snowshear",
+    "setID": "423",
+    "pieces": [
+      "Snowshear Headgear",
+      "Snowshear Mail",
+      "Snowshear Braces",
+      "Snowshear Coil",
+      "Snowshear Greaves"
+    ]
+  },
+  {
+    "name": "Barbania",
+    "setID": "422",
+    "pieces": [
+      "Barbania Patch",
+      "Barbania Vest",
+      "Barbania Gloves",
+      "Barbania Belt",
+      "Barbania Boots"
+    ]
+  },
+  {
+    "name": "Utsushi True (Visible)",
+    "setID": "320",
+    "pieces": [
+      "Utsushi True Mask (V)",
+      "Utsushi True Chest (V)",
+      "Utsushi True Braces (V)",
+      "Utsushi True Tassets (V)",
+      "Utsushi True Greaves (V)"
+    ]
+  },
+  {
+    "name": "Medium (Light)",
+    "setID": "323",
+    "pieces": [
+      "Medium's Hair Tie (Light)",
+      "Medium's Robe (Light)",
+      "Medium's Prayer (Light)",
+      "Medium's Obi (Light)",
+      "Medium's Hakama (Light)"
+    ]
+  },
+  {
+    "name": "Utsushi True (Hidden)",
+    "setID": "322",
+    "pieces": [
+      "Utsushi True Mask (H)",
+      "Utsushi True Chest (H)",
+      "Utsushi True Braces (H)",
+      "Utsushi True Tassets (H)",
+      "Utsushi True Greaves (H)"
+    ]
+  },
+  {
+    "name": "Channeler (Spring)",
+    "setID": "321",
+    "pieces": [
+      "Channeler's Hair Tie (Spring)",
+      "Channeler's Robe (Spring)",
+      "Channeler's Hope (Spring)",
+      "Channeler's Obi (Spring)",
+      "Channeler's Hakama (Spring)"
+    ]
+  },
+  {
+    "name": "Heavy Knight",
+    "setID": "441",
+    "pieces": [
+      "Hoplite's Helm",
+      "Hoplite's Armor",
+      "Hoplite's Braces",
+      "Hoplite's Belt",
+      "Hoplite's Greaves"
+    ]
+  },
+  {
+    "name": "Hawk",
+    "setID": "415",
+    "pieces": [
+      "Hawkhat",
+      "Hawksuit",
+      "Hawk Gloves",
+      "Hawkcoil",
+      "Hawkboots"
+    ]
+  },
+  {
+    "name": "Lecturer",
+    "setID": "416",
+    "pieces": [
+      "Lecturer's Hood",
+      "Lecturer's Suit",
+      "Lecturer Gloves",
+      "Lecturer's Skirt",
+      "Lecturer's Boots"
+    ]
+  },
+  {
+    "name": "Dignified",
+    "setID": "456",
+    "pieces": [
+      "Dignified Earrings",
+      "Dignified Jacket",
+      "Dignified Gloves",
+      "Dignified Cuisse",
+      "Dignified Greaves"
+    ]
+  },
+  {
+    "name": "Uroktor X",
+    "setID": "350",
+    "pieces": [
+      "Uroktor Torso X",
+      "Uroktor Coil X"
+    ]
+  },
+  {
+    "name": "Remobra X",
+    "setID": "348",
+    "pieces": [
+      "Remobra Headgear X",
+      "Remobra Suit X",
+      "Remobra Gloves X",
+      "Remobra Belt X",
+      "Remobra Feet X"
+    ]
+  },
+  {
+    "name": "Mizutsune X",
+    "setID": "383",
+    "pieces": [
+      "Mizutsune Helm X",
+      "Mizutsune Mail X",
+      "Mizutsune Braces X",
+      "Mizutsune Coil X",
+      "Mizutsune Greaves X"
+    ]
+  },
+  {
+    "name": "Rathalos X",
+    "setID": "361",
+    "pieces": [
+      "Rathalos Helm X",
+      "Rathalos Mail X",
+      "Rathalos Braces X",
+      "Rathalos Coil X",
+      "Rathalos Greaves X"
+    ]
+  },
+  {
+    "name": "Zinogre X",
+    "setID": "365",
+    "pieces": [
+      "Zinogre Helm X",
+      "Zinogre Mail X",
+      "Zinogre Braces X",
+      "Zinogre Coil X",
+      "Zinogre Greaves X"
+    ]
+  },
+  {
+    "name": "Lunagaron",
+    "setID": "403",
+    "pieces": [
+      "Lunagaron Helm",
+      "Lunagaron Mail",
+      "Lunagaron Braces",
+      "Lunagaron Coil",
+      "Lunagaron Greaves"
+    ]
+  },
+  {
+    "name": "Astalos",
+    "setID": "393",
+    "pieces": [
+      "Astalos Helm",
+      "Astalos Mail",
+      "Astalos Braces",
+      "Astalos Coil",
+      "Astalos Greaves"
+    ]
+  },
+  {
+    "name": "Espinas",
+    "setID": "406",
+    "pieces": [
+      "Espinas Brain",
+      "Espinas Muscle",
+      "Espinas Vambraces",
+      "Espinas Bowels",
+      "Espinas Heel"
+    ]
+  },
+  {
+    "name": "Gore Magala",
+    "setID": "389",
+    "pieces": [
+      "Gore Helm",
+      "Gore Mail",
+      "Gore Braces",
+      "Gore Coil",
+      "Gore Greaves"
+    ]
+  },
+  {
+    "name": "Seregios",
+    "setID": "392",
+    "pieces": [
+      "Regios Helm",
+      "Regios Mail",
+      "Regios Vambraces",
+      "Regios Coil",
+      "Regios Greaves"
+    ]
+  },
+  {
+    "name": "Tigrex X",
+    "setID": "362",
+    "pieces": [
+      "Tigrex Helm X",
+      "Tigrex Mail X",
+      "Tigrex Braces X",
+      "Tigrex Coil X",
+      "Tigrex Greaves X"
+    ]
+  },
+  {
+    "name": "Diablos X",
+    "setID": "363",
+    "pieces": [
+      "Diablos Helm X",
+      "Diablos Mail X",
+      "Diablos Vambraces X",
+      "Diablos Coil X",
+      "Diablos Greaves X"
+    ]
+  },
+  {
+    "name": "Damascus X",
+    "setID": "307",
+    "pieces": [
+      "Damascus Helm X",
+      "Damascus Mail X",
+      "Damascus Vambraces X",
+      "Damascus Coil X",
+      "Damascus Greaves X"
+    ]
+  },
+  {
+    "name": "Jelly X",
+    "setID": "325",
+    "pieces": [
+      "Jelly Hat X",
+      "Jelly Vest X",
+      "Jelly Gloves X",
+      "Jelly Coil X",
+      "Jelly Boots X"
+    ]
+  },
+  {
+    "name": "Azure",
+    "setID": "432",
+    "pieces": [
+      "Azure Headgear",
+      "Azure Jacket",
+      "Azure Braces",
+      "Azure Faulds",
+      "Azure Greaves"
+    ]
+  },
+  {
+    "name": "Professor",
+    "setID": "410",
+    "pieces": [
+      "Professor's Goggles",
+      "Professor's Jacket",
+      "Professor's Mittens",
+      "Professor's Bottoms",
+      "Professor's Boots"
+    ]
+  },
+  {
+    "name": "Charité",
+    "setID": "411",
+    "pieces": [
+      "Charité Barrette",
+      "Charité Jacket",
+      "Charité Gloves",
+      "Charité Skirt",
+      "Charité Boots"
+    ]
+  },
+  {
+    "name": "Scholarly",
+    "setID": "417",
+    "pieces": [
+      "Scholarly Hood",
+      "Scholarly Suit",
+      "Scholarly Strongarm",
+      "Scholarly Sash",
+      "Scholarly Boots"
+    ]
+  },
+  {
+    "name": "Commission",
+    "setID": "418",
+    "pieces": [
+      "Commission Gorget",
+      "Commission Vest",
+      "Commission Vambraces",
+      "Commission Belt",
+      "Commission Trousers"
+    ]
+  },
+  {
+    "name": "Sailor",
+    "setID": "414",
+    "pieces": [
+      "Sailor Hat",
+      "Sailor Suit",
+      "Sailor Gloves",
+      "Sailor Skirt",
+      "Sailor Socks"
+    ]
+  },
+  {
+    "name": "Guild Palace",
+    "setID": "426",
+    "pieces": [
+      "Guild Palace Helm",
+      "Guild Palace Mail",
+      "Guild Palace Braces",
+      "Guild Palace Coil",
+      "Guild Palace Greaves"
+    ]
+  },
+  {
+    "name": "Kushala X",
+    "setID": "339",
+    "pieces": [
+      "Kushala Glare X",
+      "Kushala Cista X",
+      "Kushala Grip X",
+      "Kushala Cocoon X",
+      "Kushala Crus X"
+    ]
+  },
+  {
+    "name": "Grand Mizuha",
+    "setID": "340",
+    "pieces": [
+      "Grand Mizuha Cap",
+      "Grand Mizuha Guards",
+      "Grand Mizuha Sleeves",
+      "Grand Mizuha Sash",
+      "Grand Mizuha Leg Wrap"
+    ]
+  },
+  {
+    "name": "Kaiser X",
+    "setID": "341",
+    "pieces": [
+      "Kaiser Crown X",
+      "Kaiser Mail X",
+      "Kaiser Vambraces X",
+      "Kaiser Coil X",
+      "Kaiser Greaves X"
+    ]
+  },
+  {
+    "name": "Malzeno",
+    "setID": "402",
+    "pieces": [
+      "Malzeno Helm",
+      "Malzeno Mail",
+      "Malzeno Braces",
+      "Malzeno Coil",
+      "Malzeno Greaves"
+    ]
+  },
+  {
+    "name": "Arc",
+    "setID": "390",
+    "pieces": [
+      "Arc Helm",
+      "Arc Mail",
+      "Arc Vambraces",
+      "Arc Coil",
+      "Arc Greaves"
+    ]
+  },
+  {
+    "name": "Storge",
+    "setID": "391",
+    "pieces": [
+      "Storge Helm",
+      "Storge Mail",
+      "Storge Vambraces",
+      "Storge Coil",
+      "Storge Greaves"
+    ]
+  },
+  {
+    "name": "Grand God's Peer",
+    "setID": "366",
+    "pieces": [
+      "Grand God's Peer Mask",
+      "Grand God's Peer Robe",
+      "Grand God's Peer Arms",
+      "Grand God's Peer Belt",
+      "Grand God's Peer Feet"
+    ]
+  },
+  {
+    "name": "Bazelgeuse X",
+    "setID": "373",
+    "pieces": [
+      "Bazelgeuse Helm X",
+      "Bazelgeuse Mail X",
+      "Bazelgeuse Braces X",
+      "Bazelgeuse Coil X",
+      "Bazelgeuse Greaves X"
+    ]
+  },
+  {
+    "name": "Base Commander",
+    "setID": "419",
+    "pieces": [
+      "Outpost HQ Earrings",
+      "Outpost HQ Armor",
+      "Outpost HQ Braces",
+      "Outpost HQ Belt",
+      "Outpost HQ Greaves"
+    ]
+  },
+  {
+    "name": "Base Commander",
+    "setID": "420",
+    "pieces": [
+      "Outpost HQ Earrings",
+      "Outpost HQ Armor",
+      "Outpost HQ Braces",
+      "Outpost HQ Belt",
+      "Outpost HQ Greaves"
+    ]
+  },
+  {
+    "name": "Ethereal Diadem",
+    "setID": "446",
+    "pieces": [
+      "Ethereal Diadem"
+    ]
+  },
+  {
+    "name": "Soaring Feather",
+    "setID": "459",
+    "pieces": [
+      "Soaring Feather"
+    ]
+  },
+  {
+    "name": "Blessed Feather",
+    "setID": "460",
+    "pieces": [
+      "Blessed Feather"
+    ]
+  },
+  {
+    "name": "Harp Crown",
+    "setID": "421",
+    "pieces": [
+      "Harp Crown"
+    ]
+  },
+  {
+    "name": "Archfiend Armor",
+    "setID": "405",
+    "pieces": [
+      "Archfiend Armor Cerato",
+      "Archfiend Armor Baulo",
+      "Archfiend Armor Epine",
+      "Archfiend Armor Ura",
+      "Archfiend Armor Sceros"
+    ]
+  },
+  {
+    "name": "Ibushi - Pure",
+    "setID": "334",
+    "pieces": [
+      "Ibushi's Pure Helm",
+      "Ibushi's Pure Breastplate",
+      "Ibushi's Pure Pauldrons",
+      "Ibushi's Pure Fauld",
+      "Ibushi's Pure Foot"
+    ]
+  },
+  {
+    "name": "Narwa - Pure",
+    "setID": "336",
+    "pieces": [
+      "Narwa's Pure Helm",
+      "Narwa's Pure Breastplate",
+      "Narwa's Pure Pauldrons",
+      "Narwa's Pure Fauld",
+      "Narwa's Pure Foot"
+    ]
+  },
+  {
+    "name": "Grand Divine Ire",
+    "setID": "388",
+    "pieces": [
+      "Divine Ire Mask",
+      "Divine Ire Haori",
+      "Divine Ire Kote",
+      "Divine Ire Obi",
+      "Holy Ire Hakama"
+    ]
+  },
+  {
+    "name": "Crimson Valstrax - Eclipse",
+    "setID": "367",
+    "pieces": [
+      "Valstrax Helm - Eclipse",
+      "Valstrax Mail - Eclipse",
+      "Valstrax Braces - Eclipse",
+      "Valstrax Coil - Eclipse",
+      "Valstrax Greaves - Eclipse"
+    ]
+  },
+  {
+    "name": "Sinister Grudge",
+    "setID": "395",
+    "pieces": [
+      "Sinister Grudge Helm",
+      "Sinister Grudge Garb",
+      "Sinister Grudge Gauntlets",
+      "Sinister Grudge Tassets",
+      "Sinister Grudge Greaves"
+    ]
+  },
+  {
+    "name": "Pride",
+    "setID": "401",
+    "pieces": [
+      "Pride Helm",
+      "Pride Mail",
+      "Pride Vambraces",
+      "Pride Coil",
+      "Pride Greaves"
+    ]
+  },
+  {
+    "name": "Golden Lune",
+    "setID": "428",
+    "pieces": [
+      "Golden Lunehelm",
+      "Golden Lunemail",
+      "Golden Lunebraces",
+      "Golden Lunecoil",
+      "Golden Lunegreaves"
+    ]
+  },
+  {
+    "name": "Silver Sol",
+    "setID": "429",
+    "pieces": [
+      "Silver Solhelm",
+      "Silver Solmail",
+      "Silver Solbraces",
+      "Silver Solcoil",
+      "Silver Solgreaves"
+    ]
+  },
+  {
+    "name": "Lucent Narga",
+    "setID": "431",
+    "pieces": [
+      "Lambent Casque",
+      "Lambent Hauberk",
+      "Lambent Wristrays",
+      "Lambent Sash",
+      "Lambent Gaiters"
+    ]
+  }
+]

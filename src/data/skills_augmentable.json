@@ -1,0 +1,810 @@
+[
+  {
+    "name": "Critical Eye",
+    "description": "Increases affinity.\n\nLv 1 Affinity +5%\n\nLv 2 Affinity +10%\n\nLv 3 Affinity +15%\n\nLv 4 Affinity +20%\n\nLv 5 Affinity +25%\n\nLv 6 Affinity +30%\n\nLv 7 Affinity +40%",
+    "id": "6",
+    "cost": 15,
+    "maxLevel": 7,
+    "url": "https://mhrise.kiranico.com/data/skills/303299436"
+  },
+  {
+    "name": "Handicraft",
+    "description": "Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum.\n\nLv 1 Weapon sharpness +10\n\nLv 2 Weapon sharpness +20\n\nLv 3 Weapon sharpness +30\n\nLv 4 Weapon sharpness +40\n\nLv 5 Weapon sharpness +50",
+    "id": "22",
+    "cost": 12,
+    "maxLevel": 5,
+    "url": "https://mhrise.kiranico.com/data/skills/229177724"
+  },
+  {
+    "name": "Protective Polish",
+    "description": "Weapon sharpness does not decrease for a set time after sharpening.\n\nLv 1 Effect lasts 30 seconds.\n\nLv 2 Effect lasts 60 seconds.\n\nLv 3 Effect lasts 90 seconds.",
+    "id": "25",
+    "cost": 9,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/138201299"
+  },
+  {
+    "name": "Load Shells",
+    "description": "Improves reloading, and increases the gunlance's shell capacity and charge blade's phial capacity.\n\nLv 1 Increases ammo and coating reloading speed.\n\nLv 2 Gunlance loading capacity +1 Increases charge blade phials",
+    "id": "46",
+    "cost": 6,
+    "maxLevel": 2,
+    "url": "https://mhrise.kiranico.com/data/skills/537427524"
+  },
+  {
+    "name": "Flinch Free",
+    "description": "Prevents knockbacks and other reactions to small damage.\n\nLv 1 Prevents knockbacks.\n\nLv 2 Prevents knockbacks. Tripping is reduced to a knockback instead.\n\nLv 3 Prevents knockbacks and tripping.",
+    "id": "93",
+    "cost": 3,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/2146828439"
+  },
+  {
+    "name": "Critical Boost",
+    "description": "Increases the damage of critical hits.\n\nLv 1 Increases damage dealt by critical hits to 30%.\n\nLv 2 Increases damage dealt by critical hits to 35%.\n\nLv 3 Increases damage dealt by critical hits to 40%.",
+    "id": "7",
+    "cost": 15,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/485829389"
+  },
+  {
+    "name": "Agitator",
+    "description": "Increases attack power and affinity when large monsters become enraged.\n\nLv 1 Attack +4 and affinity +3% while active.\n\nLv 2 Attack +8 and affinity +5% while active.\n\nLv 3 Attack +12 and affinity +7% while active.\n\nLv 4 Attack +16 and affinity +10% while active.\n\nLv 5 Attack +20 and affinity +15% while active.",
+    "id": "2",
+    "cost": 12,
+    "maxLevel": 5,
+    "url": "https://mhrise.kiranico.com/data/skills/381074408"
+  },
+  {
+    "name": "Mushroomancer",
+    "description": "Lets you digest mushrooms that would otherwise be inedible and gain their advantageous effects.\n\nLv 1 Lets you digest blue mushrooms and toadstools.\n\nLv 2 Additionally lets you digest nitroshrooms and parashrooms.\n\nLv 3 Additionally lets you digest mandragoras and exciteshrooms.",
+    "id": "87",
+    "cost": 9,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/1893605725"
+  },
+  {
+    "name": "Guard",
+    "description": "Reduces knockbacks and stamina depletion when guarding.\n\nLv 1 Very slightly decreases the impact of attacks.\n\nLv 2 Slightly decreases the impact of attacks and reduces stamina depletion by 15%.\n\nLv 3 Decreases the impact of attacks and reduces stamina depletion by 15%.\n\nLv 4 Decreases the impact of attacks and reduces stamina depletion by 30%.\n\nLv 5 Greatly decreases the impact of attacks and reduces stamina depletion by 30%.",
+    "id": "35",
+    "cost": 6,
+    "maxLevel": 5,
+    "url": "https://mhrise.kiranico.com/data/skills/1018294249"
+  },
+  {
+    "name": "Stamina Thief",
+    "description": "Increases certain attacks' ability to exhaust monsters.\n\nLv 1 Exhaust power +20%\n\nLv 2 Exhaust power +30%\n\nLv 3 Exhaust power +40%",
+    "id": "42",
+    "cost": 3,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/614678208"
+  },
+  {
+    "name": "Weakness Exploit",
+    "description": "Increases the affinity of attacks that exploit a monster weak spot.\n\nLv 1 Attacks that hit weak spots have 15% increased affinity.\n\nLv 2 Attacks that hit weak spots have 30% increased affinity.\n\nLv 3 Attacks that hit weak spots have 50% increased affinity.",
+    "id": "8",
+    "cost": 15,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/500079394"
+  },
+  {
+    "name": "Peak Performance",
+    "description": "Increases attack when your health is full.\n\nLv 1 Attack +5 while active.\n\nLv 2 Attack +10 while active.\n\nLv 3 Attack +20 while active.",
+    "id": "3",
+    "cost": 12,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/395307913"
+  },
+  {
+    "name": "Mind's Eye",
+    "description": "Your attacks are deflected less and deal more damage to hard targets.\n\nLv 1 50% chance of your attacks not being deflected. (+10% damage to hard targets when activated).\n\nLv 2 100% chance of your attacks not being deflected. (+15% damage to hard targets when activated).\n\nLv 3 100% chance of your attacks not being deflected. (+30% damage to hard targets when activated).",
+    "id": "26",
+    "cost": 9,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/152451312"
+  },
+  {
+    "name": "Guard Up",
+    "description": "Allows you to guard against ordinarily unblockable attacks.\n\nLv 1 Reduces damage taken by 30%.\n\nLv 2 Reduces damage taken by 50%.\n\nLv 3 Reduces damage taken by 80%.",
+    "id": "36",
+    "cost": 6,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/1032544142"
+  },
+  {
+    "name": "Fire Attack",
+    "description": "Increases fire element attack power. (Elemental attack power has a maximum limit.)\n\nLv 1 Fire attack +2\n\nLv 2 Fire attack +3\n\nLv 3 Fire attack +5% Bonus: +4\n\nLv 4 Fire attack +10% Bonus: +4\n\nLv 5 Fire attack +20% Bonus: +4",
+    "id": "13",
+    "cost": 3,
+    "maxLevel": 5,
+    "url": "https://mhrise.kiranico.com/data/skills/437062215"
+  },
+  {
+    "name": "Master's Touch",
+    "description": "Prevents your weapon from losing sharpness during critical hits.\n\nLv 1 Grants a 20% chance of no sharpness loss while active.\n\nLv 2 Grants a 40% chance of no sharpness loss while active.\n\nLv 3 Grants an 80% chance of no sharpness loss while active.",
+    "id": "12",
+    "cost": 15,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/422304422"
+  },
+  {
+    "name": "Resentment",
+    "description": "Increases attack when you have recoverable damage (the red portion of your health gauge).\n\nLv 1 Attack +5 while active.\n\nLv 2 Attack +10 while active.\n\nLv 3 Attack +15 while active.\n\nLv 4 Attack +20 while active.\n\nLv 5 Attack +25 while active.",
+    "id": "4",
+    "cost": 12,
+    "maxLevel": 5,
+    "url": "https://mhrise.kiranico.com/data/skills/274815918"
+  },
+  {
+    "name": "Critical Element",
+    "description": "Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits.\n\nLv 1 Grants elemental damage +5% while active.\n\nLv 2 Grants elemental damage +10% while active.\n\nLv 3 Grants elemental damage +15% while active.",
+    "id": "11",
+    "cost": 9,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/408054401"
+  },
+  {
+    "name": "Poison Attack",
+    "description": "Increases the rate of poison buildup. (Poison buildup has a maximum limit.)\n\nLv 1 Poison buildup +5% Bonus: +1\n\nLv 2 Poison buildup +10% Bonus: +2\n\nLv 3 Poison buildup +20% Bonus: +5",
+    "id": "18",
+    "cost": 6,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/4438520"
+  },
+  {
+    "name": "Water Attack",
+    "description": "Increases water element attack power. (Elemental attack power has a maximum limit.)\n\nLv 1 Water attack +2\n\nLv 2 Water attack +3\n\nLv 3 Water attack +5% Bonus: +4\n\nLv 4 Water attack +10% Bonus: +4\n\nLv 5 Water attack +20% Bonus: +4",
+    "id": "14",
+    "cost": 3,
+    "maxLevel": 5,
+    "url": "https://mhrise.kiranico.com/data/skills/82213476"
+  },
+  {
+    "name": "Razor Sharp",
+    "description": "Prevents your weapon from losing sharpness.\n\nLv 1 Activates 10% of the time.\n\nLv 2 Activates 25% of the time.\n\nLv 3 Activates 50% of the time.",
+    "id": "23",
+    "cost": 15,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/243411229"
+  },
+  {
+    "name": "Resuscitate",
+    "description": "Increases attack power when you are suffering from an abnormal status.\n\nLv 1 Attack +5 while active.\n\nLv 2 Attack +10 while active.\n\nLv 3 Attack +20 while active.",
+    "id": "5",
+    "cost": 12,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/289049423"
+  },
+  {
+    "name": "Ballistics",
+    "description": "Extends the range in which ammo and arrows have maximum power.\n\nLv 1 Slightly extends range.\n\nLv 2 Extends range.\n\nLv 3 Greatly extends range.",
+    "id": "27",
+    "cost": 9,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/200239249"
+  },
+  {
+    "name": "Paralysis Attack",
+    "description": "Increases the rate of paralysis buildup. (Paralysis buildup has a maximum limit.)\n\nLv 1 Paralysis buildup +5% Bonus: +1\n\nLv 2 Paralysis buildup +10% Bonus: +2\n\nLv 3 Paralysis buildup +20% Bonus: +5",
+    "id": "19",
+    "cost": 6,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/19196313"
+  },
+  {
+    "name": "Ice Attack",
+    "description": "Increases ice element attack power. (Elemental attack power has a maximum limit.)\n\nLv 1 Ice attack +2\n\nLv 2 Ice attack +3\n\nLv 3 Ice attack +5% Bonus: +4\n\nLv 4 Ice attack +10% Bonus: +4\n\nLv 5 Ice attack +20% Bonus: +4",
+    "id": "15",
+    "cost": 3,
+    "maxLevel": 5,
+    "url": "https://mhrise.kiranico.com/data/skills/96446981"
+  },
+  {
+    "name": "Spare Shot",
+    "description": "Bow and bowgun shots have a chance not to expend coatings or ammo.\n\nLv 1 Activates 3% of the time.\n\nLv 2 Activates 10% of the time.\n\nLv 3 Activates 20% of the time.",
+    "id": "24",
+    "cost": 15,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/257661234"
+  },
+  {
+    "name": "Coalescence",
+    "description": "Temporarily enhances attacks after recovering from blights or abnormal status.",
+    "id": "116",
+    "cost": 12,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/293361118"
+  },
+  {
+    "name": "Critical Draw",
+    "description": "Increases affinity for a short time after performing a draw attack. (Does not include Silkbind attacks.)\n\nLv 1 Affinity +10%\n\nLv 2 Affinity +20%\n\nLv 3 Affinity +40%",
+    "id": "38",
+    "cost": 9,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/1061551948"
+  },
+  {
+    "name": "Sleep Attack",
+    "description": "Increases the rate of sleep buildup. (Sleep buildup has a maximum limit.)\n\nLv 1 Sleep buildup +5% Bonus: +1\n\nLv 2 Sleep buildup +10% Bonus: +2\n\nLv 3 Sleep buildup +20% Bonus: +5",
+    "id": "20",
+    "cost": 6,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/67000766"
+  },
+  {
+    "name": "Thunder Attack",
+    "description": "Increases thunder element attack power. (Elemental attack power has a maximum limit.)\n\nLv 1 Thunder attack +2\n\nLv 2 Thunder attack +3\n\nLv 3 Thunder attack +5% Bonus: +4\n\nLv 4 Thunder attack +10% Bonus: +4\n\nLv 5 Thunder attack +20% Bonus: +4",
+    "id": "16",
+    "cost": 3,
+    "maxLevel": 5,
+    "url": "https://mhrise.kiranico.com/data/skills/110172730"
+  },
+  {
+    "name": "Normal/Rapid Up",
+    "description": "Increases the attack power of Normal Ammo and Rapid-type arrows.\n\nLv 1 Slightly increases the power of Normal Ammo and Rapid-type arrows.\n\nLv 2 Increases the power of Normal Ammo and Rapid-type arrows.\n\nLv 3 Greatly increases the power of Normal Ammo and Rapid-type arrows.",
+    "id": "48",
+    "cost": 15,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/599465498"
+  },
+  {
+    "name": "Latent Power",
+    "description": "Temporarily increases affinity and reduces stamina depletion when certain conditions are met.\n\nLv 1 While active, increases affinity by 10% and reduces stamina depletion by 30%.\n\nLv 2 While active, increases affinity by 20% and reduces stamina depletion by 30%.\n\nLv 3 While active, increases affinity by 30% and reduces stamina depletion by 50%.\n\nLv 4 While active, increases affinity by 40% and reduces stamina depletion by 50%.\n\nLv 5 While active, increases affinity by 50% and reduces stamina depletion by 50%.",
+    "id": "9",
+    "cost": 12,
+    "maxLevel": 5,
+    "url": "https://mhrise.kiranico.com/data/skills/514312899"
+  },
+  {
+    "name": "Focus",
+    "description": "Increases the fill rate for weapons with gauges and the charge rate for weapons with charge attacks.\n\nLv 1 5% faster gauge fill rate and 5% faster charge times.\n\nLv 2 10% faster gauge fill rate and 10% faster charge times.\n\nLv 3 20% faster gauge fill rate and 15% faster charge times.",
+    "id": "30",
+    "cost": 9,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/913537140"
+  },
+  {
+    "name": "Blast Attack",
+    "description": "Increases the rate of blast buildup. (Blast buildup has a maximum limit.)\n\nLv 1 Blast buildup +5% Bonus: +1\n\nLv 2 Blast buildup +10% Bonus: +2\n\nLv 3 Blast buildup +20% Bonus: +5",
+    "id": "21",
+    "cost": 6,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/215451999"
+  },
+  {
+    "name": "Dragon Attack",
+    "description": "Increases dragon element attack power. (Elemental attack power has a maximum limit.)\n\nLv 1 Dragon attack +2\n\nLv 2 Dragon attack +3\n\nLv 3 Dragon attack +5% Bonus: +4\n\nLv 4 Dragon attack +10% Bonus: +4\n\nLv 5 Dragon attack +20% Bonus: +4",
+    "id": "17",
+    "cost": 3,
+    "maxLevel": 5,
+    "url": "https://mhrise.kiranico.com/data/skills/124406235"
+  },
+  {
+    "name": "Pierce Up",
+    "description": "Increases the attack power of Piercing Ammo and Piercing-type arrows.\n\nLv 1 Slightly increases the power of Piercing Ammo and Piercing-type arrows.\n\nLv 2 Increases the power of Piercing Ammo and Piercing-type arrows.\n\nLv 3 Greatly increases the power of Piercing Ammo and Piercing-type arrows.",
+    "id": "49",
+    "cost": 15,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/748441147"
+  },
+  {
+    "name": "Maximum Might",
+    "description": "Increases affinity if stamina is kept full for a period of time.\n\nLv 1 While active, increases affinity by 10%.\n\nLv 2 While active, increases affinity by 20%.\n\nLv 3 While active, increases affinity by 30%.",
+    "id": "10",
+    "cost": 12,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/528038624"
+  },
+  {
+    "name": "Power Prolonger",
+    "description": "Long swords, dual blades, insect glaives, switch axes, and charge blades stay powered up longer.\n\nLv 1 Slightly boosts the duration weapons are powered up.\n\nLv 2 Boosts the duration weapons are powered up.\n\nLv 3 Greatly boosts the duration weapons are powered up.",
+    "id": "31",
+    "cost": 9,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/928294933"
+  },
+  {
+    "name": "Marathon Runner",
+    "description": "Slows down stamina depletion for actions which continuously drain stamina (such as dashing).\n\nLv 1 Reduces continuous stamina depletion by 15%.\n\nLv 2 Reduces continuous stamina depletion by 30%.\n\nLv 3 Reduces continuous stamina depletion by 50%.",
+    "id": "32",
+    "cost": 6,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/808327178"
+  },
+  {
+    "name": "Affinity Sliding",
+    "description": "Sliding increases your affinity for a short time.\n\nLv 1 Enables skill use.",
+    "id": "43",
+    "cost": 3,
+    "maxLevel": 1,
+    "url": "https://mhrise.kiranico.com/data/skills/629436129"
+  },
+  {
+    "name": "Spread Up",
+    "description": "Increases the attack power of Spread Ammo and Spread- type arrows\n\nLv 1 Slightly increases the power of Spread Ammo, Shrapnel Ammo, and Spread-type arrows.\n\nLv 2 Increases the power of Spread Ammo, Shrapnel Ammo, and Spread-type arrows.\n\nLv 3 Greatly increases the power of Spread Ammo, Shrapnel Ammo, and Spread-type arrows.",
+    "id": "50",
+    "cost": 15,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/762691032"
+  },
+  {
+    "name": "Good Luck",
+    "description": "Good chance of increased quest rewards. (No effect when joining mid-quest.)\n\nLv 1 Slightly increases luck.\n\nLv 2 Increases luck.\n\nLv 3 Greatly increases luck.",
+    "id": "84",
+    "cost": 12,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/1951027710"
+  },
+  {
+    "name": "Offensive Guard",
+    "description": "Temporarily increases attack power after executing a perfectly-timed guard.\n\nLv 1 Attack +5% while active.\n\nLv 2 Attack +10% while active.\n\nLv 3 Attack +15% while active.",
+    "id": "37",
+    "cost": 9,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/1047302063"
+  },
+  {
+    "name": "Constitution",
+    "description": "Reduces stamina depletion when evading, blocking, or doing certain other actions.\n\nLv 1 Reduces fixed stamina depletion by 10%.\n\nLv 2 Reduces fixed stamina depletion by 20%.\n\nLv 3 Reduces fixed stamina depletion by 30%.\n\nLv 4 Reduces fixed stamina depletion by 40%.\n\nLv 5 Reduces fixed stamina depletion by 50%.",
+    "id": "33",
+    "cost": 6,
+    "maxLevel": 5,
+    "url": "https://mhrise.kiranico.com/data/skills/822560811"
+  },
+  {
+    "name": "Horn Maestro",
+    "description": "Increases overall performance speed and shockwave damage.\n\nLv 1 Activates skill effect.",
+    "id": "44",
+    "cost": 3,
+    "maxLevel": 1,
+    "url": "https://mhrise.kiranico.com/data/skills/643686022"
+  },
+  {
+    "name": "Ammo Up",
+    "description": "Increases bowgun loading capacity. (There is a cap to loading capacity.)\n\nLv 1 Expands clip size for some ammo types.\n\nLv 2 Expands clip size for many ammo types.\n\nLv 3 Expands clip size for most ammo types.",
+    "id": "51",
+    "cost": 15,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/776924665"
+  },
+  {
+    "name": "Chain Crit",
+    "description": "Continuously landing hits gradually increases attack and elemental attack. (The amount of increase depends on the weapon.)",
+    "id": "131",
+    "cost": 12,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/37217289"
+  },
+  {
+    "name": "Earplugs",
+    "description": "Grants protection from large monsters' roars.\n\nLv 1 Reduces the effects of weak monster roars.\n\nLv 2 Nullifies weak monster roars.\n\nLv 3 Nullifies weak monster roars and reduces the effects of strong monster roars.\n\nLv 4 Nullifies weak and strong monster roars.\n\nLv 5 Nullifies weak and strong monster roars. Reduces the effects of powerful monster roars.",
+    "id": "61",
+    "cost": 9,
+    "maxLevel": 5,
+    "url": "https://mhrise.kiranico.com/data/skills/1389104311"
+  },
+  {
+    "name": "Stamina Surge",
+    "description": "Speeds up stamina recovery.\n\nLv 1 Stamina recovery speed +10%\n\nLv 2 Stamina recovery speed +20%\n\nLv 3 Stamina recovery speed +40%",
+    "id": "34",
+    "cost": 6,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/869842888"
+  },
+  {
+    "name": "Defense Boost",
+    "description": "Increases defense. Resistances will also improve as the level increases.\n\nLv 1 Defense +5\n\nLv 2 Defense +10\n\nLv 3 Defense +5% Bonus: +10\n\nLv 4 Defense +5% Bonus: +20 All elemental resistances +3\n\nLv 5 Defense +8% Bonus: +20 All elemental resistances +3\n\nLv 6 Defense +8% Bonus: +35 All elemental resistances +5\n\nLv 7 Defense +10% Bonus: +35 All elemental resistances +5",
+    "id": "56",
+    "cost": 3,
+    "maxLevel": 7,
+    "url": "https://mhrise.kiranico.com/data/skills/1418566930"
+  },
+  {
+    "name": "Rapid Fire Up",
+    "description": "Improves light bowgun rapid fire.\n\nLv 1 Rapid fire damage +5%\n\nLv 2 Rapid fire damage +10%\n\nLv 3 Rapid fire damage +20%",
+    "id": "55",
+    "cost": 15,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/733228413"
+  },
+  {
+    "name": "Tune-Up",
+    "description": "Increases the stats of custom mods attached to bowguns.",
+    "id": "126",
+    "cost": 12,
+    "maxLevel": 2,
+    "url": "https://mhrise.kiranico.com/data/skills/99710100"
+  },
+  {
+    "name": "Heroics",
+    "description": "Increases attack power and defense when health drops to 35% or lower.\n\nLv 1 While active, increases defense by 50 points.\n\nLv 2 Attack +5% and defense +50 while active.\n\nLv 3 Attack +5% and defense +100 while active.\n\nLv 4 Attack +10% and defense +100 while active.\n\nLv 5 While active, attack power +30% and defense-increasing effects are negated.",
+    "id": "91",
+    "cost": 9,
+    "maxLevel": 5,
+    "url": "https://mhrise.kiranico.com/data/skills/2084266193"
+  },
+  {
+    "name": "Punishing Draw",
+    "description": "Adds a stun effect to draw attacks and slightly increases attack power. (Does not include Silkbind attacks.)\n\nLv 1 Draw attacks deal a small amount of stun damage and get attack +3.\n\nLv 2 Draw attacks deal a small amount of stun damage and get attack +5.\n\nLv 3 Draw attacks deal a small amount of stun damage and get attack +7.",
+    "id": "39",
+    "cost": 6,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/941567853"
+  },
+  {
+    "name": "Divine Blessing",
+    "description": "Has a predetermined chance of reducing the damage you take.\n\nLv 1 While active, reduces damage taken by 15%.\n\nLv 2 While active, reduces damage taken by 30%.\n\nLv 3 While active, reduces damage taken by 50%.",
+    "id": "57",
+    "cost": 3,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/1432800563"
+  },
+  {
+    "name": "Attack Boost",
+    "description": "Increases attack power.\n\nLv 1 Attack +3\n\nLv 2 Attack +6\n\nLv 3 Attack +9\n\nLv 4 Attack +5% Bonus: +7\n\nLv 5 Attack +6% Bonus: +8\n\nLv 6 Attack +8% Bonus: +9\n\nLv 7 Attack +10% Bonus: +10",
+    "id": "1",
+    "cost": 15,
+    "maxLevel": 7,
+    "url": "https://mhrise.kiranico.com/data/skills/366824395"
+  },
+  {
+    "name": "Rapid Morph",
+    "description": "Increases switch speed and power for switch axes and charge blades.\n\nLv 1 Speed +10%\n\nLv 2 Speed +20% Morph attack damage +10%\n\nLv 3 Speed +30% Morph attack damage +20%",
+    "id": "107",
+    "cost": 12,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/1875928865"
+  },
+  {
+    "name": "Hellfire Cloak",
+    "description": "Grants hellfire resistance and confers explosive hellfire power to your attacks after fulfilling certain conditions.\n\nLv 1 Reduces damage from hellfire.\n\nLv 2 Increases damage from hellfire blasts.\n\nLv 3 Inflicts hellfireblight when monsters are enraged.\n\nLv 4 Effect persists for one minute after a monster's rage has subsided.",
+    "id": "108",
+    "cost": 9,
+    "maxLevel": 4,
+    "url": "https://mhrise.kiranico.com/data/skills/1755961030"
+  },
+  {
+    "name": "Quick Sheathe",
+    "description": "Speeds up weapon sheathing.\n\nLv 1 Slightly increases sheathing speed.\n\nLv 2 Moderately increases sheathing speed.\n\nLv 3 Greatly increases sheathing speed.",
+    "id": "40",
+    "cost": 6,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/988847874"
+  },
+  {
+    "name": "Recovery Up",
+    "description": "Increases the amount recovered when restoring health.\n\nLv 1 Slightly increases recovery.\n\nLv 2 Increases recovery.\n\nLv 3 Greatly increases recovery.",
+    "id": "58",
+    "cost": 3,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/1446526160"
+  },
+  {
+    "name": "Artillery",
+    "description": "Strengthens explosive attacks like shells, Wyvern's Fire, charge blade phial attacks, and Sticky Ammo.\n\nLv 1 Increases power of each attack by 10% and reduces Wyvern's Fire cooldown by 15%.\n\nLv 2 Increases power of each attack by 20% and reduces Wyvern's Fire cooldown by 30%.\n\nLv 3 Increases power of each attack by 30% and reduces Wyvern's Fire cooldown by 50%.",
+    "id": "45",
+    "cost": 12,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/657919655"
+  },
+  {
+    "name": "Wirebug Whisperer",
+    "description": "Improves your handling of Wirebugs.\n\nLv 1 Extends the duration you can keep a Wirebug by 30%.\n\nLv 2 Also increases Wirefall recovery rate.\n\nLv 3 Also increases passive recovery rate while on the ground.",
+    "id": "104",
+    "cost": 9,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/1665963842"
+  },
+  {
+    "name": "Slugger",
+    "description": "Makes it easier to stun monsters.\n\nLv 1 Stun power +20%\n\nLv 2 Stun power +30%\n\nLv 3 Stun power +40%",
+    "id": "41",
+    "cost": 6,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/1003081507"
+  },
+  {
+    "name": "Recovery Speed",
+    "description": "Speeds healing of recoverable damage (the red portion of the health gauge).\n\nLv 1 Doubles the speed at which you heal recoverable damage.\n\nLv 2 Triples the speed at which you heal recoverable damage.\n\nLv 3 Quadruples the speed at which you heal recoverable damage.",
+    "id": "59",
+    "cost": 3,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/1460759793"
+  },
+  {
+    "name": "Charge Master",
+    "description": "When a charged attack hits a monster, the element and status buildup of the charged attack increases.",
+    "id": "124",
+    "cost": 9,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/440849622"
+  },
+  {
+    "name": "Special Ammo Boost",
+    "description": "Increases the power of bowgun special ammo and Dragon Piercer.\n\nLv 1 Increases power of bowgun special ammo and Dragon Piercer by 10%.\n\nLv 2 Increases power of bowgun special ammo and Dragon Piercer by 20%.",
+    "id": "47",
+    "cost": 6,
+    "maxLevel": 2,
+    "url": "https://mhrise.kiranico.com/data/skills/585215589"
+  },
+  {
+    "name": "Windproof",
+    "description": "Grants protection against wind pressure.\n\nLv 1 Negates minor wind pressure.\n\nLv 2 Negates minor and major wind pressure.\n\nLv 3 Negates minor and major wind pressure and reduces the effects of dragon wind pressure.",
+    "id": "62",
+    "cost": 3,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/1403354196"
+  },
+  {
+    "name": "Foray",
+    "description": "Increases attack power and affinity when attacking a large monster affected by poison, paralysis, or an elemental blight.",
+    "id": "125",
+    "cost": 9,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/454558967"
+  },
+  {
+    "name": "Steadiness",
+    "description": "Suppresses the deviation of bowgun shots.\n\nLv 1 Deviation -1\n\nLv 2 Deviation -2",
+    "id": "54",
+    "cost": 6,
+    "maxLevel": 2,
+    "url": "https://mhrise.kiranico.com/data/skills/718470492"
+  },
+  {
+    "name": "Blight Resistance",
+    "description": "Grants protection against all elemental blights.\n\nLv 1 Reduces the duration of all elemental blights by 50%.\n\nLv 2 Reduces the duration of all elemental blights by 75%.\n\nLv 3 Nullifies all elemental blights.",
+    "id": "72",
+    "cost": 3,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/1176146786"
+  },
+  {
+    "name": "Grinder (S)",
+    "description": "When recovering sharpness, grants a boost to sharpness properties based on the number of levels recovered.",
+    "id": "127",
+    "cost": 9,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/113943733"
+  },
+  {
+    "name": "Speed Eating",
+    "description": "Increases meat-eating and item-consumption speed.\n\nLv 1 Slightly increases eating speed.\n\nLv 2 Increases eating speed.\n\nLv 3 Greatly increases eating speed.",
+    "id": "60",
+    "cost": 6,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/1374346390"
+  },
+  {
+    "name": "Poison Resistance",
+    "description": "Reduces damage while poisoned.\n\nLv 1 Reduces the number of times you take poison damage.\n\nLv 2 Greatly reduces the number of times you take poison damage.\n\nLv 3 Prevents poison and reduces venom.",
+    "id": "73",
+    "cost": 3,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/1089716995"
+  },
+  {
+    "name": "Bladescale Hone",
+    "description": "Dodge rolling to evade an attack with your weapon drawn will recover sharpness, refill bowgun ammo, or give Close-range Coatings a temporary boost.",
+    "id": "128",
+    "cost": 9,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/128717994"
+  },
+  {
+    "name": "Tremor Resistance",
+    "description": "Grants protection against ground tremors.\n\nLv 1 Nullifies minor ground tremors.\n\nLv 2 Nullifies minor ground tremors and reduces the effects of major ground tremors.\n\nLv 3 Nullifies minor and major ground tremors.",
+    "id": "63",
+    "cost": 6,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/1551805557"
+  },
+  {
+    "name": "Paralysis Resistance",
+    "description": "Reduces the duration of paralysis.\n\nLv 1 Reduces the duration of paralysis by 30%.\n\nLv 2 Reduces the duration of paralysis by 60%.\n\nLv 3 Prevents paralysis.",
+    "id": "74",
+    "cost": 3,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/1104491296"
+  },
+  {
+    "name": "Redirection",
+    "description": "Perform a perfectly-timed Switch Skill Swap just as a monster attacks to reduce the damage and negate damage reactions.",
+    "id": "122",
+    "cost": 9,
+    "maxLevel": 2,
+    "url": "https://mhrise.kiranico.com/data/skills/412366096"
+  },
+  {
+    "name": "Bubbly Dance",
+    "description": "Reduces bubbleblight and grants increased evasion when afflicted.\n\nLv 1 Reduces the effects of major bubbleblight.\n\nLv 2 Reduces major bubbleblight to minor bubbleblight and increases evasiveness while afflicted.\n\nLv 3 Also inflicts bubbleblight when performing consecutive evasive movement.",
+    "id": "64",
+    "cost": 6,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/1565531242"
+  },
+  {
+    "name": "Sleep Resistance",
+    "description": "Reduces the duration of sleep.\n\nLv 1 Reduces the duration of sleep by 30%.\n\nLv 2 Reduces the duration of sleep by 60%.\n\nLv 3 Prevents sleep.",
+    "id": "75",
+    "cost": 3,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/1118724801"
+  },
+  {
+    "name": "Evade Window",
+    "description": "Extends the invulnerability period when evading.\n\nLv 1 Very slightly increases invulnerability window.\n\nLv 2 Slightly increases invulnerability window.\n\nLv 3 Increases invulnerability window.\n\nLv 4 Greatly increases invulnerability window.\n\nLv 5 Massively increases invulnerability window.",
+    "id": "65",
+    "cost": 6,
+    "maxLevel": 5,
+    "url": "https://mhrise.kiranico.com/data/skills/1579764747"
+  },
+  {
+    "name": "Stun Resistance",
+    "description": "Reduces stun duration.\n\nLv 1 Reduces the duration of stun by 60%.\n\nLv 2 Reduces the duration of stun by 90%.\n\nLv 3 Prevents stun.",
+    "id": "76",
+    "cost": 3,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/1132974822"
+  },
+  {
+    "name": "Evade Extender",
+    "description": "Increases evade distance.\n\nLv 1 Slightly extends evasion distance.\n\nLv 2 Extends evasion distance.\n\nLv 3 Greatly extends evasion distance.",
+    "id": "66",
+    "cost": 6,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/1594014760"
+  },
+  {
+    "name": "Muck Resistance",
+    "description": "Reduces impairments to mobility while stuck in monster muck or deep snow.\n\nLv 1 Reduces limits on movement speed.\n\nLv 2 Negates limits to movement speed.",
+    "id": "77",
+    "cost": 3,
+    "maxLevel": 2,
+    "url": "https://mhrise.kiranico.com/data/skills/1280901767"
+  },
+  {
+    "name": "Partbreaker",
+    "description": "Makes it easier to break or sever parts of monsters.\n\nLv 1 Part damage +10%\n\nLv 2 Part damage +20%\n\nLv 3 Part damage +30%",
+    "id": "81",
+    "cost": 6,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/1237729819"
+  },
+  {
+    "name": "Blast Resistance",
+    "description": "Grants protection against blastblight.\n\nLv 1 Delays blastblight and reduces blast damage.\n\nLv 2 Greatly delays blastblight and greatly reduces blast damage.\n\nLv 3 Prevents blastblight.",
+    "id": "78",
+    "cost": 3,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/1295151780"
+  },
+  {
+    "name": "Wall Runner",
+    "description": "Reduces stamina consumption when running on walls.\n\nLv 1 Reduces stamina consumption by 25% while wall running.\n\nLv 2 Reduces stamina consumption by 50% while wall running.\n\nLv 3 Also temporarily increases attack power by wall running.",
+    "id": "105",
+    "cost": 6,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/1814415203"
+  },
+  {
+    "name": "Speed Sharpening",
+    "description": "Speeds up weapon sharpening when using a whetstone.\n\nLv 1 Removes one cycle from the sharpening process.\n\nLv 2 Removes two cycles from the sharpening process.\n\nLv 3 Removes three cycles from the sharpening process.",
+    "id": "85",
+    "cost": 3,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/1965261215"
+  },
+  {
+    "name": "Counterstrike",
+    "description": "Temporarily increases attack power after being knocked back.\n\nLv 1 Attack +10 after activation.\n\nLv 2 Attack +15 after activation.\n\nLv 3 Attack +25 after activation.",
+    "id": "106",
+    "cost": 6,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/1862219520"
+  },
+  {
+    "name": "Item Prolonger",
+    "description": "Extends the duration of some item effects.\n\nLv 1 Item effect duration +10%\n\nLv 2 Item effect duration +25%\n\nLv 3 Item effect duration +50%",
+    "id": "88",
+    "cost": 3,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/1907855730"
+  },
+  {
+    "name": "Defiance",
+    "description": "Increases defense when large monsters become enraged.\n\nLevel 1: While active, nullifles weak roars, wind pressure, and tremors.\n\nLevel 2: While active, nullifles weak roars, wind pressure, and tremors. Reduces all strong ones, def +5\n\nLevel 3: While active, nullifles weak and strong roars, wind pressure, and tremors, def +10\n\nLevel 4: While active, nullifles weak and strong roars, wind, and tremors, reduces powerful roars & d.wind, def +20\n\nLevel 5: While active, nullifles weak, strong and powerful  roars, wind & dragon wind, and tremors, del +30",
+    "id": "118",
+    "cost": 6,
+    "maxLevel": 5,
+    "url": "https://mhrise.kiranico.com/data/skills/321844636"
+  },
+  {
+    "name": "Wide-Range",
+    "description": "Allows the effects of certain items to also affect nearby allies.\n\nLv 1 Items affect nearby allies with 33% of their efficacy.\n\nLv 2 Items affect nearby allies in a wider radius with 33% of their efficacy.\n\nLv 3 Items affect nearby allies in a wider radius with 66% of their efficacy.\n\nLv 4 Items affect nearby allies in a much wider radius with 66% of their efficacy.\n\nLv 5 Items affect nearby allies in a much wider radius with full efficacy.",
+    "id": "89",
+    "cost": 3,
+    "maxLevel": 5,
+    "url": "https://mhrise.kiranico.com/data/skills/1921564947"
+  },
+  {
+    "name": "Reload Speed",
+    "description": "Increases bowgun reloading and bow coating loading speed.\n\nLv 1 Bowgun speed +1. Improves bow handling.\n\nLv 2 Bowgun speed +2. Loads bow coating automatically.\n\nLv 3 Bowgun speed +3.",
+    "id": "52",
+    "cost": 6,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/790650270"
+  },
+  {
+    "name": "Free Meal",
+    "description": "Gives you a predetermined chance of consuming a food or drink item for free.\n\nLv 1 Activates 10% of the time.\n\nLv 2 Activates 25% of the time.\n\nLv 3 Activates 45% of the time.",
+    "id": "90",
+    "cost": 3,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/1935814960"
+  },
+  {
+    "name": "Recoil Down",
+    "description": "Reduces recoil when firing bowgun ammo.\n\nLv 1 Recoil -1\n\nLv 2 Recoil -2\n\nLv 3 Recoil -3",
+    "id": "53",
+    "cost": 6,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/704220607"
+  },
+  {
+    "name": "Fortify",
+    "description": "Increases your attack and defense when you fall in battle. (Disabled for some quests. Can be activated twice.)\n\nLv 1 Increases attack by 10% and defense by 15% with each use.",
+    "id": "92",
+    "cost": 3,
+    "maxLevel": 1,
+    "url": "https://mhrise.kiranico.com/data/skills/2099040502"
+  },
+  {
+    "name": "Hunger Resistance",
+    "description": "Reduces maximum stamina depletion over time.\n\nLv 1 Extends the time until your stamina cap reduces by 50%.\n\nLv 2 Extends the time until your stamina cap reduces by 100%.\n\nLv 3 Prevents your stamina cap from decreasing.",
+    "id": "96",
+    "cost": 3,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/2054819914"
+  },
+  {
+    "name": "Leap of Faith",
+    "description": "Allows you to do a dive-evade when facing towards large monsters, and extends the dive-evade distance.\n\nLv 1 Enables skill use.",
+    "id": "97",
+    "cost": 3,
+    "maxLevel": 1,
+    "url": "https://mhrise.kiranico.com/data/skills/2069053547"
+  },
+  {
+    "name": "Diversion",
+    "description": "Increases the attention drawn when attacking a monster.\n\nLv 1 Activates skill effect.",
+    "id": "98",
+    "cost": 3,
+    "maxLevel": 1,
+    "url": "https://mhrise.kiranico.com/data/skills/1681174536"
+  },
+  {
+    "name": "Master Mounter",
+    "description": "Improves your Wyvern Riding skills.\n\nLv 1 Makes filling the Riding Gauge easier and increases ease of parrying.",
+    "id": "99",
+    "cost": 3,
+    "maxLevel": 1,
+    "url": "https://mhrise.kiranico.com/data/skills/1695408169"
+  },
+  {
+    "name": "Spiribird's Call",
+    "description": "Receive the effects of a random Spiribird at fixed intervals. (Certain quests only)",
+    "id": "123",
+    "cost": 3,
+    "maxLevel": 1,
+    "url": "https://mhrise.kiranico.com/data/skills/426599729"
+  },
+  {
+    "name": "Wall Runner (Boost)",
+    "description": "Wirebug Gauge recovers faster while wall running.",
+    "id": "129",
+    "cost": 3,
+    "maxLevel": 1,
+    "url": "https://mhrise.kiranico.com/data/skills/8733771"
+  }
+]
