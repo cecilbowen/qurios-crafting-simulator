@@ -219,7 +219,7 @@ export function Solver(arr, target, valueKey) {
 
         this.plainArr = this.getPlainArray(this.nums);
 
-        console.log(`[${this.plainArr.join(", ")}], target = ${this.target}`);
+        //console.log(`[${this.plainArr.join(", ")}], target = ${this.target}`);
         
         // if target is negative, flip sign of target and all array elements
         if (this.target < 0) {
@@ -235,7 +235,7 @@ export function Solver(arr, target, valueKey) {
         if (this.target < this.negativeSum || this.target > this.positiveSum) {
             this.noSolutionType = NO_SOLUTION.OUT_OF_BOUNDS;
             this.hasSolution = false;
-            console.warn("target < negative or > positiveSum, no solution");
+            //console.warn("target < negative or > positiveSum, no solution");
             return;
         }
         
@@ -267,11 +267,11 @@ export function Solver(arr, target, valueKey) {
         let ret = [];
         let solution = this.genNextSolution();
 
-        console.groupCollapsed("solutions");
+        //console.groupCollapsed("solutions");
         while (solution.length > 0) {
             // prevent seemingly-infinite solution searching
             if (ret.length > MAX_SOLUTIONS) {
-                console.warn("hit solution hard max of " + MAX_SOLUTIONS);
+                //console.warn("hit solution hard max of " + MAX_SOLUTIONS);
                 break;
             }
 
@@ -292,7 +292,7 @@ export function Solver(arr, target, valueKey) {
                 sum += this.get(index);
             }
             
-            console.log(subset, `sum = ${sum}`);
+            //console.log(subset, `sum = ${sum}`);
             ret.push(subset);
 
             // flip sign back for next solution in loop
@@ -302,15 +302,15 @@ export function Solver(arr, target, valueKey) {
 
             solution = this.genNextSolution();
         }
-        console.groupEnd();
+        //console.groupEnd();
 
         // return only unique solutions if not an object array
         if (!this.valueKey) {
             ret = Array.from(new Set(ret.map(JSON.stringify)), JSON.parse);
         }
 
-        console.log(`${this.valueKey ? 'all' : 'unique'}`, ret);
-        console.log("--------------------------");
+        //console.log(`${this.valueKey ? 'all' : 'unique'}`, ret);
+        //console.log("--------------------------");
         return ret;
     };
 };

@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 
-// props: placeholder, list, onChange, dontPersist, id, style
+// props: placeholder, list, onChange, dontPersist, id, style, buttonStyle, inputStyle
 const Datalist = props => {
     const [displayText, setDisplayText] = useState(props.placeholder);
     const [mode, setMode] = useState("button");
@@ -22,10 +22,11 @@ const Datalist = props => {
             props.onChange(item);
             if (!props.dontPersist) {
                 setCurrentItem(item);
+            } else {
+                setCurrentInput("");
             }
         }
 
-        setCurrentInput("");
         setMode("button");
     };
 
@@ -59,6 +60,8 @@ const Datalist = props => {
                     onChange={ev => setCurrentInput(ev.target.value)}
                     value={currentInput}
                     placeholder={props.placeholder}
+                    autoFocus
+                    style={props.inputStyle || {}}
                 />
                 <datalist id={props.id}>
                     {tempList.map((item, index) =>
@@ -71,7 +74,7 @@ const Datalist = props => {
 
     const renderButton = () => {
         return (
-            <button style={{ cursor: 'pointer' }} onClick={onClick}>{displayText}</button>
+            <button style={ props.buttonStyle || { cursor: 'pointer' }} onClick={onClick}>{displayText}</button>
         );        
     };
 

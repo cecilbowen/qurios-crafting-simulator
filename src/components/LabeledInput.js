@@ -37,9 +37,25 @@ export const Icon = styled.img`
     top: 0px;
 `;
 
-//props: defaultValue, onChange, label, placeholder, pool, iconStyle
+//props: defaultValue, onChange, label, placeholder, pool, iconStyle, manualUpdate
 const LabeledInput = props => {
     const [value, setValue] = useState(props.defaultValue || 0);
+
+    useEffect(() => {
+        if (props.manualUpdate && props.manualFinish) {
+            const hasMe = props.manualUpdate.filter(x => x.label === props.label)[0];
+            if (hasMe) {
+                props.manualFinish(props.label);
+                //document.getElementById(props.label).value = hasMe.value;
+                onChange({
+                    target: {
+                        value: hasMe.value,
+                    }
+                });
+            }
+
+        }
+    }, [props.manualUpdate]);
 
     const onChange = event => {
         const diff = event.target.value - props.defaultValue;
@@ -94,6 +110,7 @@ const LabeledInput = props => {
                     min={props.defaultValue + min}
                     max={props.defaultValue + max}
                     title={`min, max: ${props.defaultValue + min},${props.defaultValue + max}`}
+                    id={props.label}
                 />
             </div>
             {diff === 0 ? <label style={{ color: TEXT_COLOR }}>-</label> : <label style={{ color }}>{sign}{diff}</label>}

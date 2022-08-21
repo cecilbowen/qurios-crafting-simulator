@@ -51,8 +51,6 @@ const SlotInput = props => {
         const initialHistory = history[0] || newSlots;
         const slotDiffs = initialHistory.map((x, idx) => Math.abs(x - newSlots[idx]));
 
-        console.log('initialHistory, currentSlots', initialHistory, newSlots);
-        console.log('mincemeat', slotsAdded, slotDiffs);
         props.onSlotsUpdated(slotsAdded, slotDiffs);
     };
 
@@ -74,7 +72,6 @@ const SlotInput = props => {
             }
         }
 
-        console.log("slots, history", tSlots, history);
         setSlotHistory(history);
         setCurrentSlots(tSlots);
         onSlotsUpdated(tSlots, history, history.length);
@@ -116,8 +113,6 @@ const SlotInput = props => {
         if (slotBase) {
             slotIcon = SLOT_IMAGES[slotLevel][slotDiff];
         }
-
-        console.log('slot level, slots, oldSLots', slotLevel, arr, oldSlot);
 
         if (slotIcon) {
             return (

@@ -194,7 +194,7 @@ export const getExpandedAugments = (augmentArr, amount = 3) => {
 export const getSortedUniqueSolutions = solutionArr => {
     const uniques = [];
     const ret = [];
-    console.groupCollapsed("sorted unique solutions");
+    //console.groupCollapsed("sorted unique solutions");
     for (const obj of solutionArr) {
         const augCount = obj.length;
         const strArr = JSON.stringify(obj.map(x => x.value)); // number array of values
@@ -217,17 +217,17 @@ export const getSortedUniqueSolutions = solutionArr => {
                 totalCost: cost,
                 totalAugments: augCount,
             });
-            console.log(`${strArr}, augment count: ${augCount} cost sum: ${cost}`);
+            //console.log(`${strArr}, augment count: ${augCount} cost sum: ${cost}`);
         }
     }
-    console.groupEnd();
+    //console.groupEnd();
 
     // sort results by total augment slots used first, and total budget cost second
     ret.sort((a, b) => {
         return a.totalAugments - b.totalAugments || a.totalCost - b.totalCost;
     });
 
-    console.log(ret, Math.abs(solutionArr.length - uniques.length));
+    //console.log(ret, Math.abs(solutionArr.length - uniques.length));
     return ret;
 };
 
@@ -270,7 +270,7 @@ export const getReducedArray = (expandedAugments, value) => {
         }];
 
         if (noLeftovers || leftoverObj) {
-            console.log("no leftovers, assigning", bestSolution);
+            //console.log("no leftovers, assigning", bestSolution);
             ret = [bestSolution];
         }
     }
@@ -321,5 +321,10 @@ export const getWikiSimExportString = (armor, diffs, slotDiffs) => {
         exportData.push("", "");
     }
 
-    console.log(exportData.join(","));
+    return exportData.join(",");
+};
+
+export const copyText = element => {
+    element.target.select();
+    navigator.clipboard.writeText(element.target.value);
 };

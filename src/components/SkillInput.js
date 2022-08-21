@@ -54,6 +54,12 @@ export const SkillModDivMinus = styled.div`
     font-size: 22px;
 `;
 
+const SkillModLabel = styled.label`
+    font-family: monospace;
+    font-size: 15px;
+    margin-top: 4px;
+`;
+
 // props: skill, currentSkillLevel, onSkillMod, new, onSkillDropped, disabled
 const SkillInput = props => {
     const [skillMod, setSkillMod] = useState(props.new ? 1 : 0);
@@ -118,8 +124,16 @@ const SkillInput = props => {
     };
 
     const diff = skillMod;
-    const sign = diff > 0 ? '+' : '';
-    let color = diff > 0 ? 'green' : 'red';
+    let level = "";
+    let sign = diff > 0 ? '+' : '-';
+    let color = diff > 0 ? 'green' : (diff === 0) ? TEXT_COLOR : 'red';
+    if (diff !== 0) {
+        level = "Lv ";
+    }
+    
+    if (diff < 0) {
+        sign = "";
+    }
 
     const renderSkill = () => {
         const skillIDs = [];
@@ -151,7 +165,7 @@ const SkillInput = props => {
                         </SkillMod>
                     </div>
                 </div>
-                {diff === 0 ? <label style={{ color: TEXT_COLOR }}>-</label> : <label style={{ color }}>{sign}{diff}</label>}
+                <SkillModLabel style={{ color }}>{level}{sign}{diff === 0 ? '' : diff}</SkillModLabel>
             </Container>
 
         );

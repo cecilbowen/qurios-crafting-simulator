@@ -24,7 +24,7 @@ import LabeledInput, { Label } from './components/LabeledInput';
 import SkillInput from './components/SkillInput';
 import SlotInput from './components/SlotInput';
 import { Solver } from './subset';
-import { getElementalResistanceTax, getExpandedAugments, getSkillTax,
+import { copyText, getElementalResistanceTax, getExpandedAugments, getSkillTax,
   getSlotTax, getSortedUniqueSolutions, getReducedArray, getWikiSimExportString
 } from './utils';
 import { getSkillByName, getStatKey } from './utils';
@@ -63,8 +63,12 @@ const SkillDecoration = styled.div`
   width: 85%;
 `;
 
-const SkillsBox = styled.div`
-
+const OptionsButton = styled.button`
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  right: 0;
+  cursor: pointer;
 `;
 
 const Footer = styled.div`
@@ -87,6 +91,27 @@ const SpacedDiv = styled.div`
   justify-content: space-between;
   margin: 0em 2em;
   font-weight: bold;
+`;
+
+const Button = styled.button`
+  margin-top: 1em;
+  cursor: pointer;
+`;
+
+const WikiTextfield = styled.textarea`
+  background-color: #131313;
+  color: #5f5f5f;
+  width: 90%;
+  border-radius: 5px;
+  border-style: none solid solid none;
+  margin-top: 1em;
+  cursor: pointer;
+`;
+
+const ArmorImage = styled.img`
+  width: 60%;
+  cursor: pointer;
+  margin-top: 1em;
 `;
 
 // #ff5496 - quirou pink
@@ -119,6 +144,14 @@ const App = () => {
   const [budgetDiffs, setBudgetDiffs] = useState(new Map(defaultDiffs));
   const [augmentDiffs, setAugmentDiffs] = useState(new Map(defaultDiffs));
   const [slotDiffs, setSlotDiffs] = useState([0, 0, 0]);
+  const [showOptions, setShowOptions] = useState(false);
+  const [wikiString, setWikiString] = useState('');
+  const [armorSex, setArmorSex] = useState('male');
+  const [optimizationCooldown, setOptimizationCooldown] = useState(false);
+  const [optimizeText, setOptimizeText] = useState("Optimize for Slots/Skills");
+
+  // fuck it, manual update values on optimiziation button
+  const [manualUpdate, setManualUpdate] = useState([]);
 
   useEffect(() => {
     setArmorList([...ARMOR8, ...ARMOR9, ...ARMOR10]);
@@ -157,7 +190,7 @@ const App = () => {
     }
 
     setAugmentCount(totalAugments);
-    getWikiSimExportString(currentArmor, diffs, slotDiffs);
+    setWikiString(getWikiSimExportString(currentArmor, diffs, slotDiffs));
   }, [augmentDiffs]);
 
   const calculateAugmentCount = (tempDiffs, key, value) => {
@@ -214,7 +247,6 @@ const App = () => {
         case "6": preRollObj = PREROLL_POOL6; break;
         case "13": preRollObj = PREROLL_POOL13; break;
         default:
-          console.warn("currentArmor?.pool undefined");
           tempBudgetDiffs.set(key, 0);
           tempAugmentDiffs.set(key, 0);
           
@@ -272,7 +304,6 @@ const App = () => {
       augmentList = [hasTargetAlready[0]];
     }
     
-    console.log(augmentList);
     let found = false;
     let sortedSolutions = [];
     let expandLimit = 3;
@@ -376,7 +407,6 @@ const App = () => {
       if (preRolls.get(value)) {
         return;
       } // don't need duplicates
-      console.log("__" + value + "__");
 
       const potentialAugmentList = AUGMENTS.slice(0).filter(x =>
         x.pool === pool &&
@@ -414,11 +444,8 @@ const App = () => {
           return b.value - a.value;
         });
 
-        console.log(`__value check: value, max, min`, value, expandedAugments[0].value, expandedAugments[expandedAugments.length - 1].value);
         if (value > expandedAugments[0].value || value < expandedAugments[expandedAugments.length - 1].value) {
-          console.log("REDUCING...", expandedAugments);
           bestSolution = getReducedArray(expandedAugments.slice(0), value)[0];
-          console.log("REDUCED SOLUTION", bestSolution);
           if (bestSolution) {
             found = true;
           }
@@ -444,7 +471,6 @@ const App = () => {
       }
 
       if (hasTargetAlready) {
-        console.log("\tez grab", value);
         bestSolution = getSortedUniqueSolutions([augmentList])[0];
       }
 
@@ -459,8 +485,6 @@ const App = () => {
 
       preRolls.set(value, tax);
     }
-
-    console.log("pre rolls", preRolls);
   };
   
   const getActiveSkills = () => {
@@ -479,25 +503,18 @@ const App = () => {
     tempDiffs.set(key, value);
 
     setDiffs(tempDiffs);
-    console.log(tempDiffs);
 
     const newDiffs = calculateAugmentCount(tempDiffs, key, value);
 
     setBudgetDiffs(newDiffs.tempBudgetDiffs);
     setAugmentDiffs(newDiffs.tempAugmentDiffs);
-
-    console.log("newDiffs", newDiffs);
   };
 
   const onArmorChange = armor => {
-    console.log("Armor Changed", armor);
-
     setCurrentArmor(armor);
   };
 
   const onNewSkill = skill => {
-    console.log(skill);
-
     const activeSkills = getActiveSkills();
     const alreadyExists = activeSkills.filter(x => x.skill.name === skill.name)[0];
     if (alreadyExists) {
@@ -525,23 +542,113 @@ const App = () => {
 
   const onStatUpdate = stat => {
     const key = getStatKey(stat, currentArmor?.pool);
-    console.log("new stat", stat);
-    console.log(key);
 
     updateDiffs(stat.label, stat.value);
   };
 
-  const onSkillLevelChanged = (skill, levelDiff) => {
-    console.log(skill.name + " mod", levelDiff);
-    
+  const onSkillLevelChanged = (skill, levelDiff) => {    
     updateDiffs("_" + skill.name, levelDiff);
   };
 
   const onSlotsUpdated = (slotsAdded, sDiffs) => {
-    console.log("Slots diff", slotsAdded);
-
     setSlotDiffs(sDiffs);
     updateDiffs("Slot", slotsAdded);
+  };
+
+  const toggleArmorSex = () => {
+    if (armorSex === 'male') {
+      setArmorSex('female');
+      return;
+    }
+
+    setArmorSex('male');
+  };
+
+  const addManualUpdate = (label, value) => {
+    const tempManualUpdate = manualUpdate.slice(0);
+    tempManualUpdate.push({ label, value });
+    setManualUpdate(tempManualUpdate);
+  }
+
+  const manualFinish = label => {
+    const tempManualUpdate = manualUpdate.slice(0).filter(x => x.label !== label);
+    setManualUpdate(tempManualUpdate);
+  };
+
+  const optimize = () => {
+    // attemps to optimize armor stats to fit slots/skills under augments/budget
+    if (!currentArmor || optimizationCooldown) { return; }
+    setOptimizationCooldown(true);
+    setTimeout(() => {
+      setOptimizationCooldown(false);
+      setOptimizeText("Optimize for Slots/Skills");
+    }, 1500);
+
+    // first get budget/augment differences (sans defense/elemental resistances)
+    let totalBudget = 0;
+    let totalAugments = 0;
+    for (const [key, value] of budgetDiffs.entries()) {
+      if (key.indexOf("_") !== -1 || key === "Slot") {
+        totalBudget += value;
+      }
+    }
+    for (const [key, value] of augmentDiffs.entries()) {
+      if (key.indexOf("_") !== -1 || key === "Slot") {
+        totalAugments += value;
+      }
+    }
+    
+    // get only Defense- augments
+    const potentialAugmentList = AUGMENTS.slice(0).filter(x =>
+      x.pool === currentArmor.pool // warning: "pool" is still a string, not an int
+      && x.description === "Defense-" // include + and - values
+    );
+
+    // get smallest Defense- augment by sorting list of augments in ascending order
+    potentialAugmentList.sort((a, b) => {
+      return a.level1 - b.level1;
+    });
+    const defAmountL = potentialAugmentList[0].level1; // -12 unless something changes in future
+    const defCostL = potentialAugmentList[0].cost; // -5 unless something changes in future
+
+    const defAmountW = potentialAugmentList[1].level1; // -6 unless something changes in future
+    const defCostW = potentialAugmentList[1].cost; // -3 unless something changes in future
+
+    let augmentsToUse = 0;
+    let augmentBudgetCost = 0;
+    let augmentValue = 0;
+
+    let budgetDifference = currentArmor.budget - totalBudget;
+    if (budgetDifference < 0) {
+      augmentsToUse = Math.ceil(budgetDifference / defCostL);
+      augmentBudgetCost = augmentsToUse * defCostL;
+      augmentValue = augmentsToUse * defAmountL;
+      if (budgetDifference % defCostL !== 0) { // if not perfect
+        let oneBeforeBudget = totalBudget + ((augmentsToUse - 1) * defCostL);
+        if (oneBeforeBudget + defCostW <= currentArmor.budget) {
+          augmentBudgetCost = ((augmentsToUse - 1) * defCostL) + defCostW;
+          augmentValue = ((augmentsToUse - 1) * defAmountL) + defAmountW;
+        }
+      }
+    }
+
+    const newBudget = totalBudget + augmentBudgetCost;
+    const newBudgetDifference = currentArmor.budget - newBudget;
+    const augmentDifference = 7 - (totalAugments + augmentsToUse);
+
+    if (newBudgetDifference < 0 || augmentDifference < 0) {
+      setOptimizeText("Optimization has Failed");
+    } else {
+      setOptimizeText("Optimization Successful");
+
+      // set inputs (i'm dead inside)...
+      addManualUpdate("Defense", currentArmor.defense + augmentValue);
+      setTimeout(() => addManualUpdate("Fire Resistance", currentArmor.resistances.fire), 200);
+      setTimeout(() => addManualUpdate("Water Resistance", currentArmor.resistances.water), 400);
+      setTimeout(() => addManualUpdate("Thunder Resistance", currentArmor.resistances.thunder), 600);
+      setTimeout(() => addManualUpdate("Ice Resistance", currentArmor.resistances.ice), 800);
+      setTimeout(() => addManualUpdate("Dragon Resistance", currentArmor.resistances.dragon), 1000);
+    }
   };
 
   const renderSkills = () => {
@@ -559,11 +666,36 @@ const App = () => {
       />
     );
     
-    return <SkillsBox>
+    return <div>
       <SkillDecoration>Skills</SkillDecoration>
       {displaySkills}
-    </SkillsBox>;
+    </div>;
   };
+
+  const renderOptions = () => {
+    if (!currentArmor || !showOptions || reset) { return null; }
+
+    return (
+      <AugmentBox style={{ borderColor: '#19243f', marginLeft: '2em' }}>
+        <AugmentHeader style={{ backgroundColor: '#19243f' }}>Options</AugmentHeader>
+        <div style={{ display: 'table', margin: '0 auto' }}>
+          <ArmorImage alt={"kiranico armor"}
+            src={currentArmor?.imageURLs[armorSex]}
+            onClick={toggleArmorSex}
+            title={'Click to toggle form'}
+          />
+          <Button style={ optimizationCooldown ? { color: 'blue' } : {} } onClick={optimize} disabled={optimizationCooldown} >{optimizeText}</Button>
+          <WikiTextfield id={'wikiString'}
+            placeholder={"Wiki Set Builder Export String"}
+            readOnly value={ wikiString }
+            rows={5}
+            title={"Click to copy to clipboard"}
+            onClick={el => copyText(el)}
+          />
+        </div>
+      </AugmentBox>
+    )
+  }
 
   const renderInputs = () => {
     if (!currentArmor || reset) { return null; }
@@ -571,7 +703,7 @@ const App = () => {
     let budgetStyle = {};
     let augmentStyle = {};
 
-    if (budget > currentArmor?.budget) {
+    if (budget > currentArmor.budget) {
       budgetStyle = { color: "red" };
     }
 
@@ -581,28 +713,55 @@ const App = () => {
 
     return (
       <AugmentBox>
-        <AugmentHeader>Augmented Status</AugmentHeader>
+        <AugmentHeader>
+          {currentArmor.name}
+          <OptionsButton title={'Options'} onClick={() => setShowOptions(!showOptions)}></OptionsButton>
+        </AugmentHeader>
         <SpacedDiv style={{ marginTop: '1em' }}>
           <Label>Budget Used</Label>
-          <Label style={ budgetStyle }>{budget}/{currentArmor?.budget}</Label>
+          <Label style={ budgetStyle }>{`${budget} / ${currentArmor.budget}`}</Label>
         </SpacedDiv>
         <SpacedDiv>
           <Label>Augments Used</Label>
-          <Label style={ augmentStyle }>{augmentCount}/7</Label>
+          <Label style={ augmentStyle }>{`${augmentCount} / 7`}</Label>
         </SpacedDiv>
         <br />
         <SlotInput slots={currentArmor.slots} onSlotsUpdated={onSlotsUpdated} />
-        <LabeledInput label="Defense" defaultValue={currentArmor.defense}
-          onChange={onStatUpdate} pool={currentArmor?.pool} icon={GENERIC}
+        <LabeledInput id="Defense" label="Defense" defaultValue={currentArmor.defense}
+          onChange={onStatUpdate} pool={currentArmor.pool} icon={GENERIC}
           iconStyle={{ width: '16px', left: '-2px', top: '3px' }}
+          manualUpdate={manualUpdate}
+          manualFinish={manualFinish}
         />
-        <LabeledInput label="Fire Resistance" defaultValue={currentArmor.resistances.fire} onChange={onStatUpdate} pool={currentArmor?.pool} icon={FIRE} />
-        <LabeledInput label="Water Resistance" defaultValue={currentArmor.resistances.water} onChange={onStatUpdate} pool={currentArmor?.pool} icon={WATER} />
-        <LabeledInput label="Thunder Resistance" defaultValue={currentArmor.resistances.thunder} onChange={onStatUpdate} pool={currentArmor?.pool} icon={THUNDER} />
-        <LabeledInput label="Ice Resistance" defaultValue={currentArmor.resistances.ice} onChange={onStatUpdate} pool={currentArmor?.pool} icon={ICE} />
-        <LabeledInput label="Dragon Resistance" defaultValue={currentArmor.resistances.dragon} onChange={onStatUpdate} pool={currentArmor?.pool} icon={DRAGON} />
+        <LabeledInput label="Fire Resistance"
+          defaultValue={currentArmor.resistances.fire}
+          onChange={onStatUpdate}
+          pool={currentArmor.pool}
+          icon={FIRE}
+          manualUpdate={manualUpdate}
+          manualFinish={manualFinish}
+        />
+        <LabeledInput
+          label="Water Resistance"
+          defaultValue={currentArmor.resistances.water}
+          onChange={onStatUpdate} pool={currentArmor.pool}
+          icon={WATER} manualUpdate={manualUpdate}
+          manualFinish={manualFinish}
+        />
+        <LabeledInput label="Thunder Resistance" defaultValue={currentArmor.resistances.thunder}
+          onChange={onStatUpdate} pool={currentArmor.pool} icon={THUNDER} manualUpdate={manualUpdate}
+          manualFinish={manualFinish}
+        />
+        <LabeledInput label="Ice Resistance" defaultValue={currentArmor.resistances.ice}
+          onChange={onStatUpdate} pool={currentArmor.pool} icon={ICE} manualUpdate={manualUpdate}
+          manualFinish={manualFinish}
+        />
+        <LabeledInput label="Dragon Resistance" defaultValue={currentArmor.resistances.dragon}
+          onChange={onStatUpdate} pool={currentArmor.pool} icon={DRAGON} manualUpdate={manualUpdate}
+          manualFinish={manualFinish}
+        />
         {renderSkills()}
-        {currentArmor?.pool !== "13" &&
+        {currentArmor.pool !== "13" &&
           <Datalist id="skillList" list={skillList.filter(x => x.augmentable)}
             onChange={onNewSkill} placeholder="Add New Skill" dontPersist
             style={{ margin: '1em' }}
@@ -618,8 +777,13 @@ const App = () => {
       <Datalist id="armorList" list={armorList}
         onChange={onArmorChange} placeholder="Select Armor"
         style={{ marginBottom: '1em' }}
+        inputStyle={{ width: '15em' }}
+        dontPersist
       />
-      {renderInputs()}
+      <div style={{ display: 'flex' }}>
+        {renderInputs()}
+        {renderOptions()}
+      </div>
       <Footer>
         <Link target={"_blank"} href={'https://cinnamoonie.tumblr.com/post/174059151817/some-monster-hunter-patterns-feel-free-to-use'}>background credit</Link>
         <Link target={"_blank"} href={'https://docs.google.com/spreadsheets/d/1FFYv2em4LErylP6_dlzZ7Zt3h76UluzU3f1dpZCeP8w/'}>data used</Link>
