@@ -328,3 +328,19 @@ export const copyText = element => {
     element.target.select();
     navigator.clipboard.writeText(element.target.value);
 };
+
+export const isLegit = (armor, diffs, budget, augmentCount) => {
+    const armorBudget = armor.budget;
+    const defDiff = diffs.get("Defense");
+
+    console.log("BAM", diffs);
+    if (budget > armorBudget || augmentCount > 7) {
+        return { legit: false, reason: "Budget/Augments exceeded." };
+    } else if (augmentCount === 7) {
+        if (defDiff <= 0) {
+            return { legit: false, reason: "Must have 1 Defense+ Augment." };
+        }
+    }
+
+    return { legit: true, reason: "Armor is legit." };
+};

@@ -25,9 +25,9 @@ import SkillInput from './components/SkillInput';
 import SlotInput from './components/SlotInput';
 import { Solver } from './subset';
 import { copyText, getElementalResistanceTax, getExpandedAugments, getSkillTax,
-  getSlotTax, getSortedUniqueSolutions, getReducedArray, getWikiSimExportString
+  getSlotTax, getSortedUniqueSolutions, getReducedArray, getWikiSimExportString,
+  isLegit, getSkillByName, getStatKey
 } from './utils';
-import { getSkillByName, getStatKey } from './utils';
 import styled from '@emotion/styled';
 
 const MAIN_COLOR = "#5d0206";
@@ -112,6 +112,10 @@ const ArmorImage = styled.img`
   width: 60%;
   cursor: pointer;
   margin-top: 1em;
+`;
+
+const LegitLabel = styled.label`
+  font-style: italic;
 `;
 
 // #ff5496 - quirou pink
@@ -222,7 +226,7 @@ const App = () => {
       tempBudgetDiffs.set(`_${skill.name}`, tax.cost);
       tempAugmentDiffs.set(`_${skill.name}`, tax.augments);
     } else if (key.indexOf("Resistance") !== -1) {
-      const tax = getElementalResistanceTax(value);
+      const tax = getElementalResistanceTax(value) || { augments: 0, cost: 0 };
       tempBudgetDiffs.set(key, tax.cost);
       tempAugmentDiffs.set(key, tax.augments);
       elemental = true;
@@ -258,8 +262,8 @@ const App = () => {
 
       const preRollMap = new Map(Object.entries(preRollObj));
 
-      tempBudgetDiffs.set(key, preRollMap.get(`${value}`).cost);
-      tempAugmentDiffs.set(key, preRollMap.get(`${value}`).augments);
+      tempBudgetDiffs.set(key, preRollMap.get(`${value}`)?.cost || 0);
+      tempAugmentDiffs.set(key, preRollMap.get(`${value}`)?.augments || 0);
 
       return {
         tempBudgetDiffs,
@@ -675,6 +679,9 @@ const App = () => {
   const renderOptions = () => {
     if (!currentArmor || !showOptions || reset) { return null; }
 
+    const legit = isLegit(currentArmor, diffs, budget, augmentCount);
+    const legitColor = legit.legit ? "blue" : "crimson";
+
     return (
       <AugmentBox style={{ borderColor: '#19243f', marginLeft: '2em' }}>
         <AugmentHeader style={{ backgroundColor: '#19243f' }}>Options</AugmentHeader>
@@ -688,10 +695,11 @@ const App = () => {
           <WikiTextfield id={'wikiString'}
             placeholder={"Wiki Set Builder Export String"}
             readOnly value={ wikiString }
-            rows={5}
+            rows={4}
             title={"Click to copy to clipboard"}
             onClick={el => copyText(el)}
           />
+          <LegitLabel style={{ color: legitColor }}>{legit.reason}</LegitLabel>
         </div>
       </AugmentBox>
     )
