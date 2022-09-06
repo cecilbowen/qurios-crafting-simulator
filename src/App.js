@@ -666,7 +666,7 @@ const App = () => {
         onSkillLevelChanged={onSkillLevelChanged}
         onSkillDropped={onSkillDropped}
         new={x.new}
-        disabled={currentArmor?.pool === "13"}
+        disabled={currentArmor?.pool === "13" || !x.skill.augmentable}
       />
     );
     
