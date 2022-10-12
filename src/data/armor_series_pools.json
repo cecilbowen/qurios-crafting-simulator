@@ -772,5 +772,23 @@
     "id": "431",
     "pool": "6",
     "budget": 10
+  },
+  {
+    "series": "Flaming Espinas",
+    "id": "430",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "series": "Onmyo",
+    "id": "394",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "series": "Risen Mizuha",
+    "id": "491",
+    "pool": "6",
+    "budget": 10
   }
 ]

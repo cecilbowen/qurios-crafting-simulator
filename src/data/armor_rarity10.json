@@ -57,7 +57,7 @@
         "level": 1
       },
       {
-        "name": "Chain Crit",
+        "name": "Burst",
         "level": 1
       }
     ],
@@ -123,7 +123,7 @@
         "level": 1
       },
       {
-        "name": "Chain Crit",
+        "name": "Burst",
         "level": 2
       }
     ],
@@ -814,7 +814,7 @@
     ],
     "skills": [
       {
-        "name": "Chain Crit",
+        "name": "Burst",
         "level": 1
       },
       {
@@ -884,7 +884,7 @@
     ],
     "skills": [
       {
-        "name": "Chain Crit",
+        "name": "Burst",
         "level": 1
       },
       {
@@ -1736,7 +1736,7 @@
         "level": 1
       },
       {
-        "name": "Chain Crit",
+        "name": "Burst",
         "level": 2
       }
     ],
@@ -1813,7 +1813,7 @@
         "level": 1
       },
       {
-        "name": "Chain Crit",
+        "name": "Burst",
         "level": 1
       }
     ],
@@ -2286,6 +2286,573 @@
     },
     "setID": "431",
     "setName": "Lucent Narga",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Flaming Espinas Brain",
+    "defense": 122,
+    "resistances": {
+      "fire": 3,
+      "water": -4,
+      "ice": 2,
+      "thunder": -1,
+      "dragon": -3
+    },
+    "slots": [
+      3,
+	    2
+    ],
+    "skills": [
+      {
+        "name": "Attack Boost",
+        "level": 2
+      },
+      {
+        "name": "Razor Sharp",
+        "level": 1
+      },
+      {
+        "name": "Spare Shot",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1720319973",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "430",
+    "setName": "Flaming Espinas",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Flaming Espinas Muscle",
+    "defense": 122,
+    "resistances": {
+      "fire": 3,
+      "water": -4,
+      "ice": 2,
+      "thunder": -1,
+      "dragon": -3
+    },
+    "slots": [
+      2,
+	    2
+    ],
+    "skills": [
+      {
+        "name": "Charge Master",
+        "level": 1
+      },
+      {
+        "name": "Marathon Runner",
+        "level": 2
+      },
+      {
+        "name": "Attack Boost",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1720319973",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "430",
+    "setName": "Flaming Espinas",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Flaming Espinas Grip",
+    "defense": 122,
+    "resistances": {
+      "fire": 3,
+      "water": -4,
+      "ice": 2,
+      "thunder": -1,
+      "dragon": -3
+    },
+    "slots": [
+      4,
+	    2
+    ],
+    "skills": [
+      {
+        "name": "Intrepid Heart",
+        "level": 1
+      },
+      {
+        "name": "Attack Boost",
+        "level": 1
+      },
+      {
+        "name": "Razor Sharp",
+        "level": 2
+      },
+      {
+        "name": "Spare Shot",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1720319973",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "430",
+    "setName": "Flaming Espinas",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Flaming Espinas Bowels",
+    "defense": 122,
+    "resistances": {
+      "fire": 3,
+      "water": -4,
+      "ice": 2,
+      "thunder": -1,
+      "dragon": -3
+    },
+    "slots": [
+      4,
+	    1,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Charge Master",
+        "level": 2
+      },
+      {
+        "name": "Marathon Runner",
+        "level": 1
+      },
+      {
+        "name": "Burst",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1720319973",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "430",
+    "setName": "Flaming Espinas",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Flaming Espinas Heel",
+    "defense": 122,
+    "resistances": {
+      "fire": 3,
+      "water": -4,
+      "ice": 2,
+      "thunder": -1,
+      "dragon": -3
+    },
+    "slots": [
+      4,
+	    1
+    ],
+    "skills": [
+      {
+        "name": "Intrepid Heart",
+        "level": 1
+      },
+      {
+        "name": "Attack Boost",
+        "level": 1
+      },
+      {
+        "name": "Burst",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1720319973",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "430",
+    "setName": "Flaming Espinas",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Onmyo Toukan",
+    "defense": 120,
+    "resistances": {
+      "fire": 2,
+      "water": 0,
+      "ice": -3,
+      "thunder": -1,
+      "dragon": 1
+    },
+    "slots": [
+      4,
+	    1,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Adrenaline Rush",
+        "level": 1
+      },
+      {
+        "name": "Evade Extender",
+        "level": 3
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1720319973",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "394",
+    "setName": "Onmyo",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Onmyo Kariginu",
+    "defense": 120,
+    "resistances": {
+      "fire": 2,
+      "water": 0,
+      "ice": -3,
+      "thunder": -1,
+      "dragon": 1
+    },
+    "slots": [
+      3,
+	    2,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Embolden",
+        "level": 1
+      },
+      {
+        "name": "Weakness Exploit",
+        "level": 1
+      },
+      {
+        "name": "Stamina Surge",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1720319973",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "394",
+    "setName": "Onmyo",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Onmyo Tekkou",
+    "defense": 120,
+    "resistances": {
+      "fire": 2,
+      "water": 0,
+      "ice": -3,
+      "thunder": -1,
+      "dragon": 1
+    },
+    "slots": [
+      2,
+	    2,
+      2
+    ],
+    "skills": [
+      {
+        "name": "Embolden",
+        "level": 1
+      },
+      {
+        "name": "Agitator",
+        "level": 2
+      },
+      {
+        "name": "Stamina Surge",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1720319973",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "394",
+    "setName": "Onmyo",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Onmyo Ateobi",
+    "defense": 120,
+    "resistances": {
+      "fire": 2,
+      "water": 0,
+      "ice": -3,
+      "thunder": -1,
+      "dragon": 1
+    },
+    "slots": [
+      2,
+	    2,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Embolden",
+        "level": 1
+      },
+      {
+        "name": "Agitator",
+        "level": 3
+      },
+      {
+        "name": "Adrenaline Rush",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1720319973",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "394",
+    "setName": "Onmyo",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Onmyo Sashiko",
+    "defense": 120,
+    "resistances": {
+      "fire": 2,
+      "water": 0,
+      "ice": -3,
+      "thunder": -1,
+      "dragon": 1
+    },
+    "slots": [
+      4
+    ],
+    "skills": [
+      {
+        "name": "Flinch Free",
+        "level": 3
+      },
+      {
+        "name": "Weakness Exploit",
+        "level": 2
+      },
+      {
+        "name": "Offensive Guard",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1720319973",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "394",
+    "setName": "Onmyo",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Risen Mizuha Headdress",
+    "defense": 120,
+    "resistances": {
+      "fire": -5,
+      "water": 1,
+      "ice": 3,
+      "thunder": 0,
+      "dragon": -3
+    },
+    "slots": [
+      4,
+	    2
+    ],
+    "skills": [
+      {
+        "name": "Peak Performance",
+        "level": 3
+      },
+      {
+        "name": "Evade Window",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1720319973",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "491",
+    "setName": "Risen Mizuha",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Risen Mizuha Robes",
+    "defense": 120,
+    "resistances": {
+      "fire": -5,
+      "water": 1,
+      "ice": 3,
+      "thunder": 0,
+      "dragon": -3
+    },
+    "slots": [
+      4
+    ],
+    "skills": [
+      {
+        "name": "Buildup Boost",
+        "level": 1
+      },
+      {
+        "name": "Chameleos Blessing",
+        "level": 2
+      },
+      {
+        "name": "Wirebug Whisperer",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1720319973",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "491",
+    "setName": "Risen Mizuha",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Risen Mizuha Sleeves",
+    "defense": 120,
+    "resistances": {
+      "fire": -5,
+      "water": 1,
+      "ice": 3,
+      "thunder": 0,
+      "dragon": -3
+    },
+    "slots": [
+      4,
+	    2,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Buildup Boost",
+        "level": 1
+      },
+      {
+        "name": "Chameleos Blessing",
+        "level": 1
+      },
+      {
+        "name": "Foray",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1720319973",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "491",
+    "setName": "Risen Mizuha",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Risen Mizuha Sash",
+    "defense": 120,
+    "resistances": {
+      "fire": -5,
+      "water": 1,
+      "ice": 3,
+      "thunder": 0,
+      "dragon": -3
+    },
+    "slots": [
+      4,
+	    4
+    ],
+    "skills": [
+      {
+        "name": "Wirebug Whisperer",
+        "level": 2
+      },
+      {
+        "name": "Foray",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1720319973",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "491",
+    "setName": "Risen Mizuha",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Risen Mizuha Gaiters",
+    "defense": 120,
+    "resistances": {
+      "fire": -5,
+      "water": 1,
+      "ice": 3,
+      "thunder": 0,
+      "dragon": -3
+    },
+    "slots": [
+      4,
+	    1,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Buildup Boost",
+        "level": 1
+      },
+      {
+        "name": "Chameleos Blessing",
+        "level": 1
+      },
+      {
+        "name": "Evade Window",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "https://mhrise.kiranico.com/data/armors/1720319973",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "491",
+    "setName": "Risen Mizuha",
     "pool": "6",
     "budget": 10
   }

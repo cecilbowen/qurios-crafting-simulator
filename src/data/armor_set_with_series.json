@@ -1415,5 +1415,38 @@
       "Lambent Sash",
       "Lambent Gaiters"
     ]
+  },
+  {
+    "name": "Flaming Espinas",
+    "setID": "430",
+    "pieces": [
+      "Flaming Espinas Brain",
+      "Flaming Espinas Muscle",
+      "Flaming Espinas Grip",
+      "Flaming Espinas Bowels",
+      "Flaming Espinas Heel"
+    ]
+  },
+  {
+    "name": "Onmyo",
+    "setID": "394",
+    "pieces": [
+      "Onmyo Toukan",
+      "Onmyo Kariginu",
+      "Onmyo Tekkou",
+      "Onmyo Ateobi",
+      "Onmyo Sashiko"
+    ]
+  },
+  {
+    "name": "Risen Mizuha",
+    "setID": "491",
+    "pieces": [
+      "Risen Mizuha Headdress",
+      "Risen Mizuha Robes",
+      "Risen Mizuha Sleeves",
+      "Risen Mizuha Sash",
+      "Risen Mizuha Gaiters"
+    ]
   }
 ]

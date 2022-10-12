@@ -1195,5 +1195,41 @@
     "maxLevel": 3,
     "url": "https://mhrise.kiranico.com/data/skills/247196652",
     "augmentable": false
+  },
+  {
+    "name": "Intrepid Heart",
+    "description": "After filling the gauge by continuously landing attacks, negates damage reactions and reduces damage taken from a single attack that would knock you back.\n\nLevel 1: Activate Effect\n\nLevel 2: When activated, damage received is further reduced and will detonate an explosion",
+    "id": "223",
+    "cost": -1,
+    "maxLevel": 2,
+    "url": "https://mhrise.kiranico.com/data/skills/247196652",
+    "augmentable": false
+  },
+  {
+    "name": "Buildup Boost",
+    "description": "Increases attack power when you land attacks that build poison, paralysis, sleep, blast, or exhaust. (Exhaust - ammo/phials/coatings only)\n\nLevel 1: While active, increases attack power by 10%\n\nLevel 1: While active, increases attack power by 15%\n\nLevel 1: While active, increases attack power by 20%",
+    "id": "224",
+    "cost": -1,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/247196652",
+    "augmentable": false
+  },
+  {
+    "name": "Embolden",
+    "description": "When targeted by a monster, that monster becomes more likely to become enraged but your own defense is increased.\n\nLevel 1: While active, defense +10, slightly prolongs dodging invincibility and slightly lowers impact when guarding\n\nLevel 2: While active, defense +20, prolongs invincibility when dodging and lowers impact when guarding\n\nLevel 3: While active, defense +40, greatly prolongs dodging invincibility and greatly lowers impact when guarding",
+    "id": "209",
+    "cost": -1,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/247196652",
+    "augmentable": false
+  },
+  {
+    "name": "Burst",
+    "description": "Continuously landing hits gradually increases attack and elemental attack. (The amount of increase depends on the weapon.)\n\nLevel 1: Upon attack hit, temp attack +5, element +5; hit 5 successive times for an extra stat boost.\n\nLevel 2: Upon attack hit, temp attack +5, element +5; hit 5 successive times for an even bigger stat boost.\n\nLevel 3: Upon attack hit, temp attack +5, element +5; hit 5 successive times for a huge stat boost.",
+    "id": "219",
+    "cost": 12,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/37217289",
+    "augmentable": true
   }
 ]

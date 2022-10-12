@@ -806,5 +806,13 @@
     "cost": 3,
     "maxLevel": 1,
     "url": "https://mhrise.kiranico.com/data/skills/8733771"
+  },
+  {
+    "name": "Burst",
+    "description": "Continuously landing hits gradually increases attack and elemental attack. (The amount of increase depends on the weapon.)\n\nLevel 1: Upon attack hit, temp attack +5, element +5; hit 5 successive times for an extra stat boost.\n\nLevel 2: Upon attack hit, temp attack +5, element +5; hit 5 successive times for an even bigger stat boost.\n\nLevel 3: Upon attack hit, temp attack +5, element +5; hit 5 successive times for a huge stat boost.",
+    "id": "219",
+    "cost": 12,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/37217289"
   }
 ]
