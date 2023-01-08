@@ -6,6 +6,6 @@ A simple tool that lets you enter your desired custom armor stats and removes th
 
 Live demo here: https://4y1cy2.csb.app/
 
-Updated for Title Update 2
+Updated for Title Update 3
 
 Sources include dtlnor, kiranico and mhrice

@@ -2855,5 +2855,766 @@
     "setName": "Risen Mizuha",
     "pool": "6",
     "budget": 10
+  },
+  {
+    "name": "Chaotic Helm",
+    "defense": 118,
+    "resistances": {
+      "fire": -4,
+      "water": 3,
+      "ice": 2,
+      "thunder": -2,
+      "dragon": -4
+    },
+    "slots": [
+      4,
+      2
+    ],
+    "skills": [
+      {
+        "name": "Strife",
+        "level": 1
+      },
+      {
+        "name": "Critical Eye",
+        "level": 2
+      },
+      {
+        "name": "Element Exploit",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "xxx",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "494",
+    "setName": "Chaotic Gore",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Chaotic Mail",
+    "defense": 118,
+    "resistances": {
+      "fire": -4,
+      "water": 3,
+      "ice": 2,
+      "thunder": -2,
+      "dragon": -4
+    },
+    "slots": [
+      3,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Strife",
+        "level": 1
+      },
+      {
+        "name": "Critical Eye",
+        "level": 2
+      },
+      {
+        "name": "Critical Boost",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "xxx",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "494",
+    "setName": "Chaotic Gore",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Chaotic Vambraces",
+    "defense": 118,
+    "resistances": {
+      "fire": -4,
+      "water": 3,
+      "ice": 2,
+      "thunder": -2,
+      "dragon": -4
+    },
+    "slots": [
+      3
+    ],
+    "skills": [
+      {
+        "name": "Berserk",
+        "level": 1
+      },
+      {
+        "name": "Bloodlust",
+        "level": 1
+      },
+      {
+        "name": "Resentment",
+        "level": 3
+      }
+    ],
+    "kiranicoURL": "xxx",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "494",
+    "setName": "Chaotic Gore",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Chaotic Faulds",
+    "defense": 118,
+    "resistances": {
+      "fire": -4,
+      "water": 3,
+      "ice": 2,
+      "thunder": -2,
+      "dragon": -4
+    },
+    "slots": [
+      3,
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Strife",
+        "level": 1
+      },
+      {
+        "name": "Critical Eye",
+        "level": 2
+      },
+      {
+        "name": "Resentment",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "xxx",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "494",
+    "setName": "Chaotic Gore",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Chaotic Greaves",
+    "defense": 118,
+    "resistances": {
+      "fire": -4,
+      "water": 3,
+      "ice": 2,
+      "thunder": -2,
+      "dragon": -4
+    },
+    "slots": [
+      3
+    ],
+    "skills": [
+      {
+        "name": "Berserk",
+        "level": 1
+      },
+      {
+        "name": "Bloodlust",
+        "level": 1
+      },
+      {
+        "name": "Coalescence",
+        "level": 3
+      }
+    ],
+    "kiranicoURL": "xxx",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "494",
+    "setName": "Chaotic Gore",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Risen Kushala Glare",
+    "defense": 124,
+    "resistances": {
+      "fire": -1,
+      "water": 2,
+      "ice": 3,
+      "thunder": -2,
+      "dragon": -3
+    },
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Wind Mantle",
+        "level": 1
+      },
+      {
+        "name": "Wirebug Whisperer",
+        "level": 3
+      }
+    ],
+    "kiranicoURL": "xxx",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "492",
+    "setName": "Risen Kushala",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Risen Kushala Iram",
+    "defense": 124,
+    "resistances": {
+      "fire": -1,
+      "water": 2,
+      "ice": 3,
+      "thunder": -2,
+      "dragon": -3
+    },
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Kushala Blessing",
+        "level": 2
+      },
+      {
+        "name": "Attack Boost",
+        "level": 2
+      },
+      {
+        "name": "Razor Sharp",
+        "level": 2
+      },
+      {
+        "name": "Spare Shot",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "xxx",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "492",
+    "setName": "Risen Kushala",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Risen Kushala Grande",
+    "defense": 124,
+    "resistances": {
+      "fire": -1,
+      "water": 2,
+      "ice": 3,
+      "thunder": -2,
+      "dragon": -3
+    },
+    "slots": [
+      4,
+      2
+    ],
+    "skills": [
+      {
+        "name": "Wind Mantle",
+        "level": 1
+      },
+      {
+        "name": "Burst",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "xxx",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "492",
+    "setName": "Risen Kushala",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Risen Kushala Cocoon",
+    "defense": 124,
+    "resistances": {
+      "fire": -1,
+      "water": 2,
+      "ice": 3,
+      "thunder": -2,
+      "dragon": -3
+    },
+    "slots": [
+      3,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Kushala Blessing",
+        "level": 2
+      },
+      {
+        "name": "Attack Boost",
+        "level": 2
+      },
+      {
+        "name": "Recovery Up",
+        "level": 3
+      }
+    ],
+    "kiranicoURL": "xxx",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "492",
+    "setName": "Risen Kushala",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Risen Kushala Crus",
+    "defense": 124,
+    "resistances": {
+      "fire": -1,
+      "water": 2,
+      "ice": 3,
+      "thunder": -2,
+      "dragon": -3
+    },
+    "slots": [
+      4,
+      4
+    ],
+    "skills": [
+      {
+        "name": "Wind Mantle",
+        "level": 1
+      },
+      {
+        "name": "Burst",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "xxx",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "492",
+    "setName": "Risen Kushala",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Risen Kaiser Horns",
+    "defense": 124,
+    "resistances": {
+      "fire": 4,
+      "water": -4,
+      "ice": -1,
+      "thunder": 1,
+      "dragon": -3
+    },
+    "slots": [
+      3,
+      2
+    ],
+    "skills": [
+      {
+        "name": "Powder Mantle",
+        "level": 1
+      },
+      {
+        "name": "Weakness Exploit",
+        "level": 1
+      },
+      {
+        "name": "Critical Eye",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "xxx",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "493",
+    "setName": "Risen Kaiser",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Risen Kaiser Mail",
+    "defense": 124,
+    "resistances": {
+      "fire": 4,
+      "water": -4,
+      "ice": -1,
+      "thunder": 1,
+      "dragon": -3
+    },
+    "slots": [
+      2,
+      2
+    ],
+    "skills": [
+      {
+        "name": "Powder Mantle",
+        "level": 1
+      },
+      {
+        "name": "Weakness Exploit",
+        "level": 1
+      },
+      {
+        "name": "Critical Eye",
+        "level": 3
+      }
+    ],
+    "kiranicoURL": "xxx",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "493",
+    "setName": "Risen Kaiser",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Risen Kaiser Braces",
+    "defense": 124,
+    "resistances": {
+      "fire": 4,
+      "water": -4,
+      "ice": -1,
+      "thunder": 1,
+      "dragon": -3
+    },
+    "slots": [
+      4,
+      4
+    ],
+    "skills": [
+      {
+        "name": "Teostra Blessing",
+        "level": 2
+      },
+      {
+        "name": "Master's Touch",
+        "level": 1
+      },
+      {
+        "name": "Ballistics",
+        "level": 1
+      },
+      {
+        "name": "Critical Eye",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "xxx",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "493",
+    "setName": "Risen Kaiser",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Risen Kaiser Coil",
+    "defense": 124,
+    "resistances": {
+      "fire": 4,
+      "water": -4,
+      "ice": -1,
+      "thunder": 1,
+      "dragon": -3
+    },
+    "slots": [
+      4,
+      3
+    ],
+    "skills": [
+      {
+        "name": "Powder Mantle",
+        "level": 1
+      },
+      {
+        "name": "Master's Touch",
+        "level": 2
+      },
+      {
+        "name": "Ballistics",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "xxx",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "493",
+    "setName": "Risen Kaiser",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Risen Kaiser Cuisse",
+    "defense": 124,
+    "resistances": {
+      "fire": 4,
+      "water": -4,
+      "ice": -1,
+      "thunder": 1,
+      "dragon": -3
+    },
+    "slots": [
+      4,
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Teostra Blessing",
+        "level": 2
+      },
+      {
+        "name": "Weakness Exploit",
+        "level": 1
+      },
+      {
+        "name": "Critical Element",
+        "level": 2
+      },
+      {
+        "name": "Fire Attack",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "xxx",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "493",
+    "setName": "Risen Kaiser",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Nephilim Helm",
+    "defense": 118,
+    "resistances": {
+      "fire": -4,
+      "water": 3,
+      "ice": 2,
+      "thunder": -2,
+      "dragon": -4
+    },
+    "slots": [
+      4,
+      2
+    ],
+    "skills": [
+      {
+        "name": "Strife",
+        "level": 1
+      },
+      {
+        "name": "Critical Eye",
+        "level": 2
+      },
+      {
+        "name": "Element Exploit",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "xxx",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "495",
+    "setName": "Nephilim",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Nephilim Mail",
+    "defense": 118,
+    "resistances": {
+      "fire": -4,
+      "water": 3,
+      "ice": 2,
+      "thunder": -2,
+      "dragon": -4
+    },
+    "slots": [
+      3,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Strife",
+        "level": 1
+      },
+      {
+        "name": "Critical Eye",
+        "level": 2
+      },
+      {
+        "name": "Critical Boost",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "xxx",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "495",
+    "setName": "Nephilim",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Nephilim Vambraces",
+    "defense": 118,
+    "resistances": {
+      "fire": -4,
+      "water": 3,
+      "ice": 2,
+      "thunder": -2,
+      "dragon": -4
+    },
+    "slots": [
+      3
+    ],
+    "skills": [
+      {
+        "name": "Berserk",
+        "level": 1
+      },
+      {
+        "name": "Bloodlust",
+        "level": 1
+      },
+      {
+        "name": "Resentment",
+        "level": 3
+      }
+    ],
+    "kiranicoURL": "xxx",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "495",
+    "setName": "Nephilim",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Nephilim Tassets",
+    "defense": 118,
+    "resistances": {
+      "fire": -4,
+      "water": 3,
+      "ice": 2,
+      "thunder": -2,
+      "dragon": -4
+    },
+    "slots": [
+      3,
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Strife",
+        "level": 1
+      },
+      {
+        "name": "Critical Eye",
+        "level": 2
+      },
+      {
+        "name": "Resentment",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "xxx",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "495",
+    "setName": "Nephilim",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Nephilim Greaves",
+    "defense": 118,
+    "resistances": {
+      "fire": -4,
+      "water": 3,
+      "ice": 2,
+      "thunder": -2,
+      "dragon": -4
+    },
+    "slots": [
+      3
+    ],
+    "skills": [
+      {
+        "name": "Berserk",
+        "level": 1
+      },
+      {
+        "name": "Bloodlust",
+        "level": 1
+      },
+      {
+        "name": "Coalescence",
+        "level": 3
+      }
+    ],
+    "kiranicoURL": "xxx",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "495",
+    "setName": "Nephilim",
+    "pool": "6",
+    "budget": 10
   }
 ]

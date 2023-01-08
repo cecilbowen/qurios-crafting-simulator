@@ -894,28 +894,28 @@
     "name": "Chameleos Blessing",
     "description": "Gain the power of the elder dragon Chameleos.\n\nLv 1 Sometimes increases the effects of Spiribirds.\n\nLv 2 Also negates minor and major wind pressure.\n\nLv 3 Also extends the duration of your poison's effect on monsters.\n\nLv 4 Also negates all wind pressure.",
     "id": "99",
-    "cost": -1,
+    "cost": 6,
     "maxLevel": 4,
     "url": "https://mhrise.kiranico.com/data/skills/1743214542",
-    "augmentable": false
+    "augmentable": true
   },
   {
     "name": "Kushala Blessing",
     "description": "Gain the power of the elder dragon Kushala Daora.\n\nLv 1 Water and ice attack +5%\n\nLv 2 Water and ice attack +10%\n\nLv 3 Also allows recovery to exceed the red portion of the health gauge.\n\nLv 4 Also nullifies heat damage.",
     "id": "100",
-    "cost": -1,
+    "cost": 6,
     "maxLevel": 4,
     "url": "https://mhrise.kiranico.com/data/skills/1622706159",
-    "augmentable": false
+    "augmentable": true
   },
   {
     "name": "Teostra Blessing",
     "description": "Gain the power of the elder dragon Teostra.\n\nLv 1 Fire attack and blast buildup +5%\n\nLv 2 Fire attack and blast buildup +10%\n\nLv 3 Also prevents poison and venom.\n\nLv 4 Also negates theft.",
     "id": "101",
-    "cost": -1,
+    "cost": 6,
     "maxLevel": 4,
     "url": "https://mhrise.kiranico.com/data/skills/1636956044",
-    "augmentable": false
+    "augmentable": true
   },
   {
     "name": "Dragonheart",
@@ -1002,10 +1002,10 @@
     "name": "Blood Rite",
     "description": "A proportion of damage dealt is converted to health when striking a broken monster part.",
     "id": "200",
-    "cost": -1,
+    "cost": 12,
     "maxLevel": 3,
     "url": "https://mhrise.kiranico.com/data/skills/337057370",
-    "augmentable": false
+    "augmentable": true
   },
   {
     "name": "Dereliction",
@@ -1020,10 +1020,10 @@
     "name": "Furious",
     "description": "Using the Red Scroll builds your fury while fighting monsters. Swapping to the Blue Scroll when your fury is full gives you infinite stamina temporarily.",
     "id": "202",
-    "cost": -1,
+    "cost": 9,
     "maxLevel": 3,
     "url": "https://mhrise.kiranico.com/data/skills/398571032",
-    "augmentable": false
+    "augmentable": true
   },
   {
     "name": "Mail of Hellfire",
@@ -1047,10 +1047,10 @@
     "name": "Bloodlust",
     "description": "The effects of the Frenzy virus change. Health is gradually reduced, but you gain a variety of effects. Frenzy virus occurs regularly when in combat.",
     "id": "205",
-    "cost": -1,
+    "cost": 12,
     "maxLevel": 3,
     "url": "https://mhrise.kiranico.com/data/skills/307594751",
-    "augmentable": false
+    "augmentable": true
   },
   {
     "name": "Defiance",
@@ -1074,10 +1074,10 @@
     "name": "Adrenaline Rush",
     "description": "Perform a perfectly-timed evade just as a monster attacks for a temporary attack boost\n\nLevel 1: While active, temporary attack power +10\n\nLevel 2: While active, temporary attack power +15\n\nLevel 3: While active, temporary attack power +30",
     "id": "208",
-    "cost": -1,
+    "cost": 9,
     "maxLevel": 3,
     "url": "https://mhrise.kiranico.com/data/skills/517576018",
-    "augmentable": false
+    "augmentable": true
   },
   {
     "name": "Redirection",
@@ -1164,10 +1164,10 @@
     "name": "Element Exploit",
     "description": "Increases damage when exploiting a foe's elemental weakness.Lv 1 Attacks that hit weak spots do +10% elemental damage\n\nLv 2 Attacks that hit weak spots do +12.5% elemental damage\n\nLv 3 Attacks that hit weak spots do +15% elemental damage",
     "id": "218",
-    "cost": -1,
+    "cost": 9,
     "maxLevel": 3,
     "url": "https://mhrise.kiranico.com/data/skills/22983784",
-    "augmentable": false
+    "augmentable": true
   },
   {
     "name": "Chain Crit",
@@ -1182,19 +1182,19 @@
     "name": "Guts",
     "description": "Prevents fainting one time only when damage taken exceeds a certain amount of your remaining health.\n\nLevel 1: Activate effect when vitality is 80 or higher\n\nLevel 2: Activate effect when vitality is 72 or higher\n\nLevel 3: Activate effect when vitality is 64 or higher",
     "id": "220",
-    "cost": -1,
+    "cost": 15,
     "maxLevel": 3,
     "url": "https://mhrise.kiranico.com/data/skills/50943022",
-    "augmentable": false
+    "augmentable": true
   },
   {
     "name": "Status Trigger",
     "description": "Perform a perfectly-timed evade just as a monster attacks to trigger abnormal status buildup on hit.\n\nLevel 1: While active, effect duration is 5 seconds\n\nLevel 2: While active, effect duration is 8 seconds\n\nLevel 3: While active, effect duration is 12 seconds",
     "id": "222",
-    "cost": -1,
+    "cost": 9,
     "maxLevel": 3,
     "url": "https://mhrise.kiranico.com/data/skills/247196652",
-    "augmentable": false
+    "augmentable": true
   },
   {
     "name": "Intrepid Heart",
@@ -1209,10 +1209,10 @@
     "name": "Buildup Boost",
     "description": "Increases attack power when you land attacks that build poison, paralysis, sleep, blast, or exhaust. (Exhaust - ammo/phials/coatings only)\n\nLevel 1: While active, increases attack power by 10%\n\nLevel 1: While active, increases attack power by 15%\n\nLevel 1: While active, increases attack power by 20%",
     "id": "224",
-    "cost": -1,
+    "cost": 12,
     "maxLevel": 3,
     "url": "https://mhrise.kiranico.com/data/skills/247196652",
-    "augmentable": false
+    "augmentable": true
   },
   {
     "name": "Embolden",
@@ -1231,5 +1231,41 @@
     "maxLevel": 3,
     "url": "https://mhrise.kiranico.com/data/skills/37217289",
     "augmentable": true
+  },
+  {
+    "name": "Berserk",
+    "description": "Switch to the Blue Swap Scroll and all vitality will change to red gauge and start decreasing. As long as you have red you cannot faint.\n\nLevel 1: Activate Effect\n\nLevel 2: Slows the speed at which your red gauge depletes when using the Blue Swap Scroll.",
+    "id": "225",
+    "cost": -1,
+    "maxLevel": 2,
+    "url": "https://mhrise.kiranico.com/data/skills/156236611",
+    "augmentable": false
+  },
+  {
+    "name": "Wind Mantle",
+    "description": "Using Silkbind attacks boosts Wirebug Gauge recovery. Landing continuous attacks increases the effect. Wears off when you sheathe your weapon.\n\nLevel 1: Activate Effect\n\nLevel 2: Boosts recovery speed.\n\nLevel 3: Further boosts recovery speed.",
+    "id": "226",
+    "cost": -1,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/169945952",
+    "augmentable": false
+  },
+  {
+    "name": "Powder Mantle",
+    "description": "Continuously attacking a large monster will cause powder to form around you. The color and effects of the powder will change over time.\n\nLevel 1: Get sent flying when wreathed in red powder and you'll receive explosive damage. Attack when in blue for an explosive finish.\n\nLevel 2: Reduces required hit count.\n\nLevel 3: Further reduces required hit count.",
+    "id": "227",
+    "cost": -1,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/888838913",
+    "augmentable": false
+  },
+  {
+    "name": "Strife",
+    "description": "Increases elemental attack and affinity in proportion to the length of your red health gauge.\n\nLevel 1: Increases attack power in accordance to gauge length.\n\nLevel 2: Further increases attack power in accordance to gauge length.\n\nLevel 3: Further increases attack power in accordance with gauge length. Max out attack for an infinite stamina effect.",
+    "id": "233",
+    "cost": -1,
+    "maxLevel": 3,
+    "url": "https://mhrise.kiranico.com/data/skills/840071771",
+    "augmentable": false
   }
 ]

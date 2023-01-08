@@ -1448,5 +1448,49 @@
       "Risen Mizuha Sash",
       "Risen Mizuha Gaiters"
     ]
+  },
+  {
+    "name": "Chaotic Gore",
+    "setID": "494",
+    "pieces": [
+      "Chaotic Helm",
+      "Chaotic Mail",
+      "Chaotic Vambraces",
+      "Chaotic Faulds",
+      "Chaotic Greaves"
+    ]
+  },
+  {
+    "name": "Risen Kushala",
+    "setID": "492",
+    "pieces": [
+      "Risen Kushala Glare",
+      "Risen Kushala Iram",
+      "Risen Kushala Grande",
+      "Risen Kushala Cocoon",
+      "Risen Kushala Crus"
+    ]
+  },
+  {
+    "name": "Risen Kaiser",
+    "setID": "493",
+    "pieces": [
+      "Risen Kaiser Horns",
+      "Risen Kaiser Mail",
+      "Risen Kaiser Braces",
+      "Risen Kaiser Coil",
+      "Risen Kaiser Cuisse"
+    ]
+  },
+  {
+    "name": "Nephilim",
+    "setID": "495",
+    "pieces": [
+      "Nephilim Helm",
+      "Nephilim Mail",
+      "Nephilim Vambraces",
+      "Nephilim Tassets",
+      "Nephilim Greaves"
+    ]
   }
 ]

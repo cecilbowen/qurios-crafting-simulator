@@ -790,5 +790,29 @@
     "id": "491",
     "pool": "6",
     "budget": 10
+  },
+  {
+    "series": "Chaotic Gore",
+    "id": "494",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "series": "Risen Kushala",
+    "id": "492",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "series": "Risen Kaiser",
+    "id": "493",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "series": "Nephilim",
+    "id": "495",
+    "pool": "6",
+    "budget": 10
   }
 ]
