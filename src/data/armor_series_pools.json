@@ -814,5 +814,47 @@
     "id": "495",
     "pool": "6",
     "budget": 10
+  },
+  {
+    "series": "Rimeguard",
+    "id": "498",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "series": "Crimson Valstrax - Epoch",
+    "id": "499",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "series": "Tempest",
+    "id": "500",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "series": "VirtueA",
+    "id": "501",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "series": "PrudenceB",
+    "id": "506",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "series": "Buff Body",
+    "id": "504",
+    "pool": "5",
+    "budget": 12
+  },
+  {
+    "series": "Primordial",
+    "id": "502",
+    "pool": "6",
+    "budget": 10
   }
 ]

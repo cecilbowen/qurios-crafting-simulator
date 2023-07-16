@@ -2301,7 +2301,7 @@
     },
     "slots": [
       3,
-	    2
+      2
     ],
     "skills": [
       {
@@ -2339,7 +2339,7 @@
     },
     "slots": [
       2,
-	    2
+      2
     ],
     "skills": [
       {
@@ -2377,7 +2377,7 @@
     },
     "slots": [
       4,
-	    2
+      2
     ],
     "skills": [
       {
@@ -2419,7 +2419,7 @@
     },
     "slots": [
       4,
-	    1,
+      1,
       1
     ],
     "skills": [
@@ -2458,7 +2458,7 @@
     },
     "slots": [
       4,
-	    1
+      1
     ],
     "skills": [
       {
@@ -2496,7 +2496,7 @@
     },
     "slots": [
       4,
-	    1,
+      1,
       1
     ],
     "skills": [
@@ -2531,7 +2531,7 @@
     },
     "slots": [
       3,
-	    2,
+      2,
       1
     ],
     "skills": [
@@ -2570,7 +2570,7 @@
     },
     "slots": [
       2,
-	    2,
+      2,
       2
     ],
     "skills": [
@@ -2609,7 +2609,7 @@
     },
     "slots": [
       2,
-	    2,
+      2,
       1
     ],
     "skills": [
@@ -2685,7 +2685,7 @@
     },
     "slots": [
       4,
-	    2
+      2
     ],
     "skills": [
       {
@@ -2756,7 +2756,7 @@
     },
     "slots": [
       4,
-	    2,
+      2,
       1
     ],
     "skills": [
@@ -2795,7 +2795,7 @@
     },
     "slots": [
       4,
-	    4
+      4
     ],
     "skills": [
       {
@@ -2829,7 +2829,7 @@
     },
     "slots": [
       4,
-	    1,
+      1,
       1
     ],
     "skills": [
@@ -3614,6 +3614,919 @@
     },
     "setID": "495",
     "setName": "Nephilim",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Rimeguard Helm",
+    "defense": 123,
+    "resistances": {
+      "fire": -3,
+      "water": 2,
+      "ice": 4,
+      "thunder": -1,
+      "dragon": -1
+    },
+    "slots": [
+      3,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Grinder (S)",
+        "level": 3
+      },
+      {
+        "name": "Protective Polish",
+        "level": 1
+      },
+      {
+        "name": "Ammo Up",
+        "level": 3
+      }
+    ],
+    "kiranicoURL": "xxx",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "498",
+    "setName": "Rimeguard",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Rimeguard Mail",
+    "defense": 123,
+    "resistances": {
+      "fire": -3,
+      "water": 2,
+      "ice": 4,
+      "thunder": -1,
+      "dragon": -1
+    },
+    "slots": [
+      4,
+      2,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Frostcraft",
+        "level": 1
+      },
+      {
+        "name": "Quick Sheathe",
+        "level": 3
+      }
+    ],
+    "kiranicoURL": "xxx",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "498",
+    "setName": "Rimeguard",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Rimeguard Gloves",
+    "defense": 123,
+    "resistances": {
+      "fire": -3,
+      "water": 2,
+      "ice": 4,
+      "thunder": -1,
+      "dragon": -1
+    },
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Frostcraft",
+        "level": 1
+      },
+      {
+        "name": "Critical Draw",
+        "level": 3
+      }
+    ],
+    "kiranicoURL": "xxx",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "498",
+    "setName": "Rimeguard",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Rimeguard Coil",
+    "defense": 123,
+    "resistances": {
+      "fire": -3,
+      "water": 2,
+      "ice": 4,
+      "thunder": -1,
+      "dragon": -1
+    },
+    "slots": [
+      3,
+      3,
+      2
+    ],
+    "skills": [
+      {
+        "name": "Frostcraft",
+        "level": 1
+      },
+      {
+        "name": "Focus",
+        "level": 3
+      }
+    ],
+    "kiranicoURL": "xxx",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "498",
+    "setName": "Rimeguard",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Rimeguard Greaves",
+    "defense": 123,
+    "resistances": {
+      "fire": -3,
+      "water": 2,
+      "ice": 4,
+      "thunder": -1,
+      "dragon": -1
+    },
+    "slots": [
+      4,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Ice Attack",
+        "level": 5
+      },
+      {
+        "name": "Critical Element",
+        "level": 3
+      },
+      {
+        "name": "Element Exploit",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "xxx",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "498",
+    "setName": "Rimeguard",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Valstrax Helm - Epoch",
+    "defense": 121,
+    "resistances": {
+      "fire": -2,
+      "water": -2,
+      "ice": -2,
+      "thunder": -2,
+      "dragon": 3
+    },
+    "slots": [
+      4,
+      2
+    ],
+    "skills": [
+      {
+        "name": "Dragon Conversion",
+        "level": 1
+      },
+      {
+        "name": "Latent Power",
+        "level": 2
+      },
+      {
+        "name": "Attack Boost",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "xxx",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "499",
+    "setName": "Crimson Valstrax - Epoch",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Valstrax Mail - Epoch",
+    "defense": 121,
+    "resistances": {
+      "fire": -2,
+      "water": -2,
+      "ice": -2,
+      "thunder": -2,
+      "dragon": 3
+    },
+    "slots": [
+      4,
+      4
+    ],
+    "skills": [
+      {
+        "name": "Dragon Conversion",
+        "level": 1
+      },
+      {
+        "name": "Dragon Resistance",
+        "level": 3
+      },
+      {
+        "name": "Attack Boost",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "xxx",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "499",
+    "setName": "Crimson Valstrax - Epoch",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Valstrax Braces - Epoch",
+    "defense": 121,
+    "resistances": {
+      "fire": -2,
+      "water": -2,
+      "ice": -2,
+      "thunder": -2,
+      "dragon": 3
+    },
+    "slots": [
+      4,
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Critical Boost",
+        "level": 2
+      },
+      {
+        "name": "Latent Power",
+        "level": 2
+      },
+      {
+        "name": "Attack Boost",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "xxx",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "499",
+    "setName": "Crimson Valstrax - Epoch",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Valstrax Coil - Epoch",
+    "defense": 121,
+    "resistances": {
+      "fire": -2,
+      "water": -2,
+      "ice": -2,
+      "thunder": -2,
+      "dragon": 3
+    },
+    "slots": [
+      4,
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Dragon Conversion",
+        "level": 1
+      },
+      {
+        "name": "Stamina Surge",
+        "level": 3
+      },
+      {
+        "name": "Attack Boost",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "xxx",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "499",
+    "setName": "Crimson Valstrax - Epoch",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Valstrax Greaves - Epoch",
+    "defense": 121,
+    "resistances": {
+      "fire": -2,
+      "water": -2,
+      "ice": -2,
+      "thunder": -2,
+      "dragon": 3
+    },
+    "slots": [
+      4,
+      3
+    ],
+    "skills": [
+      {
+        "name": "Critical Boost",
+        "level": 1
+      },
+      {
+        "name": "Stun Resistance",
+        "level": 3
+      },
+      {
+        "name": "Attack Boost",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "xxx",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "499",
+    "setName": "Crimson Valstrax - Epoch",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Tempest Crown",
+    "defense": 125,
+    "resistances": {
+      "fire": -3,
+      "water": 4,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": -5
+    },
+    "slots": [
+      4,
+      3
+    ],
+    "skills": [
+      {
+        "name": "Evade Window",
+        "level": 5
+      }
+    ],
+    "kiranicoURL": "xxx",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "500",
+    "setName": "Tempest",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Tempest Robe",
+    "defense": 125,
+    "resistances": {
+      "fire": -3,
+      "water": 4,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": -5
+    },
+    "slots": [
+      4,
+      4,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Heaven-Sent",
+        "level": 1
+      },
+      {
+        "name": "Critical Boost",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "xxx",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "500",
+    "setName": "Tempest",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Tempest Sleeves",
+    "defense": 125,
+    "resistances": {
+      "fire": -3,
+      "water": 4,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": -5
+    },
+    "slots": [
+      4,
+      4,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Heaven-Sent",
+        "level": 1
+      },
+      {
+        "name": "Latent Power",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "xxx",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "500",
+    "setName": "Tempest",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Tempest Obi",
+    "defense": 125,
+    "resistances": {
+      "fire": -3,
+      "water": 4,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": -5
+    },
+    "slots": [
+      4,
+      3
+    ],
+    "skills": [
+      {
+        "name": "Latent Power",
+        "level": 4
+      }
+    ],
+    "kiranicoURL": "xxx",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "500",
+    "setName": "Tempest",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Tempest Hakama",
+    "defense": 125,
+    "resistances": {
+      "fire": -3,
+      "water": 4,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": -5
+    },
+    "slots": [
+      4,
+      4
+    ],
+    "skills": [
+      {
+        "name": "Heaven-Sent",
+        "level": 1
+      },
+      {
+        "name": "Critical Boost",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "xxx",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "500",
+    "setName": "Tempest",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Virtue HelmA",
+    "defense": 122,
+    "resistances": {
+      "fire": -2,
+      "water": 2,
+      "ice": 2,
+      "thunder": -1,
+      "dragon": -4
+    },
+    "slots": [
+      4,
+      4
+    ],
+    "skills": [
+      {
+        "name": "Redirection",
+        "level": 2
+      },
+      {
+        "name": "Defiance",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "xxx",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "501",
+    "setName": "VirtueA",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Virtue MailA",
+    "defense": 122,
+    "resistances": {
+      "fire": -2,
+      "water": 2,
+      "ice": 2,
+      "thunder": -1,
+      "dragon": -4
+    },
+    "slots": [
+      3,
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Strife",
+        "level": 2
+      },
+      {
+        "name": "Handicraft",
+        "level": 3
+      },
+      {
+        "name": "Ammo Up",
+        "level": 3
+      }
+    ],
+    "kiranicoURL": "xxx",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "501",
+    "setName": "VirtueA",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Virtue BracesA",
+    "defense": 122,
+    "resistances": {
+      "fire": -2,
+      "water": 2,
+      "ice": 2,
+      "thunder": -1,
+      "dragon": -4
+    },
+    "slots": [
+      3,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Frenzied Bloodlust",
+        "level": 1
+      },
+      {
+        "name": "Bloodlust",
+        "level": 1
+      },
+      {
+        "name": "Attack Boost",
+        "level": 3
+      }
+    ],
+    "kiranicoURL": "xxx",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "501",
+    "setName": "VirtueA",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Virtue CoilA",
+    "defense": 122,
+    "resistances": {
+      "fire": -2,
+      "water": 2,
+      "ice": 2,
+      "thunder": -1,
+      "dragon": -4
+    },
+    "slots": [
+      4,
+      2
+    ],
+    "skills": [
+      {
+        "name": "Frenzied Bloodlust",
+        "level": 1
+      },
+      {
+        "name": "Bloodlust",
+        "level": 1
+      },
+      {
+        "name": "Weakness Exploit",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "xxx",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "501",
+    "setName": "VirtueA",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Virtue GreavesA",
+    "defense": 122,
+    "resistances": {
+      "fire": -2,
+      "water": 2,
+      "ice": 2,
+      "thunder": -1,
+      "dragon": -4
+    },
+    "slots": [
+      4,
+      3,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Frenzied Bloodlust",
+        "level": 1
+      },
+      {
+        "name": "Bloodlust",
+        "level": 1
+      },
+      {
+        "name": "Strife",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "xxx",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "501",
+    "setName": "VirtueA",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Prudence HelmB",
+    "defense": 122,
+    "resistances": {
+      "fire": -2,
+      "water": 2,
+      "ice": 2,
+      "thunder": -1,
+      "dragon": -4
+    },
+    "slots": [
+      4,
+      4
+    ],
+    "skills": [
+      {
+        "name": "Redirection",
+        "level": 2
+      },
+      {
+        "name": "Defiance",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "xxx",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "506",
+    "setName": "PrudenceB",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Prudence MailB",
+    "defense": 122,
+    "resistances": {
+      "fire": -2,
+      "water": 2,
+      "ice": 2,
+      "thunder": -1,
+      "dragon": -4
+    },
+    "slots": [
+      3,
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Strife",
+        "level": 2
+      },
+      {
+        "name": "Handicraft",
+        "level": 3
+      },
+      {
+        "name": "Ammo Up",
+        "level": 3
+      }
+    ],
+    "kiranicoURL": "xxx",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "506",
+    "setName": "PrudenceB",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Prudence BracesB",
+    "defense": 122,
+    "resistances": {
+      "fire": -2,
+      "water": 2,
+      "ice": 2,
+      "thunder": -1,
+      "dragon": -4
+    },
+    "slots": [
+      3,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Frenzied Bloodlust",
+        "level": 1
+      },
+      {
+        "name": "Bloodlust",
+        "level": 1
+      },
+      {
+        "name": "Attack Boost",
+        "level": 3
+      }
+    ],
+    "kiranicoURL": "xxx",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "506",
+    "setName": "PrudenceB",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Prudence CoilB",
+    "defense": 122,
+    "resistances": {
+      "fire": -2,
+      "water": 2,
+      "ice": 2,
+      "thunder": -1,
+      "dragon": -4
+    },
+    "slots": [
+      4,
+      2
+    ],
+    "skills": [
+      {
+        "name": "Frenzied Bloodlust",
+        "level": 1
+      },
+      {
+        "name": "Bloodlust",
+        "level": 1
+      },
+      {
+        "name": "Weakness Exploit",
+        "level": 2
+      }
+    ],
+    "kiranicoURL": "xxx",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "506",
+    "setName": "PrudenceB",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Prudence GreavesB",
+    "defense": 122,
+    "resistances": {
+      "fire": -2,
+      "water": 2,
+      "ice": 2,
+      "thunder": -1,
+      "dragon": -4
+    },
+    "slots": [
+      4,
+      3,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Frenzied Bloodlust",
+        "level": 1
+      },
+      {
+        "name": "Bloodlust",
+        "level": 1
+      },
+      {
+        "name": "Strife",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "xxx",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "506",
+    "setName": "PrudenceB",
     "pool": "6",
     "budget": 10
   }

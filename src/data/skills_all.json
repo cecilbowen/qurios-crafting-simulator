@@ -921,10 +921,10 @@
     "name": "Dragonheart",
     "description": "Draconic energy fills you after losing a certain amount of health. Weapons lose all non-dragon effects.\n\nLv 1 When your health is at 50% or less, you contract dragonblight, and all elemental resistances are set to 30.\n\nLv 2 When your health is at 50% or less, you contract dragonblight, and all elemental resistances are set to 50.\n\nLv 3 When your health is at 70% or less, you contract dragonblight, and all elemental resistances are set to 50.\n\nLv 4 Contract dragonblight when at 70% health or less. Sets Elemental resistances to 50 and gain +5% attack power.\n\nLv 5 Contract dragonblight when at 80% health or less. Sets Elemental resistances to 50 and gain +10% attack power.",
     "id": "102",
-    "cost": -1,
+    "cost": 9,
     "maxLevel": 5,
     "url": "https://mhrise.kiranico.com/data/skills/1651189677",
-    "augmentable": false
+    "augmentable": true
   },
   {
     "name": "Wirebug Whisperer",
@@ -1029,10 +1029,10 @@
     "name": "Mail of Hellfire",
     "description": "Decreases defense but increases attack. Exact changes to stats depends on Switch Skill Swap Scroll that is being used.",
     "id": "203",
-    "cost": -1,
+    "cost": 9,
     "maxLevel": 3,
     "url": "https://mhrise.kiranico.com/data/skills/278586937",
-    "augmentable": false
+    "augmentable": true
   },
   {
     "name": "Coalescence",
@@ -1065,10 +1065,10 @@
     "name": "Sneak Attack",
     "description": "Increases damage to large monsters when attacks hit them from behind.\n\nLevel 1: While active, increases attack power by 5%\n\nLevel 1: While active, increases attack power by 10%\n\nLevel 1: While active, increases attack power by 20%",
     "id": "207",
-    "cost": -1,
+    "cost": 12,
     "maxLevel": 3,
     "url": "https://mhrise.kiranico.com/data/skills/469771709",
-    "augmentable": false
+    "augmentable": true
   },
   {
     "name": "Adrenaline Rush",
@@ -1200,10 +1200,10 @@
     "name": "Intrepid Heart",
     "description": "After filling the gauge by continuously landing attacks, negates damage reactions and reduces damage taken from a single attack that would knock you back.\n\nLevel 1: Activate Effect\n\nLevel 2: When activated, damage received is further reduced and will detonate an explosion",
     "id": "223",
-    "cost": -1,
+    "cost": 6,
     "maxLevel": 2,
     "url": "https://mhrise.kiranico.com/data/skills/247196652",
-    "augmentable": false
+    "augmentable": true
   },
   {
     "name": "Buildup Boost",
@@ -1218,10 +1218,10 @@
     "name": "Embolden",
     "description": "When targeted by a monster, that monster becomes more likely to become enraged but your own defense is increased.\n\nLevel 1: While active, defense +10, slightly prolongs dodging invincibility and slightly lowers impact when guarding\n\nLevel 2: While active, defense +20, prolongs invincibility when dodging and lowers impact when guarding\n\nLevel 3: While active, defense +40, greatly prolongs dodging invincibility and greatly lowers impact when guarding",
     "id": "209",
-    "cost": -1,
+    "cost": 6,
     "maxLevel": 3,
     "url": "https://mhrise.kiranico.com/data/skills/247196652",
-    "augmentable": false
+    "augmentable": true
   },
   {
     "name": "Burst",
@@ -1245,27 +1245,72 @@
     "name": "Wind Mantle",
     "description": "Using Silkbind attacks boosts Wirebug Gauge recovery. Landing continuous attacks increases the effect. Wears off when you sheathe your weapon.\n\nLevel 1: Activate Effect\n\nLevel 2: Boosts recovery speed.\n\nLevel 3: Further boosts recovery speed.",
     "id": "226",
-    "cost": -1,
+    "cost": 9,
     "maxLevel": 3,
     "url": "https://mhrise.kiranico.com/data/skills/169945952",
-    "augmentable": false
+    "augmentable": true
   },
   {
     "name": "Powder Mantle",
     "description": "Continuously attacking a large monster will cause powder to form around you. The color and effects of the powder will change over time.\n\nLevel 1: Get sent flying when wreathed in red powder and you'll receive explosive damage. Attack when in blue for an explosive finish.\n\nLevel 2: Reduces required hit count.\n\nLevel 3: Further reduces required hit count.",
     "id": "227",
-    "cost": -1,
+    "cost": 9,
     "maxLevel": 3,
     "url": "https://mhrise.kiranico.com/data/skills/888838913",
-    "augmentable": false
+    "augmentable": true
   },
   {
     "name": "Strife",
     "description": "Increases elemental attack and affinity in proportion to the length of your red health gauge.\n\nLevel 1: Increases attack power in accordance to gauge length.\n\nLevel 2: Further increases attack power in accordance to gauge length.\n\nLevel 3: Further increases attack power in accordance with gauge length. Max out attack for an infinite stamina effect.",
     "id": "233",
-    "cost": -1,
+    "cost": 9,
     "maxLevel": 3,
     "url": "https://mhrise.kiranico.com/data/skills/840071771",
+    "augmentable": true
+  },
+  {
+    "name": "Frostcraft",
+    "description": "An aura of frost builds when your weapon is sheathed, raising attack. The effect decreases with each melee hit or shot/arrow fired.\n\nLevel 1: Activate effect\n\nLevel 2: Extends the Frost Gauge.\n\nLevel 3: Extends the Frost Gauge even further.",
+    "id": "228",
+    "cost": 12,
+    "maxLevel": 3,
+    "url": "http://mhrise.mhrice.info/skill/PlayerSkill_228.html",
+    "augmentable": true
+  },
+  {
+    "name": "Dragon Conversion",
+    "description": "When using the Red Swap Scroll, all elemental resistance is set to 0 and converted into elemental attack. The Blue Swap Scroll raises elemental resistance.\n\nLevel 1: Activate effect All elemental resistances +3\n\nLevel 2: All elemental resistances +5. When using the Blue Swap Scroll, resistance buildup increases when continuously attacking.\n\nLevel 3: All elemental resistances +10. When using the Red Swap Scroll, the conversion rate for elemental attacks increases.",
+    "id": "229",
+    "cost": 12,
+    "maxLevel": 3,
+    "url": "http://mhrise.mhrice.info/skill/PlayerSkill_229.html",
+    "augmentable": true
+  },
+  {
+    "name": "Heaven-Sent",
+    "description": "Activates when not taking damage for a while during combat with a large monster. The effect is lost when you are knocked back or stray too far away from the monster.\n\nLevel 1: Decreases damage once and reduces stamina consumption while active. Performing a Switch Skill Swap will recover sharpness and reload ammo.\n\nLevel 2: Reduces time until activation\n\nLevel 3: Also nullifies stamina and sharp- ness consumption. Performing a Switch Skill Swap removes or reduces status ailments.",
+    "id": "230",
+    "cost": -1,
+    "maxLevel": 3,
+    "url": "http://mhrise.mhrice.info/skill/PlayerSkill_230.html",
+    "augmentable": false
+  },
+  {
+    "name": "Frenzied Bloodlust",
+    "description": "Temporarily gain an additional Wirebug when overcoming the Frenzy. The effect duration decreases drastically when your weapon is sheathed.\n\nLevel 1: Effect duration: 30 seconds\n\nLevel 2: Effect duration: 60 seconds\n\nLevel 3: Effect duration: 90 seconds",
+    "id": "231",
+    "cost": 9,
+    "maxLevel": 3,
+    "url": "http://mhrise.mhrice.info/skill/PlayerSkill_231.html",
+    "augmentable": true
+  },
+  {
+    "name": "Shock Absorber",
+    "description": "Disables damage reactions when you hit a friend or when a friend hits you. (Does not apply during certain status ailments.)\n\nLevel 1: Activate effect",
+    "id": "234",
+    "cost": -1,
+    "maxLevel": 1,
+    "url": "http://mhrise.mhrice.info/skill/PlayerSkill_234.html",
     "augmentable": false
   }
 ]

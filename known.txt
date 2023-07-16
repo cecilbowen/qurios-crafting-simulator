@@ -2,5 +2,5 @@
 - mobile can look wonky
 - editing the number input fields can be annoying if not using mouse wheel/number arrows
 - editing skill/armor datalists requires ENTER key press or un-focus to take effect.  probably annoying for some
-- update TU2/TU3 armor images/urls when available on kiranico
+- update TU2/TU3/TU4/TU5 armor images/urls when available on any good site I find (kiranico is a lost cause)
 - update kiranicoURL on all new armor pieces (not used currently, so doesn't really matter)

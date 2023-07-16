@@ -7333,5 +7333,142 @@
     "setName": "Guild Palace",
     "pool": "6",
     "budget": 10
+  },
+  {
+    "name": "Buff Chest",
+    "defense": 120,
+    "resistances": {
+      "fire": 2,
+      "water": -1,
+      "ice": 0,
+      "thunder": -1,
+      "dragon": -3
+    },
+    "slots": [
+      4,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Agitator",
+        "level": 3
+      },
+      {
+        "name": "Guts",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "xxx",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "504",
+    "setName": "Buff Body",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Buff Arms",
+    "defense": 120,
+    "resistances": {
+      "fire": 2,
+      "water": -1,
+      "ice": 0,
+      "thunder": -1,
+      "dragon": -3
+    },
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Attack Boost",
+        "level": 2
+      },
+      {
+        "name": "Heroics",
+        "level": 3
+      }
+    ],
+    "kiranicoURL": "xxx",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "504",
+    "setName": "Buff Body",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Buff Waist",
+    "defense": 120,
+    "resistances": {
+      "fire": 2,
+      "water": -1,
+      "ice": 0,
+      "thunder": -1,
+      "dragon": -3
+    },
+    "slots": [
+      3,
+      2
+    ],
+    "skills": [
+      {
+        "name": "Attack Boost",
+        "level": 2
+      },
+      {
+        "name": "Guts",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "xxx",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "504",
+    "setName": "Buff Body",
+    "pool": "6",
+    "budget": 10
+  },
+  {
+    "name": "Buff Legs",
+    "defense": 120,
+    "resistances": {
+      "fire": 2,
+      "water": -1,
+      "ice": 0,
+      "thunder": -1,
+      "dragon": -3
+    },
+    "slots": [
+      4,
+      1
+    ],
+    "skills": [
+      {
+        "name": "Attack Boost",
+        "level": 3
+      },
+      {
+        "name": "Fortify",
+        "level": 1
+      }
+    ],
+    "kiranicoURL": "xxx",
+    "imageURLs": {
+      "male": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_m.webp",
+      "female": "http://cdn.kiranico.net/file/kiranico/mhrise-web/avatar/armors/1320147679_f.webp"
+    },
+    "setID": "504",
+    "setName": "Buff Body",
+    "pool": "6",
+    "budget": 10
   }
 ]

@@ -1492,5 +1492,81 @@
       "Nephilim Tassets",
       "Nephilim Greaves"
     ]
+  },
+  {
+    "name": "Rimeguard",
+    "setID": "498",
+    "pieces": [
+      "Rimeguard Helm",
+      "Rimeguard Mail",
+      "Rimeguard Gloves",
+      "Rimeguard Coil",
+      "Rimeguard Greaves"
+    ]
+  },
+  {
+    "name": "Crimson Valstrax - Epoch",
+    "setID": "499",
+    "pieces": [
+      "Valstrax Helm - Epoch",
+      "Valstrax Mail - Epoch",
+      "Valstrax Braces - Epoch",
+      "Valstrax Coil - Epoch",
+      "Valstrax Greaves - Epoch"
+    ]
+  },
+  {
+    "name": "Tempest",
+    "setID": "500",
+    "pieces": [
+      "Tempest Crown",
+      "Tempest Robe",
+      "Tempest Sleeves",
+      "Tempest Obi",
+      "Tempest Hakama"
+    ]
+  },
+  {
+    "name": "VirtueA",
+    "setID": "501",
+    "pieces": [
+      "Virtue HelmA",
+      "Virtue MailA",
+      "Virtue BracesA",
+      "Virtue CoilA",
+      "Virtue GreavesA"
+    ]
+  },
+  {
+    "name": "PrudenceB",
+    "setID": "506",
+    "pieces": [
+      "Prudence HelmB",
+      "Prudence MailB",
+      "Prudence BracesB",
+      "Prudence CoilB",
+      "Prudence GreavesB"
+    ]
+  },
+  {
+    "name": "Buff Body",
+    "setID": "504",
+    "pieces": [
+      "Buff Chest",
+      "Buff Arms",
+      "Buff Waist",
+      "Buff Legs"
+    ]
+  },
+  {
+    "name": "Primordial",
+    "setID": "502",
+    "pieces": [
+      "Primordial Helm",
+      "Primordial Mail",
+      "Primordial Vambraces",
+      "Primordial Coil",
+      "Primordial Greaves"
+    ]
   }
 ]

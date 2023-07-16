@@ -1,5 +1,6 @@
 {
   "name": "sunbreak-qurious-simulator",
+  "homepage": "https://cecilbowen.github.io/qurios-crafting-simulator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
